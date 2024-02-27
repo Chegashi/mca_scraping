@@ -1,0 +1,739 @@
+2024-02-20 21:20:54,444 - INFO - Start scraping script
+2024-02-20 21:20:54,444 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:20:57,774 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:20:57,774 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:20:59,751 - INFO - Extract 10 offer boxes
+2024-02-20 21:20:59,751 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:20:59,751 - WARNING - Error occurred in scrap_one_page: 'NoneType' object is not subscriptable
+2024-02-20 21:22:38,332 - INFO - Start scraping script
+2024-02-20 21:22:38,337 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:22:44,089 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:22:44,089 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:22:46,846 - INFO - Extract 10 offer boxes
+2024-02-20 21:22:46,846 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:22:46,846 - WARNING - Error occurred in scrap_one_page: 'NoneType' object is not subscriptable
+2024-02-20 21:26:53,361 - INFO - Start scraping script
+2024-02-20 21:26:53,361 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:26:59,196 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:26:59,196 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:12,747 - INFO - Extract 10 offer boxes
+2024-02-20 21:27:12,748 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:36,710 - INFO - Start scraping script
+2024-02-20 21:27:36,710 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:41,790 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:41,790 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:44,019 - INFO - Extract 10 offer boxes
+2024-02-20 21:27:44,019 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:51,767 - INFO - Start scraping script
+2024-02-20 21:27:51,767 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:53,260 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:53,260 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:55,026 - INFO - Extract 10 offer boxes
+2024-02-20 21:27:55,026 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:27:55,026 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,026 - INFO - Scraped offer data number: 2 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,026 - INFO - Scraped offer data number: 3 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,027 - INFO - Scraped offer data number: 4 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,027 - INFO - Scraped offer data number: 5 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,027 - INFO - Scraped offer data number: 6 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,027 - INFO - Scraped offer data number: 7 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,027 - INFO - Scraped offer data number: 8 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,027 - INFO - Scraped offer data number: 9 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:27:55,027 - INFO - Scraped offer data number: 10 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:36,593 - INFO - Start scraping script
+2024-02-20 21:28:36,594 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:28:44,920 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:28:44,920 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:28:56,021 - INFO - Extract 10 offer boxes
+2024-02-20 21:28:56,021 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:28:56,021 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,021 - INFO - Scraped offer data number: 2 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,021 - INFO - Scraped offer data number: 3 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,021 - INFO - Scraped offer data number: 4 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,021 - INFO - Scraped offer data number: 5 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,022 - INFO - Scraped offer data number: 6 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,022 - INFO - Scraped offer data number: 7 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,022 - INFO - Scraped offer data number: 8 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,022 - INFO - Scraped offer data number: 9 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:28:56,022 - INFO - Scraped offer data number: 10 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:17,179 - INFO - Start scraping script
+2024-02-20 21:32:17,183 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:32:32,795 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:32:32,795 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:32:44,606 - INFO - Extract 10 offer boxes
+2024-02-20 21:32:44,606 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 2 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 3 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 4 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 5 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 6 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 7 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 8 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 9 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 21:32:44,607 - INFO - Scraped offer data number: 10 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:42,504 - INFO - Start scraping script
+2024-02-20 23:37:42,507 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 23:37:45,578 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 23:37:45,578 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 23:37:47,640 - INFO - Extract 10 offer boxes
+2024-02-20 23:37:47,640 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 23:37:47,640 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,640 - INFO - Scraped offer data number: 2 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,640 - INFO - Scraped offer data number: 3 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,640 - INFO - Scraped offer data number: 4 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,640 - INFO - Scraped offer data number: 5 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,641 - INFO - Scraped offer data number: 6 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,641 - INFO - Scraped offer data number: 7 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,641 - INFO - Scraped offer data number: 8 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,641 - INFO - Scraped offer data number: 9 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:37:47,641 - INFO - Scraped offer data number: 10 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-20 23:39:45,555 - INFO - Start scraping script
+2024-02-20 23:39:45,555 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-20 23:39:48,007 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 23:39:48,010 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-20 23:39:53,664 - INFO - Extract 10 offer boxes
+2024-02-20 23:39:53,664 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-20 23:39:53,664 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-20 23:39:56,586 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-20 23:39:56,586 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-20 23:39:56,587 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-20 23:39:56,588 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-20 23:39:56,589 - WARNING - Company name of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-20 23:39:56,590 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-20 23:39:56,590 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-20 23:39:56,591 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-20 23:39:56,592 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-20 23:39:56,592 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-20 23:39:56,593 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-20 23:39:56,593 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-20 23:39:56,594 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-20 23:39:56,594 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-20 23:39:56,594 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Societes': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-20 23:39:56,595 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 01:20:08,731 - INFO - Start scraping script
+2024-02-21 01:20:08,734 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:11,943 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:11,943 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:13,666 - INFO - Extract 10 offer boxes
+2024-02-21 01:20:13,666 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:13,666 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 01:20:14,091 - WARNING - Company name of the offer not found. Error: expected string or bytes-like object, got 'Tag'
+2024-02-21 01:20:14,092 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 01:20:14,093 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:14,094 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:20:14,095 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:20:14,095 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:20:14,096 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:14,097 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:14,098 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:14,098 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:20:14,099 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:14,099 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:14,100 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:14,101 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:14,101 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'non spécifié', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 01:20:14,101 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 01:20:29,831 - INFO - Start scraping script
+2024-02-21 01:20:29,831 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:31,336 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:31,336 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:33,022 - INFO - Extract 10 offer boxes
+2024-02-21 01:20:33,024 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:33,024 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 01:20:33,467 - WARNING - Company name of the offer not found. Error: expected string or bytes-like object, got 'Tag'
+2024-02-21 01:20:33,468 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 01:20:33,469 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:33,470 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:20:33,471 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:20:33,472 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:20:33,472 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:33,473 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:33,474 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:33,474 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:20:33,475 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:33,476 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:33,476 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:33,477 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:33,477 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'non spécifié', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 01:20:33,477 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 01:20:52,702 - INFO - Start scraping script
+2024-02-21 01:20:52,702 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:56,755 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:56,755 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:58,418 - INFO - Extract 10 offer boxes
+2024-02-21 01:20:58,418 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:20:58,418 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 01:20:58,889 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 01:20:58,890 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:58,891 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:20:58,892 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:20:58,892 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:20:58,893 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:58,894 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:58,894 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:58,895 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:20:58,896 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:58,896 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:58,897 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:58,898 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:20:58,898 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': '/capital-trust-emploi-recrutement-328355.html', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 01:20:58,898 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 01:30:00,002 - INFO - Start scraping script
+2024-02-21 01:30:00,005 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:30:09,763 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:30:09,763 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:30:16,061 - INFO - Extract 10 offer boxes
+2024-02-21 01:30:16,061 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:30:16,061 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 01:30:18,029 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 01:30:18,030 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:18,031 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:30:18,032 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:30:18,033 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:30:18,033 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:18,034 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:18,034 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:18,035 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:30:18,036 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:18,036 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:18,037 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:18,037 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:18,037 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': '/capital-trust-emploi-recrutement-328355.html', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 01:30:18,038 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 01:30:38,895 - INFO - Start scraping script
+2024-02-21 01:30:38,895 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:30:46,536 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:30:46,536 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:30:48,839 - INFO - Extract 10 offer boxes
+2024-02-21 01:30:48,840 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:30:48,840 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 01:30:49,581 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 01:30:49,582 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:49,583 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:30:49,583 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:30:49,584 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:30:49,585 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:49,585 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:49,586 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:49,586 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:30:49,587 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:49,588 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:49,588 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:49,589 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:30:49,589 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust-', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 01:30:49,589 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 01:31:08,346 - INFO - Start scraping script
+2024-02-21 01:31:08,346 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:31:12,069 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:31:12,069 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:31:14,684 - INFO - Extract 10 offer boxes
+2024-02-21 01:31:14,684 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:31:14,684 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 01:31:15,604 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 01:31:15,605 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:31:15,606 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:31:15,607 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:31:15,607 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:31:15,608 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:31:15,609 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:31:15,609 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:31:15,610 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:31:15,610 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:31:15,611 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:31:15,612 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:31:15,612 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:31:15,612 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 01:31:15,612 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 01:51:11,903 - INFO - Start scraping script
+2024-02-21 01:51:11,906 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:51:16,375 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:51:16,375 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:51:18,518 - INFO - Extract 10 offer boxes
+2024-02-21 01:51:18,518 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 01:51:18,518 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 01:51:19,293 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 01:51:19,294 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:51:19,295 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:51:19,296 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 01:51:19,297 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:51:19,297 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:51:19,298 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:51:19,298 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:51:19,299 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 01:51:19,300 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:51:19,301 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:51:19,301 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:51:19,302 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 01:51:19,302 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 01:51:19,302 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:00:38,618 - INFO - Start scraping script
+2024-02-21 02:00:38,622 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:00:43,070 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:00:43,071 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:00:45,083 - INFO - Extract 10 offer boxes
+2024-02-21 02:00:45,083 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:00:45,083 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:00:45,847 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 02:00:45,848 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:00:45,849 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:00:45,850 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:00:45,851 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:00:45,851 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:00:45,852 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:00:45,853 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:00:45,854 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:00:45,854 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:00:45,855 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:00:45,856 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:00:45,856 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:00:45,857 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:00:45,857 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:02:30,888 - INFO - Start scraping script
+2024-02-21 02:02:30,888 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:02:32,690 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:02:32,690 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:02:34,803 - INFO - Extract 10 offer boxes
+2024-02-21 02:02:34,803 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:02:34,803 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:02:35,555 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 02:02:35,556 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:02:35,557 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:02:35,558 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:02:35,558 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:02:35,559 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:02:35,559 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:02:35,560 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:02:35,560 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:02:35,561 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:02:35,562 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:02:35,562 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:02:35,563 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:02:35,563 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:02:35,563 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:03:41,350 - INFO - Start scraping script
+2024-02-21 02:03:41,350 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:03:43,309 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:03:43,309 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:03:46,493 - INFO - Extract 10 offer boxes
+2024-02-21 02:03:46,493 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:03:46,493 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:03:47,182 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 02:03:47,183 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:03:47,184 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:03:47,185 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:03:47,185 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:03:47,186 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:03:47,187 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:03:47,187 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:03:47,188 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:03:47,189 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:03:47,189 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:03:47,190 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:03:47,191 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:03:47,191 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:03:47,191 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:04:27,472 - INFO - Start scraping script
+2024-02-21 02:04:27,472 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:04:29,433 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:04:29,434 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:04:31,402 - INFO - Extract 10 offer boxes
+2024-02-21 02:04:31,402 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:04:31,402 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:04:32,468 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 02:04:32,468 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:04:32,469 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:04:32,471 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:04:32,471 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:04:32,472 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:04:32,473 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:04:32,473 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:04:32,474 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:04:32,474 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:04:32,475 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:04:32,476 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:04:32,476 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:04:32,476 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:04:32,477 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:04:55,206 - INFO - Start scraping script
+2024-02-21 02:04:55,207 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:04:56,973 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:04:56,974 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:04:59,497 - INFO - Extract 10 offer boxes
+2024-02-21 02:04:59,497 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:04:59,498 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:05:00,229 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 02:05:00,230 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:00,231 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:05:00,232 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:05:00,233 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:05:00,233 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:00,234 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:00,235 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:00,235 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:05:00,236 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:00,237 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:00,237 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:00,238 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:00,238 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:05:00,238 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:05:12,569 - INFO - Start scraping script
+2024-02-21 02:05:12,569 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:05:14,538 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:05:14,538 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:05:16,631 - INFO - Extract 10 offer boxes
+2024-02-21 02:05:16,631 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:05:16,631 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:05:17,360 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 02:05:17,361 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:17,362 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:05:17,363 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:05:17,364 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:05:17,364 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:17,365 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:17,366 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:17,366 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:05:17,367 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:17,368 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:17,368 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:17,369 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:05:17,369 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:05:17,371 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:05:47,736 - INFO - Start scraping script
+2024-02-21 02:06:25,669 - INFO - Start scraping script
+2024-02-21 02:06:25,670 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:06:27,656 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:06:27,656 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:06:29,621 - INFO - Extract 10 offer boxes
+2024-02-21 02:06:29,622 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:06:29,622 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:06:30,369 - WARNING - Title of the job post not found. Error: 'str' object is not callable
+2024-02-21 02:06:30,369 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:06:30,370 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:06:30,371 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:06:30,372 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:06:30,373 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:06:30,373 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:06:30,374 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:06:30,374 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:06:30,375 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:06:30,376 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:06:30,376 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:06:30,377 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:06:30,377 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:06:30,377 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:07:02,374 - INFO - Start scraping script
+2024-02-21 02:07:02,374 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:07:04,270 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:07:04,270 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:07:06,297 - INFO - Extract 10 offer boxes
+2024-02-21 02:07:06,297 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:07:06,297 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:07:07,109 - WARNING - Title of the job post not found. Error: 'str' object is not callable
+2024-02-21 02:07:07,110 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:07,111 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:07:07,112 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:07:07,112 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:07:07,113 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:07,114 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:07,114 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:07,115 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:07:07,115 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:07,116 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:07,117 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:07,117 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:07,118 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:07:07,118 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:07:50,399 - INFO - Start scraping script
+2024-02-21 02:07:50,399 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:07:52,271 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:07:52,271 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:07:54,366 - INFO - Extract 10 offer boxes
+2024-02-21 02:07:54,367 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:07:54,367 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:07:55,138 - WARNING - Title of the job post not found. Error: 'str' object is not callable
+2024-02-21 02:07:55,139 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:55,140 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:07:55,141 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:07:55,141 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:07:55,142 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:55,143 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:55,143 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:55,144 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:07:55,145 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:55,145 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:55,146 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:55,146 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:07:55,146 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:07:55,147 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:08:35,768 - INFO - Start scraping script
+2024-02-21 02:08:35,768 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:08:37,644 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:08:37,644 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:08:39,632 - INFO - Extract 10 offer boxes
+2024-02-21 02:08:39,632 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:08:39,632 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:08:40,812 - WARNING - Title of the job post not found. Error: expected string or bytes-like object, got 'Tag'
+2024-02-21 02:08:40,813 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:08:40,814 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:08:40,815 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:08:40,815 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:08:40,816 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:08:40,817 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:08:40,817 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:08:40,818 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:08:40,818 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:08:40,819 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:08:40,821 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:08:40,821 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:08:40,821 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:08:40,821 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:09:41,046 - INFO - Start scraping script
+2024-02-21 02:09:41,046 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:09:42,808 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:09:42,808 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:09:44,922 - INFO - Extract 10 offer boxes
+2024-02-21 02:09:44,922 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:09:44,922 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:09:45,716 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:09:45,717 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:09:45,718 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:09:45,718 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:09:45,719 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:09:45,719 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:09:45,720 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:09:45,721 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:09:45,721 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:09:45,722 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:09:45,723 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:09:45,723 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:09:45,723 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'Trader Junior - Casablanca', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:09:45,723 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:30:12,403 - INFO - Start scraping script
+2024-02-21 02:30:12,406 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:30:16,850 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:30:16,850 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:30:18,842 - INFO - Extract 10 offer boxes
+2024-02-21 02:30:18,842 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:30:18,842 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:30:19,529 - WARNING - Empty data found in address
+2024-02-21 02:30:19,530 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:30:19,531 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:30:19,532 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:30:19,533 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:30:19,533 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:30:19,534 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:30:19,534 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:30:19,535 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:30:19,536 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:30:19,536 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:30:19,537 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:30:19,537 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:30:19,538 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'Trader Junior - Casablanca', 'Adresses': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:30:19,538 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:30:58,666 - INFO - Start scraping script
+2024-02-21 02:30:58,669 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:31:04,065 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:31:04,065 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:31:06,037 - INFO - Extract 10 offer boxes
+2024-02-21 02:31:06,037 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:31:06,037 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:31:06,734 - WARNING - Empty data found in address
+2024-02-21 02:31:06,734 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:31:06,735 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:31:06,736 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:31:06,737 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:31:06,737 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:31:06,738 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:31:06,739 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:31:06,739 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:31:06,740 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:31:06,741 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:31:06,741 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:31:06,742 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:31:06,742 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'Trader Junior - Casablanca', 'Adresses': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:31:06,742 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:33:25,241 - INFO - Start scraping script
+2024-02-21 02:33:25,241 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:33:27,367 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:33:27,367 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:33:29,290 - INFO - Extract 10 offer boxes
+2024-02-21 02:33:29,291 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:33:29,291 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:33:30,063 - WARNING - Empty data found in address
+2024-02-21 02:33:30,064 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:33:30,065 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:33:30,065 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:33:30,066 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:33:30,067 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:33:30,067 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:33:30,068 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:33:30,069 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:33:30,069 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:33:30,070 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:33:30,071 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:33:30,071 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:33:30,072 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'Trader Junior - Casablanca', 'Adresses': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:33:30,072 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:33,468 - INFO - Start scraping script
+2024-02-21 02:34:33,468 - INFO - Start scraping data for page_offers with URL: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:34:35,295 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:34:35,295 - INFO - The data was fetched from: https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:34:37,260 - INFO - Extract 10 offer boxes
+2024-02-21 02:34:37,260 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-02-21 02:34:37,260 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html
+2024-02-21 02:34:38,315 - WARNING - Empty data found in address
+2024-02-21 02:34:38,315 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,316 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:38,317 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:38,318 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:38,318 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,319 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,320 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,321 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:38,321 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,322 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,323 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,323 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,323 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-trader-junior-recrutement-capital-trust-casablanca-158986.html is => {'Societés': 'capital-trust', 'Postes': 'Trader Junior - Casablanca', 'Adresses': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:38,324 - INFO - Scraped offer data number: 1 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:38,325 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-controleur-de-gestion-junior-hf-recrutement-tersea-casablanca-159038.html
+2024-02-21 02:34:38,666 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,667 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:38,668 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:38,669 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:38,670 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,671 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,672 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,672 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:38,673 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,674 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,674 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,675 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,675 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-controleur-de-gestion-junior-hf-recrutement-tersea-casablanca-159038.html is => {'Societés': 'tersea', 'Postes': 'Contrôleur de gestion Junior H/F - Casablanca', 'Adresses': 'Bd Abdelmoumen, Casablanca 20250', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:38,675 - INFO - Scraped offer data number: 2 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:38,676 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-gestionnaire-de-paie-hf-casablanca-recrutement-sfm-casablanca-157264.html
+2024-02-21 02:34:38,976 - WARNING - Empty data found in address
+2024-02-21 02:34:38,977 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,978 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:38,979 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:38,980 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:38,980 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,981 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,981 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,982 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:38,983 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,984 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,984 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,985 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:38,994 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-gestionnaire-de-paie-hf-casablanca-recrutement-sfm-casablanca-157264.html is => {'Societés': 'sfm', 'Postes': 'Gestionnaire de Paie H/F – Casablanca - Casablanca', 'Adresses': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:38,995 - INFO - Scraped offer data number: 3 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:38,995 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-commercial-hf-recrutement-confidentiel-casablanca-159037.html
+2024-02-21 02:34:39,287 - WARNING - Company name of the offer not found. Error: 'NoneType' object is not subscriptable
+2024-02-21 02:34:39,289 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'text'
+2024-02-21 02:34:39,289 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:39,290 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:39,291 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:39,292 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:39,292 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:39,293 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:39,293 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:39,294 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:39,295 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:39,295 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:39,296 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:39,296 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:39,296 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-commercial-hf-recrutement-confidentiel-casablanca-159037.html is => {'Societés': 'non spécifié', 'Postes': 'Commercial (H/F) - Casablanca', 'Adresses': 'non spécifié', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:39,297 - INFO - Scraped offer data number: 4 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:39,298 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-procurement-and-forecasting-planner-hf-recrutement-foods-and-goods-bouskoura-159036.html
+2024-02-21 02:34:40,419 - WARNING - Company name of the offer not found. Error: 'NoneType' object has no attribute 'a'
+2024-02-21 02:34:40,420 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'h1'
+2024-02-21 02:34:40,422 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:40,423 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:40,423 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:40,424 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:40,425 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:40,426 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:40,427 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:40,427 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:40,428 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:40,429 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:40,429 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:40,430 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:40,430 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-procurement-and-forecasting-planner-hf-recrutement-foods-and-goods-bouskoura-159036.html is => {'Societés': 'non spécifié', 'Postes': 'non spécifié', 'Adresses': '9 zone indust Oulad Salah , n° 19', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:40,430 - INFO - Scraped offer data number: 5 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:40,430 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-responsable-juridique-senior---corporate-governance-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159025.html
+2024-02-21 02:34:43,230 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,231 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:43,232 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:43,232 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:43,233 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,234 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,234 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,235 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:43,236 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,237 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,238 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,239 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,239 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-responsable-juridique-senior---corporate-governance-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159025.html is => {'Societés': 'um6p---universite-mohammed-vi-polytechnique', 'Postes': 'Responsable Juridique Senior - Corporate & Governance - Benguerir', 'Adresses': 'Lot 660, Hay Moulay Rachid, Ben Guerir 43150', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:43,239 - INFO - Scraped offer data number: 6 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:43,239 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-responsable-senior-propriete-intellectuelle-general-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159026.html
+2024-02-21 02:34:43,855 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,856 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:43,857 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:43,857 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:43,858 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,859 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,859 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,860 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:43,861 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,861 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,862 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,863 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:43,863 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-responsable-senior-propriete-intellectuelle-general-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159026.html is => {'Societés': 'um6p---universite-mohammed-vi-polytechnique', 'Postes': 'Responsable Senior Propriété Intellectuelle Général - Benguerir', 'Adresses': 'Lot 660, Hay Moulay Rachid, Ben Guerir 43150', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:43,863 - INFO - Scraped offer data number: 7 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:43,863 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-research-engineer-at-iwri-industrial-and-municipal-wastewater-treatment-and-reuse-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159027.html
+2024-02-21 02:34:44,319 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,320 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:44,321 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:44,322 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:44,322 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,323 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,324 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,324 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:44,325 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,326 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,326 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,327 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,327 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-research-engineer-at-iwri-industrial-and-municipal-wastewater-treatment-and-reuse-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159027.html is => {'Societés': 'um6p---universite-mohammed-vi-polytechnique', 'Postes': 'Research Engineer at IWRI (industrial and municipal wastewater treatment and reuse) - Benguerir', 'Adresses': 'Lot 660, Hay Moulay Rachid, Ben Guerir 43150', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:44,327 - INFO - Scraped offer data number: 8 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:44,328 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-ingenieur-rd-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159028.html
+2024-02-21 02:34:44,737 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,738 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:44,739 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:44,740 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:44,741 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,741 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,742 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,743 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:44,743 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,744 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,744 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,745 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:44,745 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-ingenieur-rd-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159028.html is => {'Societés': 'um6p---universite-mohammed-vi-polytechnique', 'Postes': 'Ingénieur R&D - Benguerir', 'Adresses': 'Lot 660, Hay Moulay Rachid, Ben Guerir 43150', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:44,745 - INFO - Scraped offer data number: 9 with URL: https://www.rekrute.com/offres.html?p=1 finished
+2024-02-21 02:34:44,746 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-research-engineer-for-sustainable-materials-processing-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159029.html
+2024-02-21 02:34:45,161 - WARNING - Business sector of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:45,162 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:45,163 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-02-21 02:34:45,164 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:45,164 - WARNING - Profile of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:45,165 - WARNING - Missions of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:45,166 - WARNING - Recruiter information of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:45,167 - WARNING - Salary information of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-02-21 02:34:45,168 - WARNING - Job of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:45,168 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:45,169 - WARNING - Education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:45,170 - WARNING - Languages level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-02-21 02:34:45,170 - DEBUG - End of data_scraping for https://www.rekrute.com/offre-emploi-research-engineer-for-sustainable-materials-processing-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159029.html is => {'Societés': 'um6p---universite-mohammed-vi-polytechnique', 'Postes': 'Research Engineer for Sustainable Materials Processing - Benguerir', 'Adresses': 'Lot 660, Hay Moulay Rachid, Ben Guerir 43150', "Secteur d'activité": 'non spécifié', 'Locations': 'non spécifié', 'Dates': 'non spécifié', 'Contrats': 'non spécifié', 'Profils': 'non spécifié', 'Missions': 'non spécifié', 'Details entreprises': 'non spécifié', 'Salaire': 'non spécifié', 'Metiers': 'non spécifié', "Niveau d'expérience": 'non spécifié', "Niveau d'études": 'non spécifié', 'Langues exigées': 'non spécifié'} 
+2024-02-21 02:34:45,170 - INFO - Scraped offer data number: 10 with URL: https://www.rekrute.com/offres.html?p=1 finished
