@@ -1,0 +1,87 @@
+2024-03-05 12:00:21 - INFO - start scraping
+2024-03-05 12:00:28 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:00:28 - WARNING - Failed to retrieve HTML content. Status code: 403
+2024-03-05 12:00:28 - ERROR - Error occurred in scraping pages: 'NoneType' object is not iterable
+2024-03-05 12:01:05 - INFO - start scraping
+2024-03-05 12:01:12 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:01:12 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:01:12 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:01:12 - INFO - Extract 10 titreJob
+2024-03-05 12:05:00 - INFO - start scraping
+2024-03-05 12:05:07 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:05:07 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:05:07 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:05:08 - INFO - Extract 10 titreJob
+2024-03-05 12:05:08 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:05:08 - ERROR - Error occurred in scraping pages: 'NoneType' object is not subscriptable
+2024-03-05 12:05:39 - INFO - start scraping
+2024-03-05 12:05:46 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:05:46 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:05:47 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:05:47 - INFO - Extract 10 titreJob
+2024-03-05 12:05:47 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:05:47 - ERROR - Error occurred in scraping pages: 'NoneType' object is not subscriptable
+2024-03-05 12:06:35 - INFO - start scraping
+2024-03-05 12:06:42 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:06:43 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:06:43 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:06:43 - INFO - Extract 10 titreJob
+2024-03-05 12:06:43 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:06:43 - ERROR - Error occurred in scraping pages: 'NoneType' object is not subscriptable
+2024-03-05 12:07:14 - INFO - start scraping
+2024-03-05 12:07:21 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:07:21 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:07:21 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:07:22 - INFO - Extract 10 titreJob
+2024-03-05 12:07:22 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:07:22 - ERROR - Error occurred in scraping pages: 'NoneType' object is not subscriptable
+2024-03-05 12:08:54 - INFO - start scraping
+2024-03-05 12:09:01 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:09:03 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:09:03 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:09:03 - INFO - Extract 10 titreJob
+2024-03-05 12:09:03 - ERROR - Error occurred in scraping pages: 'NoneType' object is not iterable
+2024-03-05 12:09:03 - ERROR - An error occurred: 'NoneType' object is not iterable
+2024-03-05 12:12:14 - INFO - start scraping
+2024-03-05 12:12:35 - INFO - start scraping
+2024-03-05 12:12:41 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:12:42 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:12:42 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:12:42 - INFO - Extract 10 titreJob
+2024-03-05 12:12:42 - ERROR - Error occurred in scraping pages: 'NoneType' object is not subscriptable
+2024-03-05 12:12:42 - ERROR - An error occurred: 'NoneType' object is not iterable
+2024-03-05 12:13:23 - INFO - start scraping
+2024-03-05 12:13:30 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:13:33 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:13:33 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:13:33 - INFO - Extract 10 titreJob
+2024-03-05 12:13:33 - ERROR - Error occurred in scraping pages: 'NoneType' object is not subscriptable
+2024-03-05 12:13:33 - ERROR - An error occurred: 'NoneType' object is not iterable
+2024-03-05 12:14:33 - INFO - start scraping
+2024-03-05 12:14:40 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:14:41 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:14:41 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:14:41 - INFO - Extract 10 titreJob
+2024-03-05 12:15:40 - INFO - start scraping
+2024-03-05 12:15:47 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:15:51 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 12:15:51 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:15:51 - INFO - Extract 10 titreJob
+2024-03-05 12:15:51 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-03-05 12:15:51 - INFO - Cache file created and URL added: https://www.rekrute.com//offre-emploi-administrateur-base-de-donnees-et-middleware--freelance--recrutement-altados-casablanca-159425.html
+2024-03-05 12:15:51 - WARNING - Title of the job post not found. Error: 'NoneType' object has no attribute 'text'
+2024-03-05 12:15:51 - WARNING - Business of the offer not found
+2024-03-05 12:15:51 - WARNING - Location of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-03-05 12:15:51 - WARNING - Date of the offer not found. Error: 'NoneType' object has no attribute 'find'
+2024-03-05 12:15:51 - WARNING - Company name of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-03-05 12:15:51 - WARNING - Contract type of the offer not found. Error: 'NoneType' object has no attribute 'find_all'
+2024-03-05 12:15:51 - WARNING - Profile of the offer not found
+2024-03-05 12:15:51 - WARNING - Missions of the offer not found
+2024-03-05 12:15:51 - ERROR - Error occurred in scraping pages: local variable 'e' referenced before assignment
+2024-03-05 12:15:51 - ERROR - An error occurred: 'NoneType' object is not iterable
+2024-03-05 14:44:07 - INFO - start scraping
+2024-03-05 14:44:13 - INFO - Start scraping data with the URL: https://www.rekrute.com/offres.html?p=1
+2024-03-05 14:44:14 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-05 14:44:14 - INFO - The page was fetched successfully from: https://www.rekrute.com/offres.html?p=1
+2024-03-05 14:44:14 - INFO - Extract 10 titreJob
+2024-03-05 14:44:14 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
