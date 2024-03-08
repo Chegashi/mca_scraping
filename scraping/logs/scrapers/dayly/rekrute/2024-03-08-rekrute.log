@@ -1,0 +1,136 @@
+2024-03-08 02:53:51 - INFO - The server could get the offer source page succesfuly
+2024-03-08 02:53:51 - INFO - Company name of the offer crouzet-casablanca found in th URL 159053
+2024-03-08 02:53:51 - INFO - poste of the offer: technicien maintenance automaticien senior
+2024-03-08 02:53:51 - WARNING - Empty data found in location
+2024-03-08 02:54:08 - INFO - The server could get the offer source page succesfuly
+2024-03-08 02:54:08 - INFO - Company name of the offer crouzet-casablanca found in th URL 159053
+2024-03-08 02:54:08 - INFO - poste of the offer: technicien maintenance automaticien senior
+2024-03-08 02:54:08 - WARNING - Empty data found in location
+2024-03-08 02:58:27 - INFO - The server could get the offer source page succesfuly
+2024-03-08 02:58:27 - INFO - poste of the offer: technicien maintenance automaticien senior
+2024-03-08 02:58:27 - WARNING - Empty data found in location
+2024-03-08 02:59:21 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:00:24 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:01:44 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:03:08 - ERROR - The server https://www.rekrute.com/offre-emploi-consultant-supply-chain-hf-recrutement-go-rh-maroc-casablanca-150625.html could not be found. Error: get_html_content() missing 1 required positional argument: 'logger'
+2024-03-08 03:03:24 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:03:24 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:03:56 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:03:56 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:04:14 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:04:14 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:04:21 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:04:21 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:04:39 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:04:39 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:07:03 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:07:03 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:07:13 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:07:13 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:07:23 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:07:23 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:08:01 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:08:01 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:08:28 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:08:28 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:08:50 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:08:50 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:08:59 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:08:59 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:09:14 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:09:14 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:09:49 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:09:49 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:10:12 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:10:12 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:10:39 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:10:39 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:11:05 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:11:05 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:11:32 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:11:32 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:11:40 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:11:40 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:11:59 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:11:59 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:12:28 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:12:28 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:12:51 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:12:51 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:13:52 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:13:52 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:14:49 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:14:49 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:16:30 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:16:30 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:16:30 - INFO - Company name of the offer Crouzet
+2024-03-08 03:24:49 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:24:49 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:24:49 - INFO - Company name of the offer Crouzet
+2024-03-08 03:24:49 - WARNING - job title of the offer not found. Error: 'int' object has no attribute 'string'
+2024-03-08 03:26:17 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:26:17 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:26:17 - INFO - Company name of the offer Crouzet
+2024-03-08 03:26:17 - WARNING - job title of the offer not found. Error: 'int' object has no attribute 'txt'
+2024-03-08 03:26:25 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:26:25 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:26:25 - INFO - Company name of the offer Crouzet
+2024-03-08 03:26:25 - WARNING - job title of the offer not found. Error: 'int' object has no attribute 'text'
+2024-03-08 03:27:31 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:27:31 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:27:31 - INFO - Company name of the offer Crouzet
+2024-03-08 03:27:31 - WARNING - job title of the offer not found. Error: 'int' object has no attribute 'string'
+2024-03-08 03:27:44 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:27:44 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:27:44 - INFO - Company name of the offer Crouzet
+2024-03-08 03:27:44 - INFO - job title of the offer Offre  d'emploi Technicien Maintenance Automaticien Senior
+2024-03-08 03:28:33 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:28:33 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:28:33 - INFO - Company name of the offer Crouzet
+2024-03-08 03:28:33 - INFO - job title of the offer Offre  d'emploi Technicien Maintenance Automaticien Senior
+2024-03-08 03:28:46 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:28:46 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:28:46 - INFO - Company name of the offer Crouzet
+2024-03-08 03:28:46 - INFO - job title of the offer :Offre  d'emploi Technicien Maintenance Automaticien Senior
+2024-03-08 03:30:47 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:30:47 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:30:47 - INFO - Company name of the offer Crouzet
+2024-03-08 03:30:47 - INFO - job title of the offer  Technicien Maintenance Automaticien Senior
+2024-03-08 03:30:58 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:30:58 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:30:58 - INFO - Company name of the offer Crouzet
+2024-03-08 03:30:58 - INFO - job title of the offer Technicien Maintenance Automaticien Senior
+2024-03-08 03:34:38 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:34:38 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:34:38 - INFO - Company name of the offer Crouzet
+2024-03-08 03:34:38 - INFO - job title of the offer Technicien Maintenance Automaticien Senior
+2024-03-08 03:34:38 - INFO - Adresses of the offer <span id="address">16 z.i. Sidi Maârouf Hay sidi maarouf 1</span>
+2024-03-08 03:34:38 - WARNING - Location of the offer not found. Error: expected string or bytes-like object, got 'Tag'
+2024-03-08 03:36:06 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:36:06 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:36:06 - INFO - Company name of the offer Crouzet
+2024-03-08 03:36:06 - INFO - job title of the offer Technicien Maintenance Automaticien Senior
+2024-03-08 03:36:06 - INFO - Adresses of the offer <span id="address">16 z.i. Sidi Maârouf Hay sidi maarouf 1</span>
+2024-03-08 03:36:06 - WARNING - Location of the offer not found. Error: expected string or bytes-like object, got 'Tag'
+2024-03-08 03:36:27 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:36:27 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:36:27 - INFO - Company name of the offer Crouzet
+2024-03-08 03:36:27 - INFO - job title of the offer Technicien Maintenance Automaticien Senior
+2024-03-08 03:36:27 - INFO - Adresses of the offer <built-in method strip of str object at 0x114e22610>
+2024-03-08 03:36:27 - WARNING - Location of the offer not found. Error: expected string or bytes-like object, got 'builtin_function_or_method'
+2024-03-08 03:36:37 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:36:37 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:36:37 - INFO - Company name of the offer Crouzet
+2024-03-08 03:36:37 - INFO - job title of the offer Technicien Maintenance Automaticien Senior
+2024-03-08 03:36:37 - INFO - Adresses of the offer 16 z.i. Sidi Maârouf Hay sidi maarouf 1
+2024-03-08 03:36:51 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:36:51 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:36:51 - INFO - Company name of the offer Crouzet
+2024-03-08 03:36:51 - INFO - job title of the offer Technicien Maintenance Automaticien Senior
+2024-03-08 03:36:51 - INFO - Adresses of the offer 16 z.i. Sidi Maârouf Hay sidi maarouf 1
+2024-03-08 03:46:13 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-08 03:46:13 - INFO - The server could get the offer source page succesfuly
+2024-03-08 03:46:13 - INFO - Company name of the offer: Crouzet
+2024-03-08 03:46:13 - INFO - job title of the offer: Technicien Maintenance Automaticien Senior
+2024-03-08 03:46:13 - INFO - Adresses of the offer: 16 z.i. Sidi Maârouf Hay sidi maarouf 1
+2024-03-08 03:46:13 - INFO - Details de poste: Poste :En tant que Technicien Maintenance Automaticien, vous aurez les missions suivantes :Sécurité :Proposer des améliorations en termes de sécurité (Biens/Personnes) ;Connaitre et appliquer les consignes et règles de sécurité dans son périmètre ;Exercer son devoir d’alerte sur tout risque sécurité potentiel, et pas uniquement sur son périmètre.Environnement :Respecter les consignes et règles relatives aux normes et standards environnement.(déchets maintenance, produits chimiques) ;Exercer son devoir d’alerte sur tout risque environnement potentiel et pas uniquement sur son périmètre ;Respecter les initiatives proposées par le N+1 permettant l’optimisation et la gestion des déchets et tout élément ayant un impact sur l'environnement.Méthode :Participer à l’installation, aux essais et à la mise au point des équipements nouveaux et transférés des autres sites Crouzet.Maintenance :Assurer la maintenance curative des bancs de contrôle et de l’automatisme des équipements de production ;Appliquer le plan de maintenance préventive des bancs de contrôle et de l’automatisme des équipements de production ;Faire des modifications et des améliorations de l’automatisme des équipements de production ;Concevoir, réaliser et mettre en service des programmes en automatisme dans le cadre des améliorations processus ;Proposer des améliorations du dossier de maintenance préventive auprès de son manager ;Saisie des bons de travaux préventive et curative à l’aide de l’outil GMAO ;Déclarer les pièces de rechange manquantes ou utilisées sur l’outil GMAO ;Effectuer des inventaires partiels et réguliers pour maintenir à jour la base de données GMAO ;Participer avec le N+1 à l’archivage des dossiers techniques constructeur.Amélioration Continue :Respecter les 5S après intervention sur les moyens ;Proposer des améliorations techniques ;Contribuer à l’optimisation de la consommation des pièces de rechange ;Participer aux analyses 8D pour la résolution des problèmes qualité ayant pour cause les équipements/machines.Indicateur de performance :Participer à l’amélioration des indicateurs (Fiabilité, Maintenabilité, Disponibilité).Animation & Coopération :Participer à l’AIC Maintenance journalière, en échangeant sur le feed back des actions curatives du J1 ;Participer à l’AIC Hebdomadaire en préparant une synthèse sur les faits marquants de la S1 ;Réaliser en toute réactivité les actions définies lors des AIC Maintenance ;Participer à la montée en compétence des régleurs ;Participer à la formation des opérateurs (maintenance 1er niveau).A autorité pour :Interdire à un opérateur des actions non conformes au dossier technique en informant le manager fabrication ;Arrêter la production en cas de risque Sécurité/Environnement ;l’autorité pour le redémarrage des moyens avec l’accord du manager ;Arrêter les moyens devenus non conformes en informant son manager.

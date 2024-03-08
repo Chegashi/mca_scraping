@@ -1,0 +1,4029 @@
+2024-03-07 23:57:42 - INFO - start scraping
+2024-03-07 23:57:49 - DEBUG - start scraping the page: https://www.rekrute.com/offres.html?p=1
+2024-03-07 23:57:49 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-07 23:57:49 - DEBUG - html_content: 
+
+
+
+
+<!DOCTYPE html>
+<html ng-app="app" xmlns:og="http://ogp.me/ns#">
+<head>
+<meta name="application-name" content="ReKrute.com"/>
+
+    <meta name="msapplication-starturl" content="https://www.rekrute.com"/>
+	<meta name="theme-color" content="#fff">
+    <meta name="HandheldFriendly" content="True" />
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0" />
+            <link rel="icon" type="image/png" href="https://www.rekrute.com/images/favRK.jpg">
+            <title>Emploi Maroc  - offres d'emploi</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="fr-fr" />
+<meta name="description" content="Retrouvez toutes les annonces et offres d’emploi au Maroc des multinationales et grands comptes marocains  à destination des cadres et professions intermédiaires.  Affinez votre recherche d’emploi grâce au moteur de recherche par ville, fonction, secteur ou expérience" />
+<meta name="keywords" content="Emploi, offres d&#039;emploi maroc, recrutement maroc  Site emploi, recrutement de cadres, jobs, Emploi à Casablanca, Tanger , Marrakech, rabat, agadir CDI, CDD, CV,  conseils carrière, lettre motivation, cabinets de recrutement, ReKrute.com" />
+    <!--<link rel="stylesheet" type="text/css" href="/assets/9ad6971a/css/smart_wizard.css?v=1"/>-->
+    <link rel="stylesheet" type="text/css" href="/assets/9ad6971a/css/jquery-ui-1.11.2.min.css?v=1"/>
+    <link rel="stylesheet" type="text/css" href="/assets/9ad6971a/css/jquery-ui.theme.min.css?v=1"/>
+    <link rel="stylesheet" type="text/css" href="/assets/9ad6971a/css/overrideV4.css?v=1"/>
+    <link rel="stylesheet" type="text/css" href="/assets/9ad6971a/redactor/redactor.css?v=1"/>
+    <link rel="stylesheet" type="text/css" href="/assets/9ad6971a/css/theme.css?v=1"/>
+    <link rel="stylesheet" type="text/css" href="/outdatedbrowser/outdatedbrowser.min.css"/>
+    <link rel="stylesheet" href="/assets/9ad6971a/css/bootstrapV4.css" />
+	<link rel="stylesheet" href="/assets/9ad6971a/themeRK1/css/media-devices2.css" />
+	<!--<link rel="stylesheet" href="/assets/9ad6971a/css/styleJobAds.css" />-->
+    <link rel="stylesheet" type="text/css" href="/assets/9ad6971a/css/allcssV147.css?v=1"/>
+    <!--     Fonts and icons     -->
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
+    <link href="/assets/9ad6971a/fonts/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="/assets/9ad6971a/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+    <link href="/assets/9ad6971a/css/fonts/Rubik-Fonts.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	 
+	<!--<link rel="stylesheet" href="/assets/9ad6971a/css/cookies-message.min.css?v=1" />-->
+	 
+    <style>
+        .nav-header {
+    padding: 33px 25px;
+    /*background-color: #2f4050;
+    background-image: url("patterns/header-profile.png");*/
+}
+.dropdown, .dropup {
+    position: absolute;
+    margin: -21px;
+}
+.dropdown span {
+    /*overflow:hidden;
+    display: block;*/
+}
+.img-circle {
+    border-radius: 50%;
+    width: 45px;
+}
+
+.morecontent span {
+    display: none;
+}
+.morelink {
+    display: block;
+}
+    </style>
+    
+ 
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4017105-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8FSWT8GNFS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8FSWT8GNFS');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KX2MBBJ');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Facebook Pixel Code -->
+<!-- End Facebook Pixel Code -->
+
+<script src="https://accounts.google.com/gsi/client" async defer></script>
+</head>
+
+<body class="" app-free-click ng-click="click()">
+    <nav style=";position:fixed;top:0px;" class="navbar navbar-default navbar-transparent navbar-fixed-top navbar-burger backgroudDegraddeRk" role="navigation" >
+    <!-- if you want to keep the navbar hidden you can add this class to the navbar "navbar-burger"-->
+    <div id="alert-container"></div>
+    <div class="container">
+        <div class="navbar-header">
+            <button style="display:none;padding: 9px 24px;" id="menu-toggle" type="button" class="navbar-toggle navbar-toggle-rek" data-toggle="collapse" data-target="#example">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar bar1"></span>
+                <span class="icon-bar bar2"></span>
+                <span class="icon-bar bar3"></span>
+            </button>
+                            <a style="padding: 10px 17px 0px;" id="logo" class="navbar-brand actionPreloadDiv"
+                   href="/">
+                    <img style="width : 115px" class="img-responsive" src="/assets/9ad6971a/themeRK1/images/resource/rekrute-logo-r3.svg"
+                         alt="Premier sur l' emploi au Maroc"
+                         title="Premier sur l' emploi au Maroc">
+						 <!--
+						 <img style="width: 140px;display: inline;" class="img-responsive " src="/assets/9ad6971a/themeRK1/images/resource/LOGO15ansblanc.svg" alt="15 ans au services des ambitions et de l'égalité des chances" title="15 ans au services des ambitions et de l'égalité des chances">
+						 -->
+                    <span style="width: 182px; line-height: normal; margin: 0px; padding-bottom:3px;display: none">Premier sur l' emploi au Maroc</span>
+                </a>
+                        <ul class="btnul" >
+                <!--<li>
+
+
+                    <div class="icons-links">
+
+                        <a  data-toggle="tooltip" data-placement="right" title="Conseils Karrière" class="icon-2" href="/emploi-recrutement-conseils-carriere.html"></a>
+                        <a  data-toggle="tooltip" data-placement="right" title="Les entreprises qui ReKrutent" class="icon-3" href="/emploi-et-offres-de-recrutement-maroc-tunisie-afrique.html"></a>
+					</div>
+                </li>-->
+                <!--<form method="get" action="/offres.html" class="form-horizontal">
+                    <div class="input-group">
+
+                                                <input class="form-control" type="text" name="keyword"
+                               value="" placeholder="Intitul&eacute; du poste, Ville, Secteur...">
+                        <span class="input-group-btn">
+                            <button type="submit" class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+                        </span>
+                    </div>
+                </form>-->
+
+            </ul>
+            <!-------------------------------------------------------------------->
+                        <!-------------------------------------------------------------------->
+
+            <div class="toto" style="padding-top: 13px;">
+                                <li class="dropdown">
+                    <a style="text-decoration: none;padding: 0px 6px 0px 10px" href="/fr"  title="Français" >
+                        <span style="color: #fff;padding: 2px 0px 2px 3px;border-radius: 3px;background-image: linear-gradient(to right ,#e0208e, #e0208e);font-weight: bold;">
+							FR							</span>
+                    </a>
+                    <a style="text-decoration: none;" href="/en" title="English" >
+                        <span style="color: #fff;padding: 2px 3px 2px 3px;border-radius: 3px;;font-weight: bold;">
+							EN							</span>
+                    </a>
+
+                </li>
+            </div>
+
+            
+                <div class="toto" style="padding-top: 7px;">
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                            <span class="fname"></span>
+                            <i style="font-size: 25px;" class="fa fa-user-circle" aria-hidden="true"></i>
+                        </a>
+                        <ul class="dropdown-menu" style="">
+                            <li class="signin-popup"><a href="#" data-toggle="modal" data-target="#connecter"><i class="fa fa-sign-in" aria-hidden="true"></i></i> Se connecter</a>
+                            </li>
+                            <li><a href="candidat-inscription.html"><i class="fa fa-user-plus" aria-hidden="true"></i> S'inscrire</a></li>
+
+                        </ul>
+                    </li>
+                </div>
+                <div class="nlogue">
+                    <!--<a title="Espace Kandidat" href="#" data-toggle="modal" data-target="#connecter">
+                        Je me connecte                    </a>-->
+                    <!--<a class="accesrek" title="" href="/inscription-candidat.html">
+                        Je m'inscris                    </a>-->
+					<a style="background: #000;border: #000;background-image: linear-gradient(to right ,#02bda4, #0099c7);"   class="accesrek" title="Kapacity Revealer" href="test-de-personnalite-kapacity-revealer.html">
+                        Test de personnalité 4K                    </a>
+
+
+                                            <a class=""  title="Accès ReKruteur" href="/recruiter_area.html">
+                            Accès ReKruteur                        </a>
+                        
+					<!--<a onclick="javascript:ga('send', 'event', 'ReKrute', 'btn_parrainage', 'btn_parrainage');" href="solidarite_covid.html">Parrainage</a>-->
+                </div>
+
+
+
+                        <ul id="menu-item" class="visible-lg visible-md">
+                <li class="menu-item-has-children">
+                    <a href="#" title="">Offres d'emploi</a>
+                    <ul>
+                                                    <li> <a href="/offres.html" title="Moteur de recherche des annonces d'emploi">Rechercher une offre</a></li>
+                            						
+                        <li><a href="offres-emploi-cadre.html" title="Offres d'emploi pour cadres et managers">Cadres</a></li>
+                        <li><a href="offres-emploi-metiers-de-l-it.html" title="Offres d'emploi dans les métiers de l'informatique et des Nouvelles technologies">Métiers IT</a></li>
+                        <li><a href="offres-emploi-jeunes-diplomes.html" title="Offres d'emploi pour débutants et jeunes diplômés">Jeunes diplômés</a></li>
+                        <li><a target="_blank" href="http://www.exekutive.biz" title="">Dirigeants</a></li>
+                        <li><a href="offres-emploi-centre-d-appel-call-center.html" title="Offres d'emploi dans le secteur des Centres d'appels et de contact">Call Center</a></li>
+                        <li><a href="offres-emploi-international.html" title="Offres d'emploi à l'étranger">International</a></li>
+						<li><a onclick="javascript:ga('send', 'event', 'ReKrute-Salaire', 'ReKrute-Salaire', 'menuInterne');"   href="evaluer-votre-salaire.html" title="Comparatif de salaires, suis-je bien payé?">Evaluer mon salaire</a></li>
+						                    </ul>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="#" title="">Ils ReKrutent</a>
+                    <ul>
+											<li><a href="/emploi-et-offres-de-recrutement-maroc-tunisie-afrique.html" title="Groupes et sociétés  qui proposent des annonces d'emplois">Entreprises qui ReKrutent</a></li>
+										
+                        <li style="background-image: linear-gradient(to right ,#ee2a7b, #ff8da3);color: #fff !important;"><a style="color:#fff" href="krunchy-candidat.html" title="Entreprises Krunchy"  >Entreprises Krunchy</a></li>
+                        <li ><a  href="entreprises-labelisees-feelgood.html" title="Entreprises Feel Good"  >Entreprises Feel Good</a></li>
+						
+						<li><a href="/emploi-recrutement-maroc-tunisie.html" title="Nos références client">Ils nous font confiance</a></li>
+                        <li><a href="/search_international.php" title="The Network, organisation mondiale des portails emploi leaders">Réseau International</a></li>
+							
+                         
+                    </ul>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="#" title="">Conseils Karrière</a>
+                    <ul>
+                        <li><a href="/emploi-recrutement-conseils-carriere.html" title="Derniers articles sur la recherche d'emploi">Derniers articles</a></li>
+                        <li><a href="/emploi-recrutement-aktualite-rekrute-1.html" title="Dernières informations sur le marché de l'emploi">Actualité de l'emploi</a></li>
+                        <li><a href="/emploi-recrutement-carriere-16.html" title="Conseils pour booster votre carrière">Carrière</a></li>
+                        <li><a href="/emploi-recrutement-management-15.html" title="Nos conseils pour bien manager votre équipe">Management</a></li>
+                    
+					 <li  class="actionPreloadDiv"> <a href="/livres-blancs-videos-conseils.html">Nos Vidéos Konseils </a> </li>  
+					</ul>
+				
+                </li>
+                                <li class="menu-item-has-children">
+                    
+<a href="#" title="Maroc"><img src="/assets/9ad6971a/images/flag-03.png" alt="image description"/></a>
+<ul>
+            <li>
+            <a href="/offres-emploi-afrique.html">
+                <img src="/assets/9ad6971a/images/flag-02.png" alt="Tout pays"/>
+                				﻿Tout pays            </a>
+        </li>
+            <li>
+            <a href="/offres-emploi-maroc.html">
+                <img src="/assets/9ad6971a/images/flag-03.png" alt="Maroc"/>
+                				Maroc            </a>
+        </li>
+            <li>
+            <a href="/offres-emploi-tunisie.html">
+                <img src="/assets/9ad6971a/images/flag-04.png" alt="Tunisie"/>
+                				Tunisie            </a>
+        </li>
+            <li>
+            <a href="/offres-emploi-algerie.html">
+                <img src="/assets/9ad6971a/images/flag-05.png" alt="Algérie"/>
+                				Algérie            </a>
+        </li>
+            <li>
+            <a href="/offres-emploi-afrique-de-l-ouest.html">
+                <img src="/assets/9ad6971a/images/flag-06.png" alt="Afrique de l'Ouest"/>
+                				Afrique de l'Ouest            </a>
+        </li>
+            <li>
+            <a href="/offres-emploi-afrique-centrale.html">
+                <img src="/assets/9ad6971a/images/flag-07.png" alt="Afrique Centrale"/>
+                				Afrique Centrale            </a>
+        </li>
+    </ul>
+
+
+                </li>
+                                </ul>
+
+        </div>
+        <div class="collapse navbar-collapse" >
+            <ul class="nav navbar-nav navbar-right navbar-uppercase gw-nav gw-nav-list">
+                <li class="chnpays"  style="overflow: hidden;" >
+                    
+
+
+<div class="btn-group" style="display: block">
+    <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <img src="/assets/9ad6971a/images/flag-03.png" alt="image description"/>
+      <span style="margin:0px 5px;">  Maroc</span>
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+                    <li><a href="/offres-emploi-afrique.html">
+                    <img src="/assets/9ad6971a/images/flag-02.png"
+                         alt="Tout pays"/>
+                    <span>Tout pays</span>
+                </a>
+            </li>
+                    <li><a href="/offres-emploi-maroc.html">
+                    <img src="/assets/9ad6971a/images/flag-03.png"
+                         alt="Maroc"/>
+                    <span>Maroc</span>
+                </a>
+            </li>
+                    <li><a href="/offres-emploi-tunisie.html">
+                    <img src="/assets/9ad6971a/images/flag-04.png"
+                         alt="Tunisie"/>
+                    <span>Tunisie</span>
+                </a>
+            </li>
+                    <li><a href="/offres-emploi-algerie.html">
+                    <img src="/assets/9ad6971a/images/flag-05.png"
+                         alt="Algérie"/>
+                    <span>Algérie</span>
+                </a>
+            </li>
+                    <li><a href="/offres-emploi-afrique-de-l-ouest.html">
+                    <img src="/assets/9ad6971a/images/flag-06.png"
+                         alt="Afrique de l'Ouest"/>
+                    <span>Afrique de l'Ouest</span>
+                </a>
+            </li>
+                    <li><a href="/offres-emploi-afrique-centrale.html">
+                    <img src="/assets/9ad6971a/images/flag-07.png"
+                         alt="Afrique Centrale"/>
+                    <span>Afrique Centrale</span>
+                </a>
+            </li>
+            </ul>
+</div>
+                </li>
+
+                <li class="init-un-active"> <a href="/"> <span class="gw-menu-text">Accueil</span></a></li>
+
+                <li class="init-arrow-down"> <a href="#"> <span class="gw-menu-text">Offres d'emploi</span> <b></b> </a>
+                    <ul class="gw-submenu">
+
+                                                    <li class="actionPreloadDiv"> <a href="/offres.html">Rechercher une offre </a>
+                            </li>
+                            
+                        <li class="actionPreloadDiv"> <a href="offres-emploi-cadre.html" >Cadres </a>
+                        </li>
+                        <li class="actionPreloadDiv"> <a href="offres-emploi-metiers-de-l-it.html" >Métiers IT </a>
+                        </li>
+                        <li class="actionPreloadDiv"> <a href="offres-emploi-jeunes-diplomes.html" >Jeunes diplômés </a>
+                        </li>
+                        <li class="actionPreloadDiv"> <a target="_blank" href="http://www.exekutive.biz" >Dirigeants </a>
+                        </li>
+                        <li class="actionPreloadDiv"> <a href="offres-emploi-centre-d-appel-call-center.html">Call Center </a>
+                        </li>
+                        <li class="actionPreloadDiv"> <a href="offres-emploi-international.html" >International </a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="init-arrow-down"> <a href="#"> <span class="gw-menu-text">Ils ReKrutent</span> <b class="gw-arrow icon-arrow-up8"></b> </a>
+                    <ul class="gw-submenu">
+                        <li class="actionPreloadDiv" ><a href="/emploi-et-offres-de-recrutement-maroc-tunisie-afrique.html">Entreprises qui ReKrutent</a></li>
+                        <li style="background-image: linear-gradient(to right ,#ee2a7b, #ff8da3);color: #fff !important;"  ><a style="color:#fff" href="krunchy-candidat.html" >Entreprises Krunchy</a></li>
+						<li class="actionPreloadDiv" ><a  href="entreprises-labelisees-feelgood.html" title="Entreprises Feel Good"  >Entreprises Feel Good</a></li>
+                        <li  class="actionPreloadDiv" ><a href="/emploi-recrutement-maroc-tunisie.html"> Ils nous font confiance</a></li>
+                        <li class="actionPreloadDiv" ><a href="/search_international.php">Réseau International</a></li>
+                    </ul>
+                </li>
+
+                <li class="init-arrow-down"> <a href="#"> <span class="gw-menu-text">Conseils Karrière</span> <b class="gw-arrow icon-arrow-up8"></b> </a>
+                    <ul class="gw-submenu">
+                        <li  class="actionPreloadDiv"> <a href="/emploi-recrutement-conseils-carriere.html">Derniers articles </a> </li>
+                        <li  class="actionPreloadDiv"> <a href="/emploi-recrutement-aktualite-rekrute-1.html">Actualité de l'emploi </a> </li>
+                        <li  class="actionPreloadDiv"> <a href="/emploi-recrutement-carriere-16.html">Carrière </a> </li>
+                        <li  class="actionPreloadDiv"> <a href="/emploi-recrutement-management-15.html">Management </a> </li>
+								
+						<li  class="actionPreloadDiv"> <a href="/livres-blancs-videos-conseils.html">Nos Vidéos Konseils </a> </li>
+								
+                    </ul>
+                </li>
+
+                                    <li class="init-un-active"><a href="#" data-toggle="modal" data-target="#connecter" ><i class="fa fa-user"></i> Mon espace </a></li>
+                    
+
+                                    <li class="init-un-active"><a href="/recruiter_area.html" ><i class="fa fa-suitcase"></i> Espace ReKruteur</a></li>
+                    
+				
+            </ul>
+
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</nav>
+<!------------tag FDP---------->
+<!----------end tag------------>
+
+
+
+ 
+      <div id="g_id_onload"
+         data-client_id="1079122808492-5rtfc7kb5ljitg99rmcso8ov507a79u6.apps.googleusercontent.com"
+         data-login_uri="https://www.rekrute.com/candidat-inscription-gmail-account-pop.html"
+		data-context="signin"
+		data-callback="googleLoginEndpoint"
+		 data-cancel_on_tap_outside="false"
+     style="position: absolute; top: 100px; right: 30px;
+            width: 0; height: 0; z-index: 1001;"
+         >
+      </div>
+  <script>
+  
+  
+  </script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX2MBBJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div class="page ">
+    <div class="wrapper"  id="fortopscroll">
+       <div class="preloader"  id="preloadDivRK" style="display: none;">
+            <!--<div class="status"><img src='/assets/9ad6971a/images/loading-red.gif'></div>-->
+        </div>
+        
+        <div class="main alt-main">
+                <div class="section" >
+
+                                    			
+		 
+		 
+			
+			 					
+		 
+            <div class="container">
+                <div class="row">
+				
+									<!------------------------------------------------------->
+                    <div class="col-md-12" style='display:none' >
+
+                        <nav aria-label="breadcrumb" class="navbar-burger">
+                            <ol class="breadcrumb" style="font-size: 9px;padding: 0px;margin-bottom: 10px; background-color: #fff;">
+                                <li class="breadcrumb-item"><a href="/">Accueil</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">
+                                    Emploi Maroc  - offres d'emploi                                </li>
+                            </ol>
+                        </nav>
+
+
+                    </div>
+                    <!--------------------------------------------->
+					
+					                                            <div class="col-md-3">
+                            <div id="sidebar" class="">
+                                <div id="sidebar" class="alt">
+    <!--<div class="well well-sm">
+            <div class="offers-list">
+                <div class="holder">
+                    <h3>Consultez les offres</h3>
+                    <ul>
+                        <li><a href="/emploi-et-offres-de-recrutement-maroc-tunisie-afrique.html">Entreprises qui reKrutent</a></li>
+                        <li><a href="/search_international.php">Réseau International</a></li>
+                        <li><a href="/emploi-recrutement-maroc-tunisie.html"> Ils nous font confiance</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>-->
+    
+    <form  action="/offres.html" class="form-horizontal" onsubmit="javascript:ga('send', 'event', 'Recherche-JobOffer', 'facette', 'Recherche-JobOffer');">
+                <div style="display: none;" class="well well-sm">
+            <div class="results">
+                <span class="wellspanh3">Recherche par mots clés</span>
+
+                <div class="input-group">
+
+                                        
+
+                    
+                    <input type="hidden" name="st" value="d" >
+                    <input type="hidden" name="keywordNew" value="1" >
+                    <input type="hidden" name="jobLocation" value="RK" >
+                    <input class="form-control" type="text" name="keyword"
+                           value="" placeholder="Intitul&eacute; du poste, Ville, Secteur...">
+                        <span class="input-group-btn">
+                            <button onclick="javascript:ga('send', 'event', 'Recherche-JobOffer', 'facette', 'Recherche-JobOffer');" type="submit" class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+                        </span>
+                </div>
+
+            </div>
+        </div>
+                            <div class="well well-sm">
+                <div class="results">
+                    <span class="wellspanh3">Affiner les résultats</span>
+
+
+                    <div id="HrefSearchdivpositionfacets" app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"      
+     >
+    <h4 onclick="readTitleFacetsJob('/rekrute/userJobOffer/getFacetAjax','positionfacets','divpositionfacets')">
+        <a
+                        app-toggle-panel-opener ng-click="open()" class="opener" href="">
+            Fonction                    </a>
+    </h4>
+	
+	<input type="hidden" id="readTitleFacetsdivpositionfacets" value="">
+<input   autocomplete="off" placeholder="Chercher une fonction"  type="text" id="filterdivpositionfacets" name="filterLogo" value=""
+               style="display: none;padding: 7px;background: #FFF;border:none;width:100%; height:20px; margin-top: 5px;">
+    
+<div id="divpositionfacets" class="slide function">
+	
+      <button style="background:#ed2136;color:#FFF;width: 100%; text-align: center; margin-top: 5px;margin-bottom:10px" title="Rechercher avec le critère : Fonction" class="button buttonFacettes" type="submit"  >
+        <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+          Rechercher		</button>
+             
+
+
+
+                            
+        
+    </div>
+</div>
+                    <div id="HrefSearchdivworkExperiencefacets" app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"       
+     >
+    <h4>
+        <a app-toggle-panel-opener ng-click="open()" class="opener" href="">
+            Niveau d'expérience</a>
+    </h4>
+	
+	<input type="hidden" id="readTitleFacetsdivworkExperiencefacets" value="">
+
+
+    <div id="divworkExperiencefacets" class="slide function">
+                  <button style="background:#be1924;color:#FFF;width: 100%; text-align: center; margin-top: 5px;margin-bottom:10px" 
+title="Rechercher avec le critère : Niveau d'expérience" class="button buttonFacettes" type="submit"  >
+        <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+        Rechercher
+		</button>
+
+
+
+                                                                                                                        
+                    <div title="De 1 à 3 ans" class="faclink" >
+
+                         
+
+                        <input id="idworkExperienceId3" name="workExperienceId[]" value="3" type="checkbox"   />
+
+                        <label for="idworkExperienceId3"  style="display: block;"><a >
+                                    <span class="badge pull-right">393</span> De 1 à 3 ans                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div title="De 3 à 5 ans" class="faclink" >
+
+                         
+
+                        <input id="idworkExperienceId4" name="workExperienceId[]" value="4" type="checkbox"   />
+
+                        <label for="idworkExperienceId4"  style="display: block;"><a >
+                                    <span class="badge pull-right">515</span> De 3 à 5 ans                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div title="De 5 à 10 ans" class="faclink" >
+
+                         
+
+                        <input id="idworkExperienceId5" name="workExperienceId[]" value="5" type="checkbox"   />
+
+                        <label for="idworkExperienceId5"  style="display: block;"><a >
+                                    <span class="badge pull-right">353</span> De 5 à 10 ans                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div title="De 10 à 20 ans" class="faclink" >
+
+                         
+
+                        <input id="idworkExperienceId6" name="workExperienceId[]" value="6" type="checkbox"   />
+
+                        <label for="idworkExperienceId6"  style="display: block;"><a >
+                                    <span class="badge pull-right">44</span> De 10 à 20 ans                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div title="Débutant" class="faclink" >
+
+                         
+
+                        <input id="idworkExperienceId1" name="workExperienceId[]" value="1" type="checkbox"   />
+
+                        <label for="idworkExperienceId1"  style="display: block;"><a >
+                                    <span class="badge pull-right">114</span> Débutant                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div title="Moins de 1 an" class="faclink" >
+
+                         
+
+                        <input id="idworkExperienceId2" name="workExperienceId[]" value="2" type="checkbox"   />
+
+                        <label for="idworkExperienceId2"  style="display: block;"><a >
+                                    <span class="badge pull-right">152</span> Moins de 1 an                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div title="Plus de 20 ans" class="faclink" >
+
+                         
+
+                        <input id="idworkExperienceId7" name="workExperienceId[]" value="7" type="checkbox"   />
+
+                        <label for="idworkExperienceId7"  style="display: block;"><a >
+                                    <span class="badge pull-right">2</span> Plus de 20 ans                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                             
+             
+
+    </div>
+</div>
+                    <div app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"      onclick="readTitleFacetsJob('/rekrute/userJobOffer/getFacetAjax','studylevelfacets','divstudylevelfacets')"
+     >
+                <h4><a
+                                                app-toggle-panel-opener ng-click="open()" class="opener" href="">Niveau d'étude                                            </a>
+                </h4>
+<input type="hidden" id="readTitleFacetsdivstudylevelfacets" value="">
+    <div id="divstudylevelfacets" class="slide ">
+                    <ul>
+                                                
+                    </ul>
+                </div>
+            </div>
+                    <div id="HrefSearchdivsectorfacets" app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder" 
+      
+     >
+    <h4>
+        <a app-toggle-panel-opener ng-click="open()" class="opener" href="">
+            Secteur</a>
+    </h4>
+	
+	 
+ <div id="divsectorfacets" class="slide function">
+	
+          
+<button style="background:#be1924;color:#FFF;width: 100%; text-align: center; margin-top: 5px;margin-bottom:10px" 
+title="Rechercher avec le critère : Secteur" class="button buttonFacettes" type="submit"  >
+        <i class="fa fa-chevron-circle-right" aria-hidden="true"></i>
+        Rechercher
+		</button>
+
+
+
+                                                                                                                        
+                    <div  title="Agence pub / Marketing Direct"   class="faclink" >
+
+                         
+
+                        <input id="idsector2" name="sectorId[]" value="2" type="checkbox"  />
+
+                        <label  for="idsector2" style="display: block;"><a >
+                                    <span class="badge pull-right">23</span> Agence pub / Marketing Direct                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Agriculture / Environnement "   class="faclink" >
+
+                         
+
+                        <input id="idsector3" name="sectorId[]" value="3" type="checkbox"  />
+
+                        <label  for="idsector3" style="display: block;"><a >
+                                    <span class="badge pull-right">28</span> Agriculture / Environnement                             </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Agroalimentaire"   class="faclink" >
+
+                         
+
+                        <input id="idsector4" name="sectorId[]" value="4" type="checkbox"  />
+
+                        <label  for="idsector4" style="display: block;"><a >
+                                    <span class="badge pull-right">49</span> Agroalimentaire                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Ameublement / Décoration"   class="faclink" >
+
+                         
+
+                        <input id="idsector39" name="sectorId[]" value="39" type="checkbox"  />
+
+                        <label  for="idsector39" style="display: block;"><a >
+                                    <span class="badge pull-right">2</span> Ameublement / Décoration                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Assurance / Courtage"   class="faclink" >
+
+                         
+
+                        <input id="idsector5" name="sectorId[]" value="5" type="checkbox"  />
+
+                        <label  for="idsector5" style="display: block;"><a >
+                                    <span class="badge pull-right">23</span> Assurance / Courtage                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Audiovisuel"   class="faclink" >
+
+                         
+
+                        <input id="idsector6" name="sectorId[]" value="6" type="checkbox"  />
+
+                        <label  for="idsector6" style="display: block;"><a >
+                                    <span class="badge pull-right">6</span> Audiovisuel                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Automobile / Motos / Cycles"   class="faclink" >
+
+                         
+
+                        <input id="idsector7" name="sectorId[]" value="7" type="checkbox"  />
+
+                        <label  for="idsector7" style="display: block;"><a >
+                                    <span class="badge pull-right">75</span> Automobile / Motos / Cycles                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Autres Industries"   class="faclink" >
+
+                         
+
+                        <input id="idsector8" name="sectorId[]" value="8" type="checkbox"  />
+
+                        <label  for="idsector8" style="display: block;"><a >
+                                    <span class="badge pull-right">46</span> Autres Industries                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Autres services"   class="faclink" >
+
+                         
+
+                        <input id="idsector9" name="sectorId[]" value="9" type="checkbox"  />
+
+                        <label  for="idsector9" style="display: block;"><a >
+                                    <span class="badge pull-right">29</span> Autres services                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Aéronautique / Spatial"   class="faclink" >
+
+                         
+
+                        <input id="idsector1" name="sectorId[]" value="1" type="checkbox"  />
+
+                        <label  for="idsector1" style="display: block;"><a >
+                                    <span class="badge pull-right">35</span> Aéronautique / Spatial                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="BTP / Génie Civil"   class="faclink" >
+
+                         
+
+                        <input id="idsector11" name="sectorId[]" value="11" type="checkbox"  />
+
+                        <label  for="idsector11" style="display: block;"><a >
+                                    <span class="badge pull-right">67</span> BTP / Génie Civil                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Banque / Finance"   class="faclink" >
+
+                         
+
+                        <input id="idsector10" name="sectorId[]" value="10" type="checkbox"  />
+
+                        <label  for="idsector10" style="display: block;"><a >
+                                    <span class="badge pull-right">137</span> Banque / Finance                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Centre d'appel"   class="faclink" >
+
+                         
+
+                        <input id="idsector12" name="sectorId[]" value="12" type="checkbox"  />
+
+                        <label  for="idsector12" style="display: block;"><a >
+                                    <span class="badge pull-right">206</span> Centre d'appel                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Chimie / Parachimie / Peintures"   class="faclink" >
+
+                         
+
+                        <input id="idsector13" name="sectorId[]" value="13" type="checkbox"  />
+
+                        <label  for="idsector13" style="display: block;"><a >
+                                    <span class="badge pull-right">2</span> Chimie / Parachimie / Peintures                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Communication / Evénementiel"   class="faclink" >
+
+                         
+
+                        <input id="idsector40" name="sectorId[]" value="40" type="checkbox"  />
+
+                        <label  for="idsector40" style="display: block;"><a >
+                                    <span class="badge pull-right">8</span> Communication / Evénementiel                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Comptabilité / Audit"   class="faclink" >
+
+                         
+
+                        <input id="idsector14" name="sectorId[]" value="14" type="checkbox"  />
+
+                        <label  for="idsector14" style="display: block;"><a >
+                                    <span class="badge pull-right">46</span> Comptabilité / Audit                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Conseil / Etudes"   class="faclink" >
+
+                         
+
+                        <input id="idsector15" name="sectorId[]" value="15" type="checkbox"  />
+
+                        <label  for="idsector15" style="display: block;"><a >
+                                    <span class="badge pull-right">27</span> Conseil / Etudes                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Cosmétique / Parfumerie / Luxe"   class="faclink" >
+
+                         
+
+                        <input id="idsector41" name="sectorId[]" value="41" type="checkbox"  />
+
+                        <label  for="idsector41" style="display: block;"><a >
+                                    <span class="badge pull-right">4</span> Cosmétique / Parfumerie / Luxe                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Distribution"   class="faclink" >
+
+                         
+
+                        <input id="idsector16" name="sectorId[]" value="16" type="checkbox"  />
+
+                        <label  for="idsector16" style="display: block;"><a >
+                                    <span class="badge pull-right">66</span> Distribution                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Edition / Imprimerie"   class="faclink" >
+
+                         
+
+                        <input id="idsector17" name="sectorId[]" value="17" type="checkbox"  />
+
+                        <label  for="idsector17" style="display: block;"><a >
+                                    <span class="badge pull-right">1</span> Edition / Imprimerie                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Electricité"   class="faclink" >
+
+                         
+
+                        <input id="idsector50" name="sectorId[]" value="50" type="checkbox"  />
+
+                        <label  for="idsector50" style="display: block;"><a >
+                                    <span class="badge pull-right">4</span> Electricité                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Electro-mécanique / Mécanique"   class="faclink" >
+
+                         
+
+                        <input id="idsector42" name="sectorId[]" value="42" type="checkbox"  />
+
+                        <label  for="idsector42" style="display: block;"><a >
+                                    <span class="badge pull-right">10</span> Electro-mécanique / Mécanique                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Energie"   class="faclink" >
+
+                         
+
+                        <input id="idsector19" name="sectorId[]" value="19" type="checkbox"  />
+
+                        <label  for="idsector19" style="display: block;"><a >
+                                    <span class="badge pull-right">21</span> Energie                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Enseignement / Formation"   class="faclink" >
+
+                         
+
+                        <input id="idsector18" name="sectorId[]" value="18" type="checkbox"  />
+
+                        <label  for="idsector18" style="display: block;"><a >
+                                    <span class="badge pull-right">150</span> Enseignement / Formation                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Hôtellerie / Restauration"   class="faclink" >
+
+                         
+
+                        <input id="idsector22" name="sectorId[]" value="22" type="checkbox"  />
+
+                        <label  for="idsector22" style="display: block;"><a >
+                                    <span class="badge pull-right">43</span> Hôtellerie / Restauration                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Immobilier / Promoteur / Agence"   class="faclink" >
+
+                         
+
+                        <input id="idsector23" name="sectorId[]" value="23" type="checkbox"  />
+
+                        <label  for="idsector23" style="display: block;"><a >
+                                    <span class="badge pull-right">12</span> Immobilier / Promoteur / Agence                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Import / Export / Négoce"   class="faclink" >
+
+                         
+
+                        <input id="idsector44" name="sectorId[]" value="44" type="checkbox"  />
+
+                        <label  for="idsector44" style="display: block;"><a >
+                                    <span class="badge pull-right">2</span> Import / Export / Négoce                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Informatique"   class="faclink" >
+
+                         
+
+                        <input id="idsector24" name="sectorId[]" value="24" type="checkbox"  />
+
+                        <label  for="idsector24" style="display: block;"><a >
+                                    <span class="badge pull-right">333</span> Informatique                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Internet / Multimédia"   class="faclink" >
+
+                         
+
+                        <input id="idsector25" name="sectorId[]" value="25" type="checkbox"  />
+
+                        <label  for="idsector25" style="display: block;"><a >
+                                    <span class="badge pull-right">8</span> Internet / Multimédia                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Juridique / Cabinet d’avocats"   class="faclink" >
+
+                         
+
+                        <input id="idsector45" name="sectorId[]" value="45" type="checkbox"  />
+
+                        <label  for="idsector45" style="display: block;"><a >
+                                    <span class="badge pull-right">3</span> Juridique / Cabinet d’avocats                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Métallurgie / Sidérurgie"   class="faclink" >
+
+                         
+
+                        <input id="idsector46" name="sectorId[]" value="46" type="checkbox"  />
+
+                        <label  for="idsector46" style="display: block;"><a >
+                                    <span class="badge pull-right">15</span> Métallurgie / Sidérurgie                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Offshoring / Nearshoring"   class="faclink" >
+
+                         
+
+                        <input id="idsector48" name="sectorId[]" value="48" type="checkbox"  />
+
+                        <label  for="idsector48" style="display: block;"><a >
+                                    <span class="badge pull-right">14</span> Offshoring / Nearshoring                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Pharmacie / Santé"   class="faclink" >
+
+                         
+
+                        <input id="idsector29" name="sectorId[]" value="29" type="checkbox"  />
+
+                        <label  for="idsector29" style="display: block;"><a >
+                                    <span class="badge pull-right">5</span> Pharmacie / Santé                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Plasturgie"   class="faclink" >
+
+                         
+
+                        <input id="idsector30" name="sectorId[]" value="30" type="checkbox"  />
+
+                        <label  for="idsector30" style="display: block;"><a >
+                                    <span class="badge pull-right">1</span> Plasturgie                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Pétrole / Gaz"   class="faclink" >
+
+                         
+
+                        <input id="idsector28" name="sectorId[]" value="28" type="checkbox"  />
+
+                        <label  for="idsector28" style="display: block;"><a >
+                                    <span class="badge pull-right">8</span> Pétrole / Gaz                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Recrutement / Intérim"   class="faclink" >
+
+                         
+
+                        <input id="idsector32" name="sectorId[]" value="32" type="checkbox"  />
+
+                        <label  for="idsector32" style="display: block;"><a >
+                                    <span class="badge pull-right">12</span> Recrutement / Intérim                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Service public / Administration"   class="faclink" >
+
+                         
+
+                        <input id="idsector33" name="sectorId[]" value="33" type="checkbox"  />
+
+                        <label  for="idsector33" style="display: block;"><a >
+                                    <span class="badge pull-right">1</span> Service public / Administration                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Telecom"   class="faclink" >
+
+                         
+
+                        <input id="idsector35" name="sectorId[]" value="35" type="checkbox"  />
+
+                        <label  for="idsector35" style="display: block;"><a >
+                                    <span class="badge pull-right">23</span> Telecom                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Textile / Cuir"   class="faclink" >
+
+                         
+
+                        <input id="idsector36" name="sectorId[]" value="36" type="checkbox"  />
+
+                        <label  for="idsector36" style="display: block;"><a >
+                                    <span class="badge pull-right">2</span> Textile / Cuir                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Tourisme / Voyage / Loisirs "   class="faclink" >
+
+                         
+
+                        <input id="idsector37" name="sectorId[]" value="37" type="checkbox"  />
+
+                        <label  for="idsector37" style="display: block;"><a >
+                                    <span class="badge pull-right">12</span> Tourisme / Voyage / Loisirs                             </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                                                                                                                        
+                    <div  title="Transport / Messagerie / Logistique"   class="faclink" >
+
+                         
+
+                        <input id="idsector38" name="sectorId[]" value="38" type="checkbox"  />
+
+                        <label  for="idsector38" style="display: block;"><a >
+                                    <span class="badge pull-right">14</span> Transport / Messagerie / Logistique                            </a>
+                        </label>
+                    </div>
+
+
+
+
+
+
+
+
+                            
+   
+         
+    </div>
+</div>
+
+                    <div  id="HrefSearchdivrecruiterfacet" app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"      onclick="readTitleFacetsJob('/rekrute/userJobOffer/getFacetAjax','recruiterfacet','divrecruiterfacet')" 
+     >
+                <h4><a
+                                                app-toggle-panel-opener ng-click="open()" class="opener" href="">ReKruteur                                            </a>
+                </h4>
+<input type="hidden" id="readTitleFacetsdivrecruiterfacet" value="">
+<input   autocomplete="off" placeholder="Chercher un Rekruteur"  type="text" id="filterdivrecruiterfacet" name="filterLogo" value=""
+               style="display: none;padding: 7px;background: #FFF;border:none;width:100%; height:20px; margin-top: 5px;">
+    <div id="divrecruiterfacet" class="slide ">
+                    <ul id="listeclientsdiv">
+                                                 
+                    </ul>
+                </div>
+            </div>
+
+                    <div app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"      onclick="readTitleFacetsJob('/rekrute/userJobOffer/getFacetAjax','typecontratTeleworkfacets','divtypecontratTeleworkfacets')"
+>
+    <h4><a
+                        app-toggle-panel-opener ng-click="open()" class="opener" href="">Télétravail                    </a>
+    </h4>
+    <input type="hidden" id="readTitleFacetsdivtypecontratTeleworkfacets" value="">
+    <div id="divtypecontratTeleworkfacets" class="slide ">
+        <ul>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+                    <div id="HrefSearchdivcountryfacets" app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"       onclick="readTitleFacetsJob('/rekrute/userJobOffer/getFacetAjax','countryfacets','divcountryfacets')" 
+     >
+                <h4><a
+                                                app-toggle-panel-opener ng-click="open()" class="opener" href="">Pays                                            </a></h4>
+				
+				<input type="hidden" id="readTitleFacetsdivcountryfacets" value="">
+<input   autocomplete="off" placeholder="Chercher un pays"  type="text" id="filterdivcountryfacets" name="filterLogo" value=""
+               style="display: none;padding: 7px;background: #FFF;border:none;width:100%; height:20px; margin-top: 5px;">
+			   
+                <div id="divcountryfacets">
+                                    <div  class="slide">
+                        <ul  id="listeCountryDiv">
+                                                            <li  title="International"  class="faclink">
+                                                                            <a href="/offres.html?countryId=-1">
+                                            <span class="badge pull-right">0</span> International                                        </a>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                            </div>
+                
+                
+</div>
+
+
+                    <div  id="HrefSearchdivregionfacets"  app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"      onclick="readTitleFacetsJob('/rekrute/userJobOffer/getFacetAjax','regionfacets','divregionfacets')"
+     >
+    <h4>
+        <a
+                        app-toggle-panel-opener ng-click="open()" class="opener" href="">
+            Région                    </a>
+    </h4>
+	<input type="hidden" id="readTitleFacetsdivregionfacets" value="">
+
+    <div id="divregionfacets" class="slide">
+
+
+        <ul>
+                        
+
+        </ul>
+    </div>
+</div>
+
+                    <!--<div app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder" >
+                <h4><a app-toggle-panel-opener ng-click="open()" class="opener" href="">Poste avec Management</a></h4>
+
+                <div class="slide ">
+                    <ul>
+                                                                    </ul>
+                </div>
+            </div>-->
+
+                    
+
+                    <div app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"      onclick="readTitleFacetsJob('/rekrute/userJobOffer/getFacetAjax','typecontratfacets','divtypecontratfacets')"
+>
+    <h4><a
+                        app-toggle-panel-opener ng-click="open()" class="opener" href="">Type de contrat
+                    </a>
+    </h4>
+<input type="hidden" id="readTitleFacetsdivtypecontratfacets" value="">
+    <div id="divtypecontratfacets" class="slide ">
+        <ul>
+            
+        </ul>
+    </div>
+</div>
+                    <div app-toggle-panel ng-class="{'slide-open':opened}" ignore-global class="slide-holder"      onclick="readTitleFacetsJob('/rekrute/userJobOffer/getFacetAjax','languagefacet','divlanguagefacet')"
+     >
+                <h4><a
+                                                app-toggle-panel-opener ng-click="open()" class="opener" href="">Langue                                            </a></h4>
+<input type="hidden" id="readTitleFacetsdivlanguagefacet" value="">
+                <div id="divlanguagefacet" class="slide ">
+                    <ul>
+                                                
+                    </ul>
+                </div>
+            </div>
+
+
+
+
+
+
+
+                </div>
+            </div>
+                </form>
+    
+    <div class="well well-sm class15ansMob" style="background: #fff">
+        <a target="_blank" href="test-de-personnalite-kapacity-revealer.html">
+            <img class="photo" style="height: auto; width: 100%"
+                 src="https://www.rekrute.com/images/habillage/Bann2-2-kapacity.jpg"/>
+        </a>
+    </div>
+
+    </div>
+                            </div>
+                        </div>
+                        
+                    <div class="col-md-9">
+                        <div id="" class="content-column" >
+                            
+<div class="preloader"  id="preloadDiv" style="display: none;">
+    <div class="status"></div>
+</div>
+
+<form id="LINK_USER_JOB_OFFER_INDEX"  action="/offres.html" class="form-horizontal" onsubmit="javascript:ga('send', 'event', 'Recherche-JobOffer', 'facette', 'Recherche-JobOffer');">
+    <div class="slide-block">
+        <div class="row">
+            <div class="results" style="background: #f5f5f5;padding: 12px;border-radius: 5px;margin: 12px 0px;">
+
+                <div class="input-group">
+
+
+                    
+
+                    
+                    <input type="hidden" name="st" value="d" >
+                    <input type="hidden" name="keywordNew" value="1" >
+                    <input type="hidden" name="jobLocation" value="RK" >
+                    <input id="keywordSearch" autocomplete="off" class="form-control" type="text" name="keyword"
+                           value="" placeholder="Recherche par mots clés...">
+                        <span class="input-group-btn">
+                            <button onclick="javascript:ga('send', 'event', 'Recherche-JobOffer', 'facette', 'Recherche-JobOffer');" type="submit" class="btn btn-default" type="button"><i class="fa fa-search"></i></button>
+                        </span>
+
+
+                </div>
+                <div class="suggRech row" id="suggRechResult" style="background: #fff; padding: 10px;border-radius: 0px 0px 10px 10px;height: auto;overflow: hidden;display: none" ></div>
+            </div>
+        </div>
+    </div>
+</form>
+    <div class="page-heading page-heading2">
+                                                           <h1><strong>
+                   Emploi - Maroc                                      </strong></h1>
+                    
+            </div>
+    
+                      
+    
+    
+
+
+
+
+
+<div class="slide-block">
+
+
+
+
+    <div class="pagination" style="font-size: 11px">
+                <span class="pages"><span>1                        - 10</span> sur 1 714  </span>
+
+            <div class="sort">
+            <form action="">
+                <fieldset  id="paginationApplyPageDefault">
+                    <label for="f1">Trier par</label>
+                    <select id="f1" onchange="location=this.options[this.selectedIndex].value">
+                                                    <option selected="selected"                                value="/offres.html?s=1&p=1&o=1"
+                                >
+                                Date                            </option>
+                                            </select>
+                </fieldset>
+            </form>
+        </div>
+            <ul class="amount" id="numberOfPageListe">
+                <li><a title="Afficher 10  par page" class="active"
+                   href="/offres.html?s=1&p=1&o=1">10</a>
+            </li>
+                <li><a title="Afficher 25  par page" class=""
+                   href="/offres.html?s=2&p=1&o=1">25</a>
+            </li>
+                <li><a title="Afficher 50  par page" class=""
+                   href="/offres.html?s=3&p=1&o=1">50</a>
+            </li>
+            </ul>
+        <div class="section">
+                <!--<ul>
+            <li>
+                <a href="/offres.html?p=0&s=1&o=1">1</a>
+            </li>
+        </ul>-->
+        <span class="jobs">Page 
+                    <select  onchange="location = this.value;">
+                                <option  selected   value="/offres.html?s=1&p=1&o=1">
+                1                </option>
+                                <option     value="/offres.html?s=1&p=2&o=1">
+                2                </option>
+                                <option     value="/offres.html?s=1&p=3&o=1">
+                3                </option>
+                                <option     value="/offres.html?s=1&p=4&o=1">
+                4                </option>
+                                <option     value="/offres.html?s=1&p=5&o=1">
+                5                </option>
+                                <option     value="/offres.html?s=1&p=6&o=1">
+                6                </option>
+                                <option     value="/offres.html?s=1&p=7&o=1">
+                7                </option>
+                                <option     value="/offres.html?s=1&p=8&o=1">
+                8                </option>
+                                <option     value="/offres.html?s=1&p=9&o=1">
+                9                </option>
+                                <option     value="/offres.html?s=1&p=10&o=1">
+                10                </option>
+                                <option     value="/offres.html?s=1&p=11&o=1">
+                11                </option>
+                                <option     value="/offres.html?s=1&p=12&o=1">
+                12                </option>
+                                <option     value="/offres.html?s=1&p=13&o=1">
+                13                </option>
+                                <option     value="/offres.html?s=1&p=14&o=1">
+                14                </option>
+                                <option     value="/offres.html?s=1&p=15&o=1">
+                15                </option>
+                                <option     value="/offres.html?s=1&p=16&o=1">
+                16                </option>
+                                <option     value="/offres.html?s=1&p=17&o=1">
+                17                </option>
+                                <option     value="/offres.html?s=1&p=18&o=1">
+                18                </option>
+                                <option     value="/offres.html?s=1&p=19&o=1">
+                19                </option>
+                                <option     value="/offres.html?s=1&p=20&o=1">
+                20                </option>
+                                <option     value="/offres.html?s=1&p=21&o=1">
+                21                </option>
+                                <option     value="/offres.html?s=1&p=22&o=1">
+                22                </option>
+                                <option     value="/offres.html?s=1&p=23&o=1">
+                23                </option>
+                                <option     value="/offres.html?s=1&p=24&o=1">
+                24                </option>
+                                <option     value="/offres.html?s=1&p=25&o=1">
+                25                </option>
+                                <option     value="/offres.html?s=1&p=26&o=1">
+                26                </option>
+                                <option     value="/offres.html?s=1&p=27&o=1">
+                27                </option>
+                                <option     value="/offres.html?s=1&p=28&o=1">
+                28                </option>
+                                <option     value="/offres.html?s=1&p=29&o=1">
+                29                </option>
+                                <option     value="/offres.html?s=1&p=30&o=1">
+                30                </option>
+                                <option     value="/offres.html?s=1&p=31&o=1">
+                31                </option>
+                                <option     value="/offres.html?s=1&p=32&o=1">
+                32                </option>
+                                <option     value="/offres.html?s=1&p=33&o=1">
+                33                </option>
+                                <option     value="/offres.html?s=1&p=34&o=1">
+                34                </option>
+                                <option     value="/offres.html?s=1&p=35&o=1">
+                35                </option>
+                                <option     value="/offres.html?s=1&p=36&o=1">
+                36                </option>
+                                <option     value="/offres.html?s=1&p=37&o=1">
+                37                </option>
+                                <option     value="/offres.html?s=1&p=38&o=1">
+                38                </option>
+                                <option     value="/offres.html?s=1&p=39&o=1">
+                39                </option>
+                                <option     value="/offres.html?s=1&p=40&o=1">
+                40                </option>
+                                <option     value="/offres.html?s=1&p=41&o=1">
+                41                </option>
+                                <option     value="/offres.html?s=1&p=42&o=1">
+                42                </option>
+                                <option     value="/offres.html?s=1&p=43&o=1">
+                43                </option>
+                                <option     value="/offres.html?s=1&p=44&o=1">
+                44                </option>
+                                <option     value="/offres.html?s=1&p=45&o=1">
+                45                </option>
+                                <option     value="/offres.html?s=1&p=46&o=1">
+                46                </option>
+                                <option     value="/offres.html?s=1&p=47&o=1">
+                47                </option>
+                                <option     value="/offres.html?s=1&p=48&o=1">
+                48                </option>
+                                <option     value="/offres.html?s=1&p=49&o=1">
+                49                </option>
+                                <option     value="/offres.html?s=1&p=50&o=1">
+                50                </option>
+                                <option     value="/offres.html?s=1&p=51&o=1">
+                51                </option>
+                                <option     value="/offres.html?s=1&p=52&o=1">
+                52                </option>
+                                <option     value="/offres.html?s=1&p=53&o=1">
+                53                </option>
+                                <option     value="/offres.html?s=1&p=54&o=1">
+                54                </option>
+                                <option     value="/offres.html?s=1&p=55&o=1">
+                55                </option>
+                                <option     value="/offres.html?s=1&p=56&o=1">
+                56                </option>
+                                <option     value="/offres.html?s=1&p=57&o=1">
+                57                </option>
+                                <option     value="/offres.html?s=1&p=58&o=1">
+                58                </option>
+                                <option     value="/offres.html?s=1&p=59&o=1">
+                59                </option>
+                                <option     value="/offres.html?s=1&p=60&o=1">
+                60                </option>
+                                <option     value="/offres.html?s=1&p=61&o=1">
+                61                </option>
+                                <option     value="/offres.html?s=1&p=62&o=1">
+                62                </option>
+                                <option     value="/offres.html?s=1&p=63&o=1">
+                63                </option>
+                                <option     value="/offres.html?s=1&p=64&o=1">
+                64                </option>
+                                <option     value="/offres.html?s=1&p=65&o=1">
+                65                </option>
+                                <option     value="/offres.html?s=1&p=66&o=1">
+                66                </option>
+                                <option     value="/offres.html?s=1&p=67&o=1">
+                67                </option>
+                                <option     value="/offres.html?s=1&p=68&o=1">
+                68                </option>
+                                <option     value="/offres.html?s=1&p=69&o=1">
+                69                </option>
+                                <option     value="/offres.html?s=1&p=70&o=1">
+                70                </option>
+                                <option     value="/offres.html?s=1&p=71&o=1">
+                71                </option>
+                                <option     value="/offres.html?s=1&p=72&o=1">
+                72                </option>
+                                <option     value="/offres.html?s=1&p=73&o=1">
+                73                </option>
+                                <option     value="/offres.html?s=1&p=74&o=1">
+                74                </option>
+                                <option     value="/offres.html?s=1&p=75&o=1">
+                75                </option>
+                                <option     value="/offres.html?s=1&p=76&o=1">
+                76                </option>
+                                <option     value="/offres.html?s=1&p=77&o=1">
+                77                </option>
+                                <option     value="/offres.html?s=1&p=78&o=1">
+                78                </option>
+                                <option     value="/offres.html?s=1&p=79&o=1">
+                79                </option>
+                                <option     value="/offres.html?s=1&p=80&o=1">
+                80                </option>
+                                <option     value="/offres.html?s=1&p=81&o=1">
+                81                </option>
+                                <option     value="/offres.html?s=1&p=82&o=1">
+                82                </option>
+                                <option     value="/offres.html?s=1&p=83&o=1">
+                83                </option>
+                                <option     value="/offres.html?s=1&p=84&o=1">
+                84                </option>
+                                <option     value="/offres.html?s=1&p=85&o=1">
+                85                </option>
+                                <option     value="/offres.html?s=1&p=86&o=1">
+                86                </option>
+                                <option     value="/offres.html?s=1&p=87&o=1">
+                87                </option>
+                                <option     value="/offres.html?s=1&p=88&o=1">
+                88                </option>
+                                <option     value="/offres.html?s=1&p=89&o=1">
+                89                </option>
+                                <option     value="/offres.html?s=1&p=90&o=1">
+                90                </option>
+                                <option     value="/offres.html?s=1&p=91&o=1">
+                91                </option>
+                                <option     value="/offres.html?s=1&p=92&o=1">
+                92                </option>
+                                <option     value="/offres.html?s=1&p=93&o=1">
+                93                </option>
+                                <option     value="/offres.html?s=1&p=94&o=1">
+                94                </option>
+                                <option     value="/offres.html?s=1&p=95&o=1">
+                95                </option>
+                                <option     value="/offres.html?s=1&p=96&o=1">
+                96                </option>
+                                <option     value="/offres.html?s=1&p=97&o=1">
+                97                </option>
+                                <option     value="/offres.html?s=1&p=98&o=1">
+                98                </option>
+                                <option     value="/offres.html?s=1&p=99&o=1">
+                99                </option>
+                                <option     value="/offres.html?s=1&p=100&o=1">
+                100                </option>
+                            </select> sur            
+             172</span>
+                   
+            <a href="/offres.html?p=2&s=1&o=1"
+               class="next"></a>
+            </div>
+</div>
+
+
+    <ul class="job-list job-list2" id="post-data">
+
+                    <li class="post-id" id="159515" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/capgemini-engineering-emploi-recrutement-337544.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/159515"
+         width="115"  alt="Capgemini Engineering" title="Capgemini Engineering" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-approvisionneur-junior-recrutement-capgemini-engineering-casablanca-159515.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-approvisionneur-junior-recrutement-capgemini-engineering-casablanca-159515.html">
+                                    Approvisionneur Junior | Casablanca (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159515"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span>1</span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	Capgemini Engineering&nbsp;est la marque du groupe Capgemini r&eacute;unissant les services d&#39;ing&eacute;nierie et de R&amp;D d&rsquo;Altran, leader mondial du secteur dont Capgemini a finalis&eacute; l&rsquo;acquisition en 2020, et l&rsquo;expertise de...									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Vous maitrisez :
+
+	&bull; Gestion d&rsquo;approvisionnement
+	&bull; Technique de gestion du stock
+	&bull; M&eacute;thodes de gestion de production
+
+	Vous &ecirc;tes dot&eacute;s d&rsquo;une :
+
+	&bull; Capacit&eacute; de r&eacute;solution de...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                            |  Postes proposés: <span>20</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=1">Aéronautique / Spatial</a>
+
+                                                                                            - <a href="/offres.html?sectorId%5B0%5D=7">Automobile / Motos / Cycles</a>
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=1&positionId%5B1%5D=15">Achats / Supply Chain</a>                                            											, <a href="/offres.html?positionId%5B0%5D=15&positionId%5B1%5D=1">Logistique / Transport (métiers de)</a>
+												                                        </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=2">
+                                                Moins de 1 an                                            </a>
+
+                                                                                            -  <a href="/offres.html?workExperienceId%5B0%5D=3">
+                                                    De 1 à 3 ans                                                </a>
+                                                
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac5%2B">
+                                                Bac +5 et plus                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Hybride                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="159514" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/orh-assessment-emploi-recrutement-1392.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/159514"
+         width="115"  alt="ORH Assessment" title="ORH Assessment" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-plant-human-resources-manager-recrutement-orh-assessment-tanger-159514.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-plant-human-resources-manager-recrutement-orh-assessment-tanger-159514.html">
+                                    Plant Human Resources Manager | Tanger (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159514"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span>1</span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	ORH Assessment, filiale du groupe LMS ORH, est un cabinet conseil en recrutement qui offre &eacute;galement des prestations en Assessment et prend en charge l&rsquo;organisation de concours pour le compte de grandes entreprises publiques et priv&eacute;es.
+									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Responsabilit&eacute;s :
+
+	&nbsp;
+
+	
+		D&eacute;velopper et mettre en &oelig;uvre des politiques RH sp&eacute;cifiques au secteur, en tenant compte des besoins uniques des employ&eacute;s travaillant dans un environnement industriel.
+	
+		Superviser le...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                            |  Postes proposés: <span>1</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=7">Automobile / Motos / Cycles</a>
+
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=21&positionId%5B1%5D=">RH / Personnel / Formation</a>                                                                                    </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=6">
+                                                De 10 à 20 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac5%2B">
+                                                Bac +5 et plus                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Non                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="159513" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/al-hoceinia-emploi-recrutement-334191.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/159513"
+         width="115"  alt="Al Hoceinia" title="Al Hoceinia" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-conseillere-commerciale-en-immobilier---junior-recrutement-al-hoceinia-casablanca-159513.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-conseillere-commerciale-en-immobilier---junior-recrutement-al-hoceinia-casablanca-159513.html">
+                                    Conseiller(e) Commercial(e) en Immobilier - Junior | Casablanca (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159513"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span></span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	Depuis plus de 60 ans, le Groupe AL HOCEINIA a relev&eacute; de nombreux d&eacute;fis. C&#39;est notre capital humain, engag&eacute; &agrave; nos c&ocirc;t&eacute;s, qui nous a permis de hisser le groupe parmi les acteurs majeurs du d&eacute;veloppement...									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Votre mission sera de r&eacute;aliser les objectifs de r&eacute;servation, de recouvrement et de d&eacute;stockage tout en assurant une excellente qualit&eacute; de service aux clients:
+	&bull; Promouvoir les produits aupr&egrave;s de la client&egrave;le...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                            |  Postes proposés: <span>1</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=7">Automobile / Motos / Cycles</a>
+
+                                                                                            - <a href="/offres.html?sectorId%5B0%5D=23">Immobilier / Promoteur / Agence</a>
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=24&positionId%5B1%5D=27">Call Centers (métiers de)</a>                                            											, <a href="/offres.html?positionId%5B0%5D=27&positionId%5B1%5D=24">Commercial / Vente / Export</a>
+												                                        </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=3">
+                                                De 1 à 3 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac3">
+                                                Bac +3                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Non                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="157948" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/atos-nearshore-emploi-recrutement-323443.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/157948"
+         width="115"  alt="Atos Nearshore" title="Atos Nearshore" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-chef-de-projet-bancaire-tma-recrutement-atos-nearshore-casablanca-157948.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-chef-de-projet-bancaire-tma-recrutement-atos-nearshore-casablanca-157948.html">
+                                    Chef de Projet Bancaire TMA | Casablanca (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike157948"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span>2</span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	Atos est un leader international de la transformation digitale avec 111 000 collaborateurs et un chiffre d&rsquo;affaires annuel d&rsquo;environ 11 milliards d&rsquo;euros. Num&eacute;ro un europ&eacute;en du cloud, de la cybers&eacute;curit&eacute; et des...									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	En tant que Chef de Projet Bancaire, vous serez responsable de la gestion et du pilotage de projets li&eacute;s &agrave; la TMA . Vous dirigerez une &eacute;quipe dynamique et assurerez le suivi complet du cycle de vie du projet.
+
+	Pilotage du Projet...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>18/03/2024</span>
+                                                                            |  Postes proposés: <span>1</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=10">Banque / Finance</a>
+
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=13&positionId%5B1%5D=">Informatique / Electronique</a>                                                                                    </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=6">
+                                                De 10 à 20 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac5%2B">
+                                                Bac +5 et plus                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Non                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="159512" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/sofrecom-maroc-emploi-recrutement-3292.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/159512"
+         width="115"  alt="Sofrecom Maroc" title="Sofrecom Maroc" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-concepteur-developpeur-python-hf-recrutement-sofrecom-maroc-technopolis-159512.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-concepteur-developpeur-python-hf-recrutement-sofrecom-maroc-technopolis-159512.html">
+                                    Concepteur Développeur Python (H/F) | Technopolis (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159512"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span>1</span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	Sofrecom, filiale d&#39;Orange, a d&eacute;velopp&eacute; depuis plus de 50 ans un savoir-faire unique dans les m&eacute;tiers de l&rsquo;op&eacute;rateur, qui en fait aujourd&rsquo;hui l&rsquo;un des leaders mondiaux du conseil et de...									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Dans le cadre du programme IPv6, une partie des ilots techniques sur IRAD et Infrabloc sont mis &agrave; jour en dual stack IPv4/IPv6 afin d&rsquo;offrir une connexion possible en IPv6 aux clients des infrastructures
+	Afin d&rsquo;automatiser les...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                            |  Postes proposés: <span>1</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=24">Informatique</a>
+
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=13&positionId%5B1%5D=19">Informatique / Electronique</a>                                            											, <a href="/offres.html?positionId%5B0%5D=19&positionId%5B1%5D=13">Multimédia / Internet</a>
+												                                        </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=5">
+                                                De 5 à 10 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac4">
+                                                Bac +4                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Hybride                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="159510" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <img class="photo" width="115"   alt="" src="/assets/9ad6971a/images/logo-confidentiel-200.jpg"/>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-charge-des-appels-doffres-et-marches-hf-recrutement-confidentiel-rabat-159510.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-charge-des-appels-doffres-et-marches-hf-recrutement-confidentiel-rabat-159510.html">
+                                    Chargé des Appels d'Offres et Marchés (H/F) | Rabat (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159510"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span>4</span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	Grande soci&eacute;t&eacute;, bas&eacute;e &agrave; Rabat, employant plus de 550 personnes &agrave; travers le Royaume, recrute un(e)&nbsp;Charg&eacute;(e) des appels d&#39;offres et march&eacute;s.
+
+
+									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Rattach&eacute; au P&ocirc;le Support, votre principale mission sera de soutenir l&#39;&eacute;quipe charg&eacute;e des appels d&#39;offres et des march&eacute;s en contribuant activement &agrave; l&#39;&eacute;laboration des documents, &agrave; la...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                            |  Postes proposés: <span>1</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=3">Agriculture / Environnement </a>
+
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=1&positionId%5B1%5D=2">Achats / Supply Chain</a>                                            											, <a href="/offres.html?positionId%5B0%5D=2&positionId%5B1%5D=1">Administration des ventes / SAV</a>
+												                                        </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=3">
+                                                De 1 à 3 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac3">
+                                                Bac +3                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Non                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="159509" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/aria-group-emploi-recrutement-1720.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/159509"
+         width="115"  alt="Aria group" title="Aria group" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-acheteur-senior---casablanca-recrutement-aria-group-casablanca-159509.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-acheteur-senior---casablanca-recrutement-aria-group-casablanca-159509.html">
+                                    Acheteur Senior - Casablanca | Casablanca (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159509"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span></span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	&nbsp;ARIA, filiale de Tenor Group, est une soci&eacute;t&eacute; marocaine r&eacute;unissant d&eacute;sormais Accolade Center (Casablanca), Isosell (Rabat) et T&eacute;nor Software Factory sous la m&ecirc;me entit&eacute;, sp&eacute;cialis&eacute; dans la...									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Rattach&eacute;(e) au Responsable Achat et moyens g&eacute;n&eacute;raux, votre principale responsabilit&eacute; est de contribuer &agrave; la d&eacute;finition de la strat&eacute;gie achat et de veiller &agrave; sa mise en &oelig;uvre au niveau de son...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                            |  Postes proposés: <span>1</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=12">Centre d'appel</a>
+
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=1&positionId%5B1%5D=">Achats / Supply Chain</a>                                                                                    </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=5">
+                                                De 5 à 10 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac4">
+                                                Bac +4                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Non                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="159508" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/labomag-emploi-recrutement-331528.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/159508"
+         width="115"  alt="Labomag" title="Labomag" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-assistante-daccueil-recrutement-labomag-casablanca-159508.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-assistante-daccueil-recrutement-labomag-casablanca-159508.html">
+                                    Assistante d'Accueil | Casablanca (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159508"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span></span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	Fond&eacute;e en 2000, Labomag, filiale du groupe Bureau Veritas et premier laboratoire agronomique au Maroc, se positionne en tant que Laboratoire pionnier et sp&eacute;cialis&eacute; dans l&#39;analyse de produits agronomiques, agroalimentaires,...									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Sous la responsabilit&eacute; du Responsable BU , vos missions seront :
+
+	Accueil physique et t&eacute;l&eacute;phonique :
+
+	&bull; Op&eacute;rer le standard t&eacute;l&eacute;phonique, assurer le filtrage et la redirection des appels.
+	&bull; Orienter et...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                            |  Postes proposés: <span>1</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : Autre</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=4">Agroalimentaire</a>
+
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=22&positionId%5B1%5D=">Assistanat de Direction / Services Généraux</a>                                                                                    </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=3">
+                                                De 1 à 3 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac3">
+                                                Bac +3                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=7">Autre</a>
+												- Télétravail : Non                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="159507" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/labomag-emploi-recrutement-331528.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/159507"
+         width="115"  alt="Labomag" title="Labomag" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-chargee-de-paie-et-administration-rh-recrutement-labomag-casablanca-159507.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-chargee-de-paie-et-administration-rh-recrutement-labomag-casablanca-159507.html">
+                                    Chargé(e) de Paie et Administration RH | Casablanca (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159507"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span></span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	Fond&eacute;e en 2000, Labomag, filiale du groupe Bureau Veritas et premier laboratoire agronomique au Maroc, se positionne en tant que Laboratoire pionnier et sp&eacute;cialis&eacute; dans l&#39;analyse de produits agronomiques, agroalimentaires,...									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Rattach&eacute; (e) au Responsable Ressources Humaines , vos missions seront:
+
+	&bull; Traitement de la paie : Collecte et validation des &eacute;l&eacute;ments variables..
+	&bull; Pr&eacute;parer les rapports de paie, les d&eacute;clarations...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                            |  Postes proposés: <span>1</span>
+                                                                        </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=8">Autres Industries</a>
+
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=21&positionId%5B1%5D=">RH / Personnel / Formation</a>                                                                                    </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=4">
+                                                De 3 à 5 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac4">
+                                                Bac +4                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Non                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+                    <li class="post-id" id="159506" >
+                <div>
+                    <div class="col-sm-2 col-xs-12" style="text-align: center; padding-right: 3px;
+    padding-left: 2px;">
+                                                    <a href="/cgi-technologies-et-solutions-maroc-emploi-recrutement-311885.html">
+                                    <img style="max-width: 100%;"
+        src="/rekrute/file/jobOfferLogo/jobOfferId/159506"
+         width="115"  alt="CGI Technologies et Solutions Maroc" title="CGI Technologies et Solutions Maroc" class="photo">
+                            </a>
+                                                <!--------------------------SCORE matching--------------------------------------->
+                        
+                                                <div style="margin-bottom: 20px;">
+                            <a target="_blank"  href="/offre-emploi-consultant-devops-sreiops-senior-fh-recrutement-cgi-technologies-et-solutions-maroc-casablanca-159506.html?#matching4K" class="btn btn-primary lancer4KRK">  Lancer 4K  </a>
+                        </div>
+                        <!--------------------------Fin Score Matching----------------------------------->
+                    </div>
+                    <div class="col-sm-10 col-xs-12">
+                        <div class="section" >
+                            <h2 style="width:90%">
+							                                                                 <a class='titreJob' href="/offre-emploi-consultant-devops-sreiops-senior-fh-recrutement-cgi-technologies-et-solutions-maroc-casablanca-159506.html">
+                                    Consultant DevOps SRE/IOPS Sénior ( F/H) | Casablanca (Maroc)                                </a>
+                            </h2>
+
+                                                            <a id="connecteTolike159506"  class="addlikebtns" >
+                                    <i  class="fa fa-heart-o" aria-hidden="true"></i>
+                                    <span>1</span>
+                                </a>
+                                
+                            
+                            <div class="holder" style="position: relative;">
+
+
+
+
+                                
+
+
+
+
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-industry" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;">
+									
+	&Agrave; propos de CGI
+
+	Fond&eacute;e en&nbsp;1976, CGI figure parmi les plus importantes entreprises ind&eacute;pendantes de services-conseils en technologie de l&rsquo;information (TI) et en management au monde. CGI compte 78&nbsp;000&nbsp;conseillers et...									  </span>
+                                </div>
+                                <div class="info" style="margin: 9px 0px 5px 0px;">
+                                    <i class="fa fa-binoculars" aria-hidden="true"></i>
+                                    <span style="color: #5b5b5b;margin-top: 5px;">
+									
+	Dans le cadre d&#39;une &eacute;quipe jeune d&#39;esprit et &eacute;tant rattach&eacute; &agrave; la squad Supply, le SRE / IOps a pour mission d&#39;int&eacute;grer et d&eacute;ployer les &eacute;l&eacute;ments livr&eacute;s par la ligne produit de...									 </span>
+                                </div>
+
+                                <em class="date"><i class="fa fa-clock-o" aria-hidden="true"></i>
+                                    Publication : du                                    <span>07/03/2024</span>
+                                    au                                    <span>07/05/2024</span>
+                                                                    </em>
+
+                                                                <div class="info">
+
+                                    <i class="fa fa-info-circle" aria-hidden="true"></i>
+                                    <ul style="display: block;margin-top: -15px;">
+                                        <!--<li>Type de contrat : CDI</li>-->
+                                        <li>Secteur d'activité : <a href="/offres.html?sectorId%5B0%5D=24">Informatique</a>
+
+                                                                                    </li>
+                                        <li>Fonction : <a href="/offres.html?positionId%5B0%5D=13&positionId%5B1%5D=23">Informatique / Electronique</a>                                            											, <a href="/offres.html?positionId%5B0%5D=23&positionId%5B1%5D=13">Télécoms / Réseaux</a>
+												                                        </li>
+                                        <li>
+                                            Expérience requise :
+                                            <a href="/offres.html?workExperienceId%5B0%5D=5">
+                                                De 5 à 10 ans                                            </a>
+
+                                            
+                                        </li>
+                                        <li>
+                                            Niveau d'étude demandé :
+
+                                            <a href="/offres.html?studyLevelId=bac5%2B">
+                                                Bac +5 et plus                                            </a>
+
+                                        </li>
+                                        <li>
+                                            Type de contrat proposé :
+                                            <a href="/offres.html?contractType=1">CDI</a>
+												- Télétravail : Hybride                                        </li>
+
+                                    </ul>
+									
+									
+									
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </li>
+        
+
+    </ul>
+
+    <div class="pagination" style="font-size: 11px">
+                <span class="pages"><span>1                        - 10</span> sur 1 714  </span>
+
+            <div class="sort">
+            <form action="">
+                <fieldset  id="paginationApplyPageDefault">
+                    <label for="f1">Trier par</label>
+                    <select id="f1" onchange="location=this.options[this.selectedIndex].value">
+                                                    <option selected="selected"                                value="/offres.html?s=1&p=1&o=1"
+                                >
+                                Date                            </option>
+                                            </select>
+                </fieldset>
+            </form>
+        </div>
+            <ul class="amount" id="numberOfPageListe">
+                <li><a title="Afficher 10  par page" class="active"
+                   href="/offres.html?s=1&p=1&o=1">10</a>
+            </li>
+                <li><a title="Afficher 25  par page" class=""
+                   href="/offres.html?s=2&p=1&o=1">25</a>
+            </li>
+                <li><a title="Afficher 50  par page" class=""
+                   href="/offres.html?s=3&p=1&o=1">50</a>
+            </li>
+            </ul>
+        <div class="section">
+                <!--<ul>
+            <li>
+                <a href="/offres.html?p=0&s=1&o=1">1</a>
+            </li>
+        </ul>-->
+        <span class="jobs">Page 
+                    <select  onchange="location = this.value;">
+                                <option  selected   value="/offres.html?s=1&p=1&o=1">
+                1                </option>
+                                <option     value="/offres.html?s=1&p=2&o=1">
+                2                </option>
+                                <option     value="/offres.html?s=1&p=3&o=1">
+                3                </option>
+                                <option     value="/offres.html?s=1&p=4&o=1">
+                4                </option>
+                                <option     value="/offres.html?s=1&p=5&o=1">
+                5                </option>
+                                <option     value="/offres.html?s=1&p=6&o=1">
+                6                </option>
+                                <option     value="/offres.html?s=1&p=7&o=1">
+                7                </option>
+                                <option     value="/offres.html?s=1&p=8&o=1">
+                8                </option>
+                                <option     value="/offres.html?s=1&p=9&o=1">
+                9                </option>
+                                <option     value="/offres.html?s=1&p=10&o=1">
+                10                </option>
+                                <option     value="/offres.html?s=1&p=11&o=1">
+                11                </option>
+                                <option     value="/offres.html?s=1&p=12&o=1">
+                12                </option>
+                                <option     value="/offres.html?s=1&p=13&o=1">
+                13                </option>
+                                <option     value="/offres.html?s=1&p=14&o=1">
+                14                </option>
+                                <option     value="/offres.html?s=1&p=15&o=1">
+                15                </option>
+                                <option     value="/offres.html?s=1&p=16&o=1">
+                16                </option>
+                                <option     value="/offres.html?s=1&p=17&o=1">
+                17                </option>
+                                <option     value="/offres.html?s=1&p=18&o=1">
+                18                </option>
+                                <option     value="/offres.html?s=1&p=19&o=1">
+                19                </option>
+                                <option     value="/offres.html?s=1&p=20&o=1">
+                20                </option>
+                                <option     value="/offres.html?s=1&p=21&o=1">
+                21                </option>
+                                <option     value="/offres.html?s=1&p=22&o=1">
+                22                </option>
+                                <option     value="/offres.html?s=1&p=23&o=1">
+                23                </option>
+                                <option     value="/offres.html?s=1&p=24&o=1">
+                24                </option>
+                                <option     value="/offres.html?s=1&p=25&o=1">
+                25                </option>
+                                <option     value="/offres.html?s=1&p=26&o=1">
+                26                </option>
+                                <option     value="/offres.html?s=1&p=27&o=1">
+                27                </option>
+                                <option     value="/offres.html?s=1&p=28&o=1">
+                28                </option>
+                                <option     value="/offres.html?s=1&p=29&o=1">
+                29                </option>
+                                <option     value="/offres.html?s=1&p=30&o=1">
+                30                </option>
+                                <option     value="/offres.html?s=1&p=31&o=1">
+                31                </option>
+                                <option     value="/offres.html?s=1&p=32&o=1">
+                32                </option>
+                                <option     value="/offres.html?s=1&p=33&o=1">
+                33                </option>
+                                <option     value="/offres.html?s=1&p=34&o=1">
+                34                </option>
+                                <option     value="/offres.html?s=1&p=35&o=1">
+                35                </option>
+                                <option     value="/offres.html?s=1&p=36&o=1">
+                36                </option>
+                                <option     value="/offres.html?s=1&p=37&o=1">
+                37                </option>
+                                <option     value="/offres.html?s=1&p=38&o=1">
+                38                </option>
+                                <option     value="/offres.html?s=1&p=39&o=1">
+                39                </option>
+                                <option     value="/offres.html?s=1&p=40&o=1">
+                40                </option>
+                                <option     value="/offres.html?s=1&p=41&o=1">
+                41                </option>
+                                <option     value="/offres.html?s=1&p=42&o=1">
+                42                </option>
+                                <option     value="/offres.html?s=1&p=43&o=1">
+                43                </option>
+                                <option     value="/offres.html?s=1&p=44&o=1">
+                44                </option>
+                                <option     value="/offres.html?s=1&p=45&o=1">
+                45                </option>
+                                <option     value="/offres.html?s=1&p=46&o=1">
+                46                </option>
+                                <option     value="/offres.html?s=1&p=47&o=1">
+                47                </option>
+                                <option     value="/offres.html?s=1&p=48&o=1">
+                48                </option>
+                                <option     value="/offres.html?s=1&p=49&o=1">
+                49                </option>
+                                <option     value="/offres.html?s=1&p=50&o=1">
+                50                </option>
+                                <option     value="/offres.html?s=1&p=51&o=1">
+                51                </option>
+                                <option     value="/offres.html?s=1&p=52&o=1">
+                52                </option>
+                                <option     value="/offres.html?s=1&p=53&o=1">
+                53                </option>
+                                <option     value="/offres.html?s=1&p=54&o=1">
+                54                </option>
+                                <option     value="/offres.html?s=1&p=55&o=1">
+                55                </option>
+                                <option     value="/offres.html?s=1&p=56&o=1">
+                56                </option>
+                                <option     value="/offres.html?s=1&p=57&o=1">
+                57                </option>
+                                <option     value="/offres.html?s=1&p=58&o=1">
+                58                </option>
+                                <option     value="/offres.html?s=1&p=59&o=1">
+                59                </option>
+                                <option     value="/offres.html?s=1&p=60&o=1">
+                60                </option>
+                                <option     value="/offres.html?s=1&p=61&o=1">
+                61                </option>
+                                <option     value="/offres.html?s=1&p=62&o=1">
+                62                </option>
+                                <option     value="/offres.html?s=1&p=63&o=1">
+                63                </option>
+                                <option     value="/offres.html?s=1&p=64&o=1">
+                64                </option>
+                                <option     value="/offres.html?s=1&p=65&o=1">
+                65                </option>
+                                <option     value="/offres.html?s=1&p=66&o=1">
+                66                </option>
+                                <option     value="/offres.html?s=1&p=67&o=1">
+                67                </option>
+                                <option     value="/offres.html?s=1&p=68&o=1">
+                68                </option>
+                                <option     value="/offres.html?s=1&p=69&o=1">
+                69                </option>
+                                <option     value="/offres.html?s=1&p=70&o=1">
+                70                </option>
+                                <option     value="/offres.html?s=1&p=71&o=1">
+                71                </option>
+                                <option     value="/offres.html?s=1&p=72&o=1">
+                72                </option>
+                                <option     value="/offres.html?s=1&p=73&o=1">
+                73                </option>
+                                <option     value="/offres.html?s=1&p=74&o=1">
+                74                </option>
+                                <option     value="/offres.html?s=1&p=75&o=1">
+                75                </option>
+                                <option     value="/offres.html?s=1&p=76&o=1">
+                76                </option>
+                                <option     value="/offres.html?s=1&p=77&o=1">
+                77                </option>
+                                <option     value="/offres.html?s=1&p=78&o=1">
+                78                </option>
+                                <option     value="/offres.html?s=1&p=79&o=1">
+                79                </option>
+                                <option     value="/offres.html?s=1&p=80&o=1">
+                80                </option>
+                                <option     value="/offres.html?s=1&p=81&o=1">
+                81                </option>
+                                <option     value="/offres.html?s=1&p=82&o=1">
+                82                </option>
+                                <option     value="/offres.html?s=1&p=83&o=1">
+                83                </option>
+                                <option     value="/offres.html?s=1&p=84&o=1">
+                84                </option>
+                                <option     value="/offres.html?s=1&p=85&o=1">
+                85                </option>
+                                <option     value="/offres.html?s=1&p=86&o=1">
+                86                </option>
+                                <option     value="/offres.html?s=1&p=87&o=1">
+                87                </option>
+                                <option     value="/offres.html?s=1&p=88&o=1">
+                88                </option>
+                                <option     value="/offres.html?s=1&p=89&o=1">
+                89                </option>
+                                <option     value="/offres.html?s=1&p=90&o=1">
+                90                </option>
+                                <option     value="/offres.html?s=1&p=91&o=1">
+                91                </option>
+                                <option     value="/offres.html?s=1&p=92&o=1">
+                92                </option>
+                                <option     value="/offres.html?s=1&p=93&o=1">
+                93                </option>
+                                <option     value="/offres.html?s=1&p=94&o=1">
+                94                </option>
+                                <option     value="/offres.html?s=1&p=95&o=1">
+                95                </option>
+                                <option     value="/offres.html?s=1&p=96&o=1">
+                96                </option>
+                                <option     value="/offres.html?s=1&p=97&o=1">
+                97                </option>
+                                <option     value="/offres.html?s=1&p=98&o=1">
+                98                </option>
+                                <option     value="/offres.html?s=1&p=99&o=1">
+                99                </option>
+                                <option     value="/offres.html?s=1&p=100&o=1">
+                100                </option>
+                            </select> sur            
+             172</span>
+                   
+            <a href="/offres.html?p=2&s=1&o=1"
+               class="next"></a>
+            </div>
+</div></div>
+<div class="row classOnlyforMob" style="background: #fff; display:none;">
+    <a target="_blank" href="test-de-personnalite-kapacity-revealer.html">
+        <img class="photo" style="height: auto; width: 100%; margin-top:20px;"
+             src="https://www.rekrute.com/images/habillage/Bann2-mobile-4.jpg"/>
+    </a>
+</div>
+
+<style>
+    .progressbar-title{
+        font-size: 14px !important;
+        color: #848484 !important;
+        text-transform: capitalize !important;
+    }
+    .progress{
+        height: 5px !important;
+        overflow: visible !important;
+        background: #f0f0f0 !important;
+        margin-bottom: 20px !important;
+    }
+    .progress .progress-bar{
+        position: relative !important;
+        animation: animate-positive 3s !important;
+    }
+    .progress .progress-icon{
+        width: 30px !important;
+        height: 30px !important;
+        line-height: 25px !important;
+        border-radius: 50% !important;
+        font-size: 13px !important;
+        position: absolute !important;
+        top: -14px !important;
+        right: 0 !important;
+        background: #fff !important;
+        border-width: 3px !important;
+        border-style: solid !important;
+    }
+    .progress-value{
+        font-size: 11px !important;
+        /*position: absolute !important;*/
+        /*top: 20px !important;*/
+        /*right: -89px !important;*/
+        /* width: 150px !important;
+         padding: 2px !important;
+         color: #5b5b5b !important;
+         border-radius: 6px !important;*/
+        margin-bottom:10px;
+        font-weight: bold !important;
+    }
+    @-webkit-keyframes animate-positive {
+        0% { width: 0% !important; }
+    }
+    @keyframes animate-positive {
+        0% { width: 0% !important; }
+    }
+
+    .results label, .results ul li a {
+        font-size: 12px !important;
+        line-height: 18px;
+        text-align: justify;
+
+    }
+</style>
+
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+                    <!--<div class="footer-first">
+    <a target="_blank" href="https://play.google.com/store/apps/details?id=com.rekrutev2.mobile"><img alt="Google Play Store" src="http://www.rekrute.com/websites/rekrute/templates/rekrute/htmls/images/download-app/Mobile-friendly-playstore-btn-v3.png"></a>
+    <a href="https://www.facebook.com/profile.php?id=157024271026716&amp;fref=ts"><i class="fa fa-facebook-square"></i></a>
+    <a href="https://twitter.com/rekrutecom"><i class="fa fa-twitter"></i></a>
+    <a href="https://www.linkedin.com/company/rekrute.com"><i class="fa fa-linkedin"></i></a>
+    <a href="https://www.youtube.com/user/Rekrute1"><i class="fa fa-youtube"></i></a>
+    <a target="_blank" href="https://itunes.apple.com/us/app/rekrute.com/id1050586230?l=fr&amp;ls=1&amp;mt=8"><img alt="App Store" src="http://www.rekrute.com/websites/rekrute/templates/rekrute/htmls/images/download-app/Mobile-friendly-applestore-btn-v3.png"></a>
+</div>-->
+<div class="subbar">
+
+    <div class="row icons-links">
+        <div class="col-xs-3">
+            <a title="home" class="icon-0 actionPreloadDiv" href="/"><span style="margin: 25px 0px 0px -11px;">Accueil</span></a>
+        </div>
+        <div class="col-xs-3">
+
+            <a title="Les offres" class="icon-1 actionPreloadDiv" href="/offres.html"><span style="margin: 25px 0px 0px -9px;">Offres</span></a>
+        </div>
+        <div class="col-xs-3">
+            <a title="Conseils Karrière" class="icon-2 actionPreloadDiv" href="/emploi-recrutement-conseils-carriere.html"><span style="margin: 25px 0px 0px -13px;">Conseils</span></a>
+
+        </div>
+        <div class="col-xs-3">
+            <a title="Les entreprises qui ReKrutent" class="icon-3  actionPreloadDiv" href="/emploi-et-offres-de-recrutement-maroc-tunisie-afrique.html"><span style="margin: 25px 0px 0px -21px;">Entreprises</span></a>
+        </div>
+    </div>
+</div>
+
+<footer class="footer footer-color-black backgroudDegraddeRk">
+    <div class="container">
+        <div class="row">
+            <a href="" data-scroll="true" data-id="#fortopscroll" class="scroll-arrow hidden-xs hidden-sm"><i class="fa fa-angle-up"></i></a>
+            <div class="col-sm-12 col-lg-12">
+                <div class="cols">
+                    <div class="col-sm-6 col-md-2">
+                        <div class="row">
+                            <div class="col-sm-12 col-lg-12" style="text-align: center;margin-top:140px;">
+                                <img style="    width: 100%;   opacity: 0.6;" src="https://www.rekrute.com/images/public/awardsa-frican.svg">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-2">
+                        <div class="col">
+                            <h3>Navigation rapide</h3>
+                            <ul>
+								<li><a class=" actionPreloadDiv"  href="/">Accueil</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/mentions-legales.html">Mentions légales</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/politique-qualite.html">Politique Qualité</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/politique-environnementale.html">Politique Environnementale</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/foire-aux-questions.html">FAQ</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/contactez-nous.html">Contactez-nous</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/partenaires-de-rekrute.html">Nos partenaires</a></li>
+                                <!--li><a class=" actionPreloadDiv"  href="">Qui sommes-nous ?</a></li-->
+                                <li><a class=" actionPreloadDiv"  href="/presse-et-media.html">Presse</a></li>
+                                								<li><a class=" actionPreloadDiv"  href="/plan-du-site-rekrute.html">Plan du site</a></li>
+								                                <!--<li><a class=" actionPreloadDiv"  href="http://www.infosmaroc.com">Publicité</a></li>-->
+                                                                    <li><a class=" actionPreloadDiv" target="_blank"
+                                           href="https://www.exekutive.biz">ExeKutive.biz</a>
+                                    </li>
+                                                                    <!--<li><a class=" actionPreloadDiv"  href="http://www.rekruteknowledge.com">ReKruteKnowledge.com</a></li>-->
+                                <!--<li><a class=" actionPreloadDiv"  href="/info_mobile_rek.php">Version Mobile</a></li>-->
+                                <!--<li><a target="_blank"    href="http://www.selektimmo.com">Immobilier Maroc</a></li>-->
+
+                            </ul>
+                        </div>
+                                                    <div class="row">
+                                <div class="col-md-12">
+                                    <br/>
+                                    <h3 class="footer-title">Téléchargez notre application :</h3>
+                                    <a href="https://play.google.com/store/apps/details?id=com.rekrute.rekrutemobileapp&hl=fr&gl=US&pli=1"><img
+                                            src="https://www.rekrute.com/images/google-play-badge.png"
+                                            style="margin-bottom: 10px;"/></a>
+                                </div>
+                            </div>
+                                                </div>
+                    <div class="col-sm-6 col-md-3">
+                        <div class="col">
+                            <h3>Les offres par fonction</h3>
+                                                            <ul>
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-commercial-vente-export-fonction-27.html">Offre d'emploi: Commercial / Vente / Export</a>
+                                    </li>
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-production-qualite-securite-fonction-20.html">Offre d'emploi: Production / Qualité / Sécurité</a>
+                                    </li>
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-gestion-comptabilite-finance-fonction-12.html">Offre d'emploi: Gestion / Comptabilité / Finance</a>
+                                    </li>
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-rh-personnel-formation-fonction-21.html">Offre d'emploi: RH / Personnel / Formation</a>
+                                    </li>
+
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-informatique-electronique-fonction-13.html">Offre d'emploi: Informatique / Electronique</a>
+                                    </li>
+
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-gestion-projet-etudes-rd-fonction-11.html">Offre d'emploi: Gestion projet / Etudes / R&D</a>
+                                    </li>
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-travaux-chantiers-btp-fonction-25.html">Offre d'emploi: Travaux / Chantiers / BTP</a>
+                                    </li>
+
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-marketing-ebusiness-fonction-16.html">Offre d'emploi: Marketing / EBusiness</a>
+                                    </li>
+
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-metiers-du-call-center-fonction-24.html">Offre d'emploi: Métiers du Call Center</a>
+                                    </li>
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-banque-metiers-de-la-fonction-37.html">Offre d'emploi: Banque (métiers de la)</a>
+                                    </li>
+                                    <li><a class=" actionPreloadDiv"
+                                           href="/offres-emploi-assurance-metiers-de-l-fonction-3.html">Offre d'emploi: Assurance (métiers de l')</a>
+                                    </li>
+                                </ul>
+                                                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-2">
+                        <div class="col">
+                            <h3>Les offres par secteur</h3>
+                            <ul>
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-call-center-centre-d-appel-12.html">Offre d'emploi: Call Center / Centre d'appel</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-informatique-24.html">Offre d'emploi: Informatique</a></li>
+
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-internet-multimedia-25.html">Offre d'emploi: Internet / Multimédia</a></li>
+
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-banque-finance-10.html">Offre d'emploi: Banque / Finance</a></li>
+
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-assurance-courtage-5.html">Offre d'emploi: Assurance / Courtage</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-automobile-motos-cycles-7.html">Offre d'emploi: Automobile / Motos / Cycles</a></li>
+                                <li><a  class=" actionPreloadDiv" href="/offres-emploi-agroalimentaire-4.html">Offre d'emploi: Agroalimentaire</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-offshoring-nearshoring-48.html">Offre d'emploi: Offshoring / Nearshoring</a></li>
+                                <li><a  class=" actionPreloadDiv" href="/offres-emploi-btp-genie-civil-11.html">Offre d'emploi: BTP / Génie Civil</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-distribution-16.html">Offre d'emploi: Distribution</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-hotellerie-restauration-22.html">Offre d'emploi: Hôtellerie / Restauration</a></li>
+                                <li><a class=" actionPreloadDiv"  href="/offres-emploi-conseil-etudes-15.html">Offre d'emploi: Conseil / Etudes</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3">
+                        <div class="col">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h3>Les offres par ville</h3>
+                                    <ul>
+                                        <li><a class=" actionPreloadDiv" href="/offres-emploi-casablanca.html">Emploi Casablanca et région - Maroc</a></li>
+                                        <li><a  class=" actionPreloadDiv" href="/offres-emploi-rabat.html">Emploi Rabat et région - Maroc</a></li>
+                                        <li><a class=" actionPreloadDiv"  href="/offres-emploi-tanger.html">Emploi Tanger et région - Maroc</a></li>
+                                        <li><a class=" actionPreloadDiv"  href="/offres-emploi-marrakech.html">Emploi Marrakech et région - Maroc</a></li>
+                                        <li><a class=" actionPreloadDiv"  href=".//offres.html?page=&clear=1&countryId=-1">International</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="offexp col-md-12"><h3>Les offres par niveau d'expérience et d'étude</h3></div>
+                                <div class="col-xs-6 col-sm-6 col-md-6">
+                                    <ul>
+                                        <!--<li><a class=" actionPreloadDiv"  href="/offres.html?page=&clear=1&studyLevelId=bac2">Bac + 2</a></li>-->
+                                        <li><a class=" actionPreloadDiv"  href="/offres.html?page=&clear=1&studyLevelId=bac3">Bac + 3</a></li>
+                                        <li><a class=" actionPreloadDiv"  href="/offres.html?page=&clear=1&studyLevelId=bac4">Bac + 4</a></li>
+                                        <li><a class=" actionPreloadDiv"  href="/offres.html?page=&clear=1&studyLevelId=bac5%2B">Bac + 5 et plus</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-xs-6 col-sm-6 col-md-6">
+                                    <ul>
+                                                                                    <li><a class=" actionPreloadDiv"
+                                                   href="/offres.html?page=&clear=1&workExperienceId%5B0%5D=1">Débutant</a>
+                                            </li>
+                                            <li><a class=" actionPreloadDiv"
+                                                   href="/offres.html?page=&clear=1&workExperienceId%5B0%5D=3">de 1 à 3 ans</a>
+                                            </li>
+                                                                                    <!--<li><a  class=" actionPreloadDiv" href="/offres.html?page=&clear=1&workExperienceId%5B0%5D=4">de 3 à 5 ans</a></li>-->
+                                        <li><a  class=" actionPreloadDiv" href="/offres.html?page=&clear=1&workExperienceId%5B0%5D=5">de 5 à 10 ans</a></li>
+                                                                            </ul>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="offexp col-md-12">
+                                    <h3>Retrouvez-nous sur les réseaux sociaux</h3>
+                                    <a class="ps" href="https://www.facebook.com/ReKrute/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+                                    <a class="ps" href="https://twitter.com/rekrutecom?lang=fr"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+                                    <a class="ps" href="https://www.linkedin.com/company/815799/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                                    <a class="ps" href="https://www.youtube.com/user/Rekrute1"><i class="fa fa-youtube-square" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="btm-bar">
+        <div class="container">
+            <p>&copy; Copyright 2024 ReKrute. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+
+<!-- Script Tchat-->
+
+            </div>
+            
+<div class="account-popup-area signin-popup-box" id="connecter">
+    <div class="account-popup">
+        <span class="close-popup"><i class="fa fa-times"></i></span>
+        <h3>Se connecter</h3>
+        
+
+
+<span>J'utilise mon compte gmail</span>
+<div class="row"><div class="col-md-12" style="text-align:center">
+<a href="rekrute-google"><img class=""
+                              title=" Inscription avec Gmail"
+                              src="/assets/9ad6971a/themeRK1/images/icons/google.png"
+                              alt=" Inscription avec Gmail"></a>
+							  </div>
+</div>
+
+    <span>Ou j'utilise mon email</span>
+
+
+
+
+
+
+<form name="userLoginForm" novalidate ng-controller="UserLoginCtrl" ng-submit="submit(userLoginForm.$valid, '/login.html')">
+    <div class="cfield"  ng-class="{'error': userLoginForm.login.$invalid && (((userLoginForm.login.$dirty || userLoginForm.login.$pristine) && userLoginForm.login.$touched) || userLoginForm.$submitted), 'success':userLoginForm.login.$valid} " >
+        <input type="email" name="login"
+               class="form-control"
+               autocomplete="off"
+               ng-model="data.login"
+               placeholder="Login / E-mail"
+               required
+               app-validator-server
+               minlength="1"
+               maxlength="255"
+               value=""/>
+        <i class="fa fa-user-o"></i>
+        <div class="uiTooltip bottom loginError">
+            <div class="uiTooltip-arrow"></div>
+            <div class="uiTooltip-inner" ng-bind="errorMsg('login')"></div>
+        </div>
+    </div>
+    <div class="cfield"  ng-class="{'error': userLoginForm.password.$invalid && (((userLoginForm.password.$dirty || userLoginForm.password.$pristine) && userLoginForm.password.$touched) || userLoginForm.$submitted), 'success':userLoginForm.password.$valid} " >
+        <input type="password" id="passwordUser"
+               class="form-control"
+               app-related-model="userLoginForm.login"
+               autocomplete="off"
+               ng-model="data.password"
+               name="password"
+               value=""
+               required
+               app-validator-server
+               minlength="2"
+               maxlength="255"
+               placeholder="Password"/>
+<i id="passwordLoginHideShowUser" class="fa fa-eye-slash"></i>
+        <div class="uiTooltip bottom loginError">
+            <div class="uiTooltip-arrow"></div>
+            <div class="uiTooltip-inner" ng-bind="errorMsg('password')"></div>
+        </div>
+		<div id="CapsLockIsOn" class="uiTooltip bottom CapsLockIsOn"  >
+            <div class="uiTooltip-inner" >Caps Lock Is On</div>
+        </div>
+    </div>
+    <p class="remember-label">
+        <input style="border:1px solid #000;" type="checkbox" name="rememberMe"
+               checked="checked"
+               value="true"
+               class="chk"
+               ng-init="data.rememberMe=true"
+               ng-model="data.rememberMe"
+        /><label for="cb1" style="    font-weight: initial;">Rester connecté</label>
+    </p>
+    <a href="/password-perdu.html" title="">Mot de passe oublié ?</a>
+    <button  id="userLoginFormValid"  type="submit" ng-enabled="userLoginForm.$valid" ng-class="{disabled:userLoginForm.$invalid}">Je me connecte</button>
+	<a style="margin-top: 20px;text-decoration: none;font-size: 20px;" class="btn  btn-block"  title="Je m'inscris" href="/inscription-candidat.html?utm_login=d56b699830e77ba53855679cb1d252da">
+	Je m'inscris
+	</a>
+</form>
+<div class="preloader"  id="ConnectloadingDiv" style="display: none;">
+    <div class="status"><img src='/assets/9ad6971a/images/loading-red.gif'></div>
+</div>    </div>
+</div><!-- LOGIN POPUP -->
+<!-- Modal -->
+
+
+
+
+
+<div class="modal fade" id="avis">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+    <div class="social-panel">
+        <div class="container">
+            <a class="opener" href="avis.html" data-target="#avis" data-toggle="modal">Vorte avis sur ReKture.com</a>
+        </div>
+    </div>
+    
+
+
+
+    </div>
+<div id="fb-root"></div>
+<script type="text/javascript" src="/outdatedbrowser/outdatedbrowser.min.js"></script>
+<div id="outdated"></div>
+
+ 
+
+
+<script>
+    //event listener form DOM ready
+    function addLoadEvent(func) {
+        var oldonload = window.onload;
+        if (typeof window.onload != 'function') {
+            window.onload = func;
+        } else {
+            window.onload = function() {
+                if (oldonload) {
+                    oldonload();
+                }
+                func();
+            }
+        }
+    }
+    //call function after DOM ready
+    addLoadEvent(function(){
+        outdatedBrowser({
+            bgColor: '#f25648',
+            color: '#ffffff',
+            lowerThan: 'transform',
+            languagePath: '/outdatedbrowser/lang/fr.html'
+        })
+    });
+</script>
+
+<script type="text/javascript" src="/assets/9ad6971a/js/jquery-1.11.2.min.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/jquery-migrate-1.2.1.min.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/jquery-ui-1.11.2.min.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/jquery.ui.touch-punch.min.js?v=1"></script>
+
+    <link rel="stylesheet" type="text/css" href="/assets/9ad6971a/css/balloon.css?v=1">
+
+<script type="text/javascript" src="/assets/9ad6971a/js/angular.min.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/angular-sanitize.min.js?v=1"></script>
+<script type="text/javascript">
+    var APP_MODULES = [];
+</script>
+<script type="text/javascript" src="/assets/9ad6971a/js/app/settings.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/app/translator.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/app/controllersV1.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/app/directives.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/app/validators.js?v=1"></script>
+<script type="text/javascript" src="/assets/9ad6971a/js/app/facebook.js?v=1"></script>
+
+<script src="/assets/9ad6971a/js/bootstrap.js" type="text/javascript"></script>  
+<!--   file for adding vertical points where we activate the elements animation   -->
+<script type="text/javascript" src="/assets/9ad6971a/js/jquery.waypoints.min.js"></script>
+<!--  js library for devices recognition -->
+<script type="text/javascript" src="/assets/9ad6971a/js/modernizr.js"></script>   
+<!--   file where we handle all the script from the Rubik page   -->
+<script type="text/javascript" src="/assets/9ad6971a/js/rubick_pres.js"></script>
+
+
+
+<script type="text/javascript" src="/assets/9ad6971a/js/jquery.bootstrap.newsbox.min.js"></script>
+ 
+<!--<script type="text/javascript" src="/assets/9ad6971a/js/cookies-message.min.js?v=1"></script>-->
+ 
+<script type="text/javascript" src="/assets/9ad6971a/js/jquery.sticky-kit.js"></script>
+    <script type="text/javascript" src="/assets/9ad6971a/js/app/joboffer-userScoreV15.js?v=1"></script>
+    <script type="text/javascript" src="/assets/9ad6971a/js/app/circle-progress.min.js?v=1"></script>
+    <script type="text/javascript" src="/assets/9ad6971a/js/app/circle-prog-fn.js?v=1"></script>
+    <script type="text/javascript" src="/assets/9ad6971a/js/app/userLoginWidgetV1.js?v=1"></script>
+
+<script type="text/javascript">
+    (function (modules) {
+        modules.push('ngSanitize');
+
+        var app = angular.module("app", modules);
+
+        app.config(['appSettingsProvider', function (appSettingsProvider) {
+            appSettingsProvider.locale("fr");
+            appSettingsProvider.baseUrl("");
+        }]);
+
+        app.config(['appFacebookProvider', function (appFacebookProvider) {
+            appFacebookProvider.setAppId("289553187825266");
+            appFacebookProvider.setChannelUrl("");
+            appFacebookProvider.setSdkUrl("http://connect.facebook.net/en_US/sdk.js");
+            appFacebookProvider.setOauthLoginUrl("/rekrute/auth/oauthLogin");
+        }]);
+
+
+    }(APP_MODULES));
+</script>
+<script type="text/javascript">
+$(function () {
+	
+	
+	/////////////////loading-red
+		/*$(document).on("click", "a", function(){
+		var hrefVal = $(this).attr('href');
+		if(hrefVal.length > 1){
+			$("#preloadDiv").show();
+			
+			///////////////sleeep
+			setTimeout(
+  function() 
+  {
+    $("#preloadDiv").hide();
+  }, 3000);
+			///////////////sleeeep
+		}
+	});*/
+	///////////////// end loading
+	
+	/////////////////////////////entreprise qui rekrute
+		$("#filterLogo").on("keyup", function() {
+			var value = "-" + $(this).val().toLowerCase();
+				$("#listeLogoRekrute a").filter(function() {
+				$(this).toggle($(this).attr("title").toLowerCase().indexOf(value) > -1)
+			});
+		});
+		
+		     $('#buttonsocialnetworkFB').click(function(e) {
+            e.preventDefault();
+            window.open($(this).attr('href'), 'fbShareWindow', 'height=450, width=550, top=' + ($(window).height() / 2 - 275) + ', left=' + ($(window).width() / 2 - 225) + ', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');
+            return false;
+        });
+
+    $('#buttonsocialnetworkTwiter').click(function(e) {
+        e.preventDefault();
+        window.open($(this).attr('href'), 'fbShareWindow', 'height=450, width=550, top=' + ($(window).height() / 2 - 275) + ', left=' + ($(window).width() / 2 - 225) + ', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');
+        return false;
+    });
+
+    $('#buttonsocialnetworkFBLinkden').click(function(e) {
+        e.preventDefault();
+        window.open($(this).attr('href'), 'fbShareWindow', 'height=450, width=550, top=' + ($(window).height() / 2 - 275) + ', left=' + ($(window).width() / 2 - 225) + ', toolbar=0, location=0, menubar=0, directories=0, scrollbars=0');
+        return false;
+    });
+	
+	$("#close-popup").click(function(){
+          $("#connecter").hide(); 
+          
+    });
+	
+	$.fn.modal.Constructor.prototype.enforceFocus = function () {};
+	
+	$(".close-popup").click(function(){
+          $("#connecter").hide(); 
+          
+    });
+	
+	$("#connecterApply").click(function(){
+          $("#connecter").show(); 
+          
+    });
+	
+	//////////////////// mise à jour new job fr news user
+	     ///////////////////////// end news
+		
+		 
+	//////////////////////
+	
+	$("#dossiercandidat").click(function(){
+    $("#preloadDiv").show();
+    $("#preloadDiv").hide(6000);
+});
+	
+        $('#myCarousel').hover(function () { 
+            $(this).carousel('pause') 
+          }, function () { 
+            $(this).carousel('cycle') 
+          })
+    });
+ 
+    $(document).ready(function(){
+        $("#alerts").fadeIn("slow");
+        $("#alerts").fadeOut(10000);
+    });
+	
+	 $("#backToList").click(function(){
+        $("#preloadDiv").show();
+    });
+	
+	 $(".loadListeImg").click(function(){
+        $("#preloadDiv").show();
+    });	
+    
+     $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip();   
+		$("#sticker").stick_in_parent({
+             offset_top: 51
+         });
+    });
+$(document).ready(function() {
+	
+	
+	$("#passwordLoginHideShowUser").on('click', function(event) {
+			//event.preventDefault();
+			if($('#passwordUser').attr("type") == "text"){
+				$('#passwordUser').attr('type', 'password');
+				//$('#passwordLoginHideShowUser').removeClass( "fa-eye" );
+				$("#passwordLoginHideShowUser").attr('class', '');
+				$('#passwordLoginHideShowUser').addClass( "fa fa-eye-slash" );
+				
+			}else if($('#passwordUser').attr("type") == "password"){
+				$('#passwordUser').attr('type', 'text');
+				//$('#passwordUserHideShowUser').removeClass( "fa-eye-slash" );
+				$("#passwordLoginHideShowUser").attr('class', '');
+				$('#passwordLoginHideShowUser').addClass( "fa fa-eye" );
+			}
+	});
+	
+	
+	 $(".fa-angle-left").click(function(){
+        $("#preloadDiv").show();
+	});
+	
+	 $(".fa-angle-right").click(function(){
+        $("#preloadDiv").show();
+	});
+
+	$(".actionPreloadDiv").click(function(){
+            if ($("#preloadDivRK" ).length ) {
+                $("#preloadDivRK").show();
+            }
+        });
+    
+ 
+    $("#moreinfoR").click(function(){
+          $("#moreinforecruteurS").hide(); 
+          $("#moreinforecruteur").show(1000);
+    });
+    
+    $("#moreinfoS").click(function(){
+          $("#moreinforecruteur").hide(100);
+          $("#moreinforecruteurS").show(1000); 
+    }); 
+
+	$("span[id^=SearchmoreinfoR]").click(function() {
+        var idUser = $(this).attr("id").split('SearchmoreinfoR')[1];
+        $("#SearchmoreinfoR" + idUser).hide();
+		$("#RmSearchmoreinfoR" + idUser).show();
+        $("#TexteSearchmoreinfoS" + idUser).hide();
+        $("#TexteSearchmoreinfoR" + idUser).show(100);
+    });
+
+    $("span[id^=RmSearchmoreinfoR]").click(function() {
+        var idUser = $(this).attr("id").split('RmSearchmoreinfoR')[1];
+        $("#RmSearchmoreinfoR" + idUser).hide();
+        $("#SearchmoreinfoR" + idUser).show();
+        $("#TexteSearchmoreinfoS" + idUser).show();
+        $("#TexteSearchmoreinfoR" + idUser).hide();
+    });
+	
+});
+
+    //// invitation test kapacity
+    $("a[id^=kapacityMailTest]").click(function() {
+        var idUser = $(this).attr("id").split('kapacityMailTest')[1];
+
+        /*$("a[id^=kapacityMailTest]").each(function() {*/
+            $(this).hide(); 
+			
+        /*});*/
+
+        var serviceUrl = "rekrute/recruiterUser/kapacityMailInvite";
+        $.ajax({
+            url: serviceUrl,
+            type: 'POST',
+            data: {idUserKapacity:idUser,jobId:$("#annonceInvite" + idUser).val()},
+            success:function(data){
+
+                $("#sendInvitationKapacity").show();
+
+
+            }
+        });
+    });
+
+/********************************************************/
+
+	$(document).ready(
+  function () {
+    check_capslock_form($('form[name ="userLoginForm"]')); //applies the capslock check to all input tags
+	check_capslock_form($('form[name ="recruiterLoginForm"]')); //applies the capslock check to all input tags
+  }
+);
+
+document.onkeydown = function (e) { //check if capslock key was pressed in the whole window
+  e = e || event;
+  if (typeof (window.lastpress) === 'undefined') { window.lastpress = e.timeStamp; }
+  if (typeof (window.capsLockEnabled) !== 'undefined') {
+    if (e.keyCode == 20 && e.timeStamp > window.lastpress + 50) {
+      window.capsLockEnabled = !window.capsLockEnabled;
+      //$('#capslockdiv').toggle();
+    }
+    window.lastpress = e.timeStamp;
+    //sometimes this function is called twice when pressing capslock once, so I use the timeStamp to fix the problem
+  }
+
+};
+
+function check_capslock(e) { //check what key was pressed in the form
+  var s = String.fromCharCode(e.keyCode);
+  if (s.toUpperCase() === s && s.toLowerCase() !== s && !e.shiftKey) {
+    window.capsLockEnabled = true;
+     
+	 $('#CapsLockIsOn').show();
+  }
+  else {
+    window.capsLockEnabled = false;
+    $('#CapsLockIsOn').hide();
+  }
+}
+
+function check_capslock_form(where) {
+  if (!where) { where = $(document); }
+  where.find('input,select').each(function () {
+    if (this.type != "hidden" && this.name == "password") {
+		 
+      $(this).keypress(check_capslock);
+    }
+  });
+}
+/********************************************************/
+
+</script>
+<script>
+
+    $(document).ready(function() {
+
+        //$.CookiesMessage();
+		
+		$( "#divHappyAtWOrk" ).mouseover(function() {
+            $("#divHappyAtWOrk").find("a").each(function(){
+                $(this).removeAttr("href");
+                $(this).removeAttr("data-href");
+                $(this).removeAttr("target");
+                $(this).attr("href", "#");
+                $(this).attr("data-href", "#");
+            });
+        });
+		
+		$( "#divHappyAtWOrk" ).click(function() {
+			
+            location.reload();
+            window.open("happyAtWork-entreprises-ou-il-fait-bon-vivre.html");
+            return false;
+        });
+
+    });
+
+    $(document).ready(function () {
+        var nav = function () {
+            $('.gw-nav > li > a').click(function () {
+                var gw_nav = $('.gw-nav');
+                gw_nav.find('li').removeClass('active');
+                $('.gw-nav > li > ul > li').removeClass('active');
+
+                var checkElement = $(this).parent();
+                var ulDom = checkElement.find('.gw-submenu')[0];
+
+                if (ulDom == undefined) {
+                    checkElement.addClass('active');
+                    $('.gw-nav').find('li').find('ul:visible').slideUp();
+                    return;
+                }
+                if (ulDom.style.display != 'block') {
+                    gw_nav.find('li').find('ul:visible').slideUp();
+                    gw_nav.find('li.init-arrow-up').removeClass('init-arrow-up').addClass('arrow-down');
+                    gw_nav.find('li.arrow-up').removeClass('arrow-up').addClass('arrow-down');
+                    checkElement.removeClass('init-arrow-down');
+                    checkElement.removeClass('arrow-down');
+                    checkElement.addClass('arrow-up');
+                    checkElement.addClass('active');
+                    checkElement.find('ul').slideDown(300);
+                } else {
+                    checkElement.removeClass('init-arrow-up');
+                    checkElement.removeClass('arrow-up');
+                    checkElement.removeClass('active');
+                    checkElement.addClass('arrow-down');
+                    checkElement.find('ul').slideUp(300);
+
+                }
+            });
+            $('.gw-nav > li > ul > li > a').click(function () {
+                $(this).parent().parent().parent().removeClass('active');
+                $('.gw-nav > li > ul > li').removeClass('active');
+                $(this).parent().addClass('active')
+            });
+        };
+        nav();
+    });
+
+    $(document).ready(function() {
+        $("div.bhoechie-tab-menu>div.list-group>a").click(function(e) {
+            e.preventDefault();
+            $(this).siblings('a.active').removeClass("active");
+            $(this).addClass("active");
+            var index = $(this).index();
+            $("div.bhoechie-tab>div.bhoechie-tab-content").removeClass("active");
+            $("div.bhoechie-tab>div.bhoechie-tab-content").eq(index).addClass("active");
+        });
+    });
+
+    $(document).ready(function() {
+        $(".xbox").bootstrapNews({
+            newsPerPage: 3,
+            autoplay: true,
+            pauseOnHover:true,
+            direction: 'up',
+            newsTickerInterval: 3500,
+            onToDo: function () {
+                //console.log(this);
+            }
+        });
+    });
+
+    	
+</script>
+
+<script type="text/javascript">
+    /*$(document).ready(function () {
+        var largeur_fenetre = $(window).width();
+        //alert(largeur_fenetre);
+        if(largeur_fenetre < 500) {
+            $('#connecter').modal('show');
+        }
+
+    });*/
+</script>
+
+</body>
+<style>
+.CapsLockIsOn{
+	width: 111px;
+    float: left;
+    position: absolute;
+    left: 70px;
+    top: 33px;
+    display: block;
+}
+</style>
+</html>
+
+2024-03-07 23:57:49 - INFO - The page was fetched successfully
+2024-03-07 23:57:49 - INFO - Extract 10 titreJob
+2024-03-07 23:57:49 - INFO - Start scraping 10 offers on https://www.rekrute.com/offres.html?p=1
+2024-03-07 23:57:49 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-approvisionneur-junior-recrutement-capgemini-engineering-casablanca-159515.html
+2024-03-07 23:57:50 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-plant-human-resources-manager-recrutement-orh-assessment-tanger-159514.html
+2024-03-07 23:57:50 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-conseillere-commerciale-en-immobilier---junior-recrutement-al-hoceinia-casablanca-159513.html
+2024-03-07 23:57:50 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-chef-de-projet-bancaire-tma-recrutement-atos-nearshore-casablanca-157948.html
+2024-03-07 23:57:51 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-concepteur-developpeur-python-hf-recrutement-sofrecom-maroc-technopolis-159512.html
+2024-03-07 23:57:51 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-charge-des-appels-doffres-et-marches-hf-recrutement-confidentiel-rabat-159510.html
+2024-03-07 23:57:51 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-acheteur-senior---casablanca-recrutement-aria-group-casablanca-159509.html
+2024-03-07 23:57:51 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-assistante-daccueil-recrutement-labomag-casablanca-159508.html
+2024-03-07 23:57:52 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-chargee-de-paie-et-administration-rh-recrutement-labomag-casablanca-159507.html
+2024-03-07 23:57:52 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-consultant-devops-sreiops-senior-fh-recrutement-cgi-technologies-et-solutions-maroc-casablanca-159506.html
+2024-03-07 23:57:52 - INFO - Extract the link of an offer: https://www.rekrute.com/offre-emploi-consultant-devops-sreiops-senior-fh-recrutement-cgi-technologies-et-solutions-maroc-casablanca-159506.html
