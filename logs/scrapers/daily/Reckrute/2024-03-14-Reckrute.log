@@ -1,0 +1,1359 @@
+2024-03-14 12:00:19 - INFO - start scraping
+2024-03-14 12:00:25 - INFO - start scraping all the pages
+2024-03-14 12:00:25 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=1
+2024-03-14 12:00:26 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:26 - INFO - The page was fetched successfully.
+2024-03-14 12:00:26 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:26 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-mouliste-recrutement-confidentiel-casablanca-158845.html
+2024-03-14 12:00:26 - INFO - the page was scraped
+2024-03-14 12:00:26 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=2
+2024-03-14 12:00:26 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:26 - INFO - The page was fetched successfully.
+2024-03-14 12:00:26 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:26 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-responsable-controle-de-gestion-junior-recrutement-groupe-labelvie---carrefour-casablanca-159685.html
+2024-03-14 12:00:27 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:27 - INFO - The offer page number [1] was fetched successfully
+2024-03-14 12:00:27 - INFO - Company name of the offer: Carrefour
+2024-03-14 12:00:27 - INFO - job title of the offer: Responsable Contrôle de Gestion Junior
+2024-03-14 12:00:27 - INFO - Adresses of the offer: Route nationale 1km 3.5 douar Oulad Othman- SKHIRAT
+2024-03-14 12:00:27 - INFO - Details de poste: Poste :Affecté à la direction contrôle de gestion, votre rôle est de garantir le pilotage de la performance.Principales missions:Assister la BU au niveau de ses décisions stratégiquesGarantir le pilotage de la performance de la BUPiloter l'activité contrôle de gestionAssurer le reporting mensuel de l’activitéS’assurer de la fiabilité, la sincérité, la pertinence et la cohérence des informations financières traitées
+2024-03-14 12:00:27 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:27 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-14 12:00:27 - INFO - Postes proposés de poste: 2
+2024-03-14 12:00:27 - INFO - Secteur d'activité:  Gestion / Comptabilité / Finance - Secteur Distribution - 
+2024-03-14 12:00:27 - INFO - fonction_li Gestion / Comptabilité / Finance
+2024-03-14 12:00:27 - INFO - Expérience requise Débutant
+2024-03-14 12:00:27 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum 
+2024-03-14 12:00:27 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:27 - INFO - Profil recherché : Profil recherché :De formationBac+5en contrôle de gestion, vous justifiez d'une première expérienceen tant que responsable contrôle de gestion, dans laquelle vous avez développé les compétences suivantes :Capacité à obtenir et collecter toute information utile et la traduire en éléments financiersCapacité à anticiper les dérives et déterminer les zones d'optimisationCapacité à produire des documents de synthèse et les analyserOrientation résultats, Capacité d'analyse & de synthèse et Travail en équipe, sont les atouts et facteurs clés de succès de ce poste.« LabelVie s’engage à prévenir toute forme de discrimination et notamment celles fondées sur le sexe ou la situation et les responsabilités familiales. LabelVie s’engage à promouvoir l’égalité des chances entre les hommes et les femmes, en matière d’accès à l’emploi et à la formation, de conditions de travail, de rémunération, d’évolution de carrière et d’accès à des postes à responsabilité ».
+2024-03-14 12:00:27 - INFO - Entreprise : : Entreprise :Créé en 1986 et côté à la Bourse de Casablanca depuis 2008, leGroupe marocain LabelVieest un acteur économique de référence et leader de la grande distribution au Maroc.En 2009, à travers la signature du contrat de franchise avec leGroupe Carrefour, il accède à sa centrale d’achat pour optimiser et diversifier son sourcing. Il devient ainsi le premier acteur multi-formats de la grande distribution au Maroc par l’exploitation des hypermarchés Carrefour, des supermarchés Carrefour Market et du format hyper cash Atacadao.Le Groupe LabelVie présente chaque année un plan de développement soutenu renforçant sa présence territoriale avec ses179 magasinsrépartis dans29 villesdu royaume et ses3 plateformes logistiqueset un chiffre d’affaires réalisé de11.7 milliards de dirhamsen 2021.En 2021, leGroupe LabelViea entamé sa transformation digitale afin de répondre aux enjeux d’innovation et aux besoins des consommateurs finaux. Ce sont ainsi de nombreux projets structurants qui sont actuellement en construction au sein du Groupe pilotés par nos équipes SI, Digital et Data ; constituées d’experts reconnus dans leur domaines et animés par la volonté de relever les challenges de l’innovation et de la transformation digitale dans un secteur en plein essor.
+2024-03-14 12:00:27 - INFO - Traits de personnalité souhaités : : :  Besoin d'objectivité Organisation Rationalisme Respect des règles Conventionnel Flexibilité Extraversion Implication au travail 
+2024-03-14 12:00:27 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-responsable-controle-de-gestion-junior-recrutement-groupe-labelvie---carrefour-casablanca-159685.html
+2024-03-14 12:00:27 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-manager-hf---hermitage-recrutement-mcdonalds-maroc-casablanca-158330.html
+2024-03-14 12:00:27 - INFO - the page was scraped
+2024-03-14 12:00:27 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=3
+2024-03-14 12:00:27 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:27 - INFO - The page was fetched successfully.
+2024-03-14 12:00:27 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:27 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-responsable-analyses-microbiologiques-hf-recrutement-lydec-casa-159681.html
+2024-03-14 12:00:28 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:28 - INFO - The offer page number [3] was fetched successfully
+2024-03-14 12:00:28 - INFO - Company name of the offer: Lydec
+2024-03-14 12:00:28 - INFO - job title of the offer: Responsable Analyses microbiologiques (H/F)
+2024-03-14 12:00:28 - INFO - Adresses of the offer: 48, rue Mohamed Diouri , Q. Centre Ville CASABLANCA
+2024-03-14 12:00:28 - INFO - Details de poste: Poste :Le Responsable Analyses Microbiologiques a pour mission principale de superviser l’activité de l’unité de Microbiologie : planification, contrôle et organisation des programmes d’analyses microbiologiques depuis la prise en charge des échantillons jusqu'à la remise des résultats, et de vérifier leur conformité par rapport aux normes marocaines en vigueur.a. RESPONSABILITES ET TACHES• Encadrer et superviser les techniciens sous sa responsabilité.• Déterminer les caractéristiques et spécifications techniques des équipements et produits.• Traiter les non-conformités.• Lancer les demandes d’achat.• Planifier les analyses selon la priorité.• Sélectionner et évaluer des fournisseurs critiques.• Surveiller la performance et la validité des résultats.• Veiller sur l’application des procédures et instructions techniques.• Informer le responsable du laboratoire en cas de non-conformité d’eau potable avant même l’édition du rapport d’analyses.• Informer immédiatement le responsable du laboratoire pour déclencher une analyse de vérification à la suite d’une non-conformité d’eau potable.• Suivre le programme d’étalonnage des équipements critiques de l’unité Microbiologie étalonnés en externe par des prestataires accrédités ISO/CEI 17025 ou en interne.• S’assurer de l’application des mesures de sécurité et de l’hygiène au niveau de son unité et réaliser des visites de sécurité.• Assurer les tâches et responsabilités du technicien microbiologie.
+2024-03-14 12:00:28 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:28 - INFO - Location de poste:  Casa (Maroc) 
+2024-03-14 12:00:28 - INFO - Postes proposés de poste: 1
+2024-03-14 12:00:28 - INFO - Secteur d'activité:  Environnement (métiers de l') - Secteur Chimie / Parachimie / Peintures - 
+2024-03-14 12:00:28 - INFO - fonction_li Environnement (métiers de l')
+2024-03-14 12:00:28 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:28 - INFO - Niveau d’étude demandé  Bac +3 Minimum - Université 
+2024-03-14 12:00:28 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:28 - INFO - Profil recherché : Profil recherché :• Licence ; Spécialité : Biologie / Microbiologie/ Environnement ou l’équivalent en formation et expérience pertinente pour le poste.• Formations complémentaires:- Formation en techniques d’analyses orientée vers la matrice Eau comme ATOUT.- Formation en Hygiène, Santé et Sécurité orientée Laboratoire d’analyses comme ATOUT.- Formation en métrologie comme ATOUT.Compétences requises :• Compétences techniques- Techniques d’analyses microbiologiques orientée vers la matrice Eau.- Techniques de prélèvement d’échantillons d’eau pour analyses microbiologiques.- Techniques statistiques appliquées aux analyses de l’eau et calcul des incertitudes.- Métrologie dans un laboratoire d’analyses microbiologiques.- Calcul de l’incertitude de mesure en métrologie.- Exploitation des certificats d’étalonnage.• Compétences transverses- Maîtrise des outils informatiques (Word, Excel et Internet).- Maîtrise des procédures et instructions applicables dans un laboratoire d’analyses.- Respect des engagements de services liés à son activité.- Compétences rédactionnelles en français.Expériences :- 3 ans dans un poste similaire.- Avoir travaillé dans un laboratoire accrédité ISO/CEI 17025.
+2024-03-14 12:00:28 - INFO - Entreprise : : Entreprise :Lydec, assure depuis 1997 la gestion de services essentiels pour les habitants du Grand Casablanca.A travers la gestion de la distribution de l’eau, de l’électricité, de l’assainissement et de l’éclairage public, notre entreprise participe au bon développement de la plus grande agglomération du Royaume, en plaçant l’amélioration de la qualité de vie des habitants au cœur de ses préoccupations.Orientation client, Innovation, Intégrité et Solidarité sont les valeurs qui unissent nos3400 collaborateurs.
+2024-03-14 12:00:28 - INFO - Traits de personnalité souhaités : : :  Recherche de nouveauté Respect des règles Ténacité Implication au travail 
+2024-03-14 12:00:28 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-responsable-analyses-microbiologiques-hf-recrutement-lydec-casa-159681.html
+2024-03-14 12:00:28 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-marketing-communications-specialist-hf-recrutement-maroc-climate-and-security-mcs---carrier-casablanca-159680.html
+2024-03-14 12:00:31 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:31 - INFO - The offer page number [4] was fetched successfully
+2024-03-14 12:00:31 - INFO - Company name of the offer: Carrier
+2024-03-14 12:00:31 - INFO - job title of the offer: Marketing Communications Specialist (H/F)
+2024-03-14 12:00:31 - INFO - Adresses of the offer: Immeuble LA COMANAV, 7 Boulevard la résistance
+2024-03-14 12:00:31 - INFO - Details de poste: Poste :As part of our expansion, we are recruiting aMarketing Communications Specialist (H/F)for our partner Aritech, a leading company in the commercial security manufacturing business.This is a key role to support, contribute and work very closely with the Aritech Marketing organization. As a Marketing Communications Specialist, you will be working directly with Customer Marketing Leader and interacting with the Product Management and Sales Teams on the different product marketing and marcom initiatives, collaterals development (brochures, flyers, catalogues,…), images required from promotions, PR, Events, Tradeshows, etc, aligned with the brand guidelines . Also, the candidate will be responsible to execute the mailing campaigns, create reports and analysis on the defined KPIs to track the success, internal and external announcements and website management.Key responsibilities :Support communication activities across the entire organization: Website, e-mail campaigns, customer events, sales actions, trade shows and road shows for the region creating with Customer Marketing standard packages and templates that will facilitate the consistent messaging and actions across the region.Be the key main contact for creativity actions in the Marketing organization – supporting creation of visuals for LinkedIn, creation of all type of collaterals for product launches and sales activities.Manage external marketing automation tool to communicate to our customers being able to create lead to revenue campaigns in the ERP system including nurture schemes. Set up KPIs to define success, design the communication, launch to the right audience and report out the action versus KPIs defined and define improvement actions.Management of mailing of general mailing accounts.Create static content for the Aritech website in conjunction with Marketing Team.Be in contact with Sales Teams to support them in local activities.Help build Aritech reputation and awareness in the regionOrganize, implement, and maintain the tactical day-to-day activities needed.
+2024-03-14 12:00:31 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:31 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-14 12:00:31 - INFO - Postes proposés de poste: 1
+2024-03-14 12:00:31 - INFO - Secteur d'activité:  Marketing - Secteur Agence pub / Marketing Direct 
+2024-03-14 12:00:31 - INFO - fonction_li Marketing
+2024-03-14 12:00:31 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:31 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum - Master - Ecole de commerce 
+2024-03-14 12:00:31 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:31 - INFO - Profil recherché : Profil recherché :You will be a great fit on our team if :Bachelor’s degree in Industrial Design, Graphic Design, or related field or equivalent experience preferred.1-3 years experience in a similar role for B2B.hSelf-starter motivated to expand skill set and grow experience.Effective organizational, problem solving and multi-tasking skills.Excellent command of written and spoken English, proficiency in any of the followingDemonstrated proficiency working in content management systems, marketing automation, email marketing, social media and CRM platforms. Specifically:- Experience with HTML, Adobe creative (InDesign and Photoshop) and other design tools knowledge will be welcome (Canva, video maker, ….)- Experience with Pardot in conjunction with SalesForce.com or other Marketing Automation Tools.What can we offer you?Administrative working hours;Work-life balance;Satrt-up spirit in a fast growing international environment;Continuous learning environment;Attractive package;Team-building and more activities...etc.
+2024-03-14 12:00:31 - INFO - Entreprise : : Entreprise :C’est en 1902 que le Dr Willis H. Carrier invente et fabrique le tout premier climatiseur moderne au monde. Depuis cette date,Carrier Corporation est le numéro un mondial de la climatisation, avec plus de 4 millions d’unités vendues par an, assemblées dans plus de 40 usines de production, installées et entretenues sur cinq continents.Créée en 2014, MCS est le fruit d’une joint-venture signée entre VENTEC Maroc et Carrier, numéro 1 mondial dans le domaine du froid. MCS assure le support technique, commercial et administratif à distance pour le compte deCarrier France,Carrier Espagne,Otis France,Chubb France,CIAT,Carrier Transicold,Carrier Réfrigérationet d’autres sociétés du groupe. MCS permet d’assurer avec efficience et efficacité le traitement des demandes particulières et des consultations, la saisie des commandes, la gestion des réclamations ainsi que la planification des interventions et le support technique à distance.Vous souhaitez révéler votre potentiel dans un environnement challengeant et collaboratif ?Vous souhaitez évoluer dans une structure soucieuse de l’épanouissement et de la satisfaction de ses moyens humains ?A vous de saisir l’opportunité et de concrétiser vos idées au cœur de nos projets ambitieux, en nous envoyant votre candidature.
+2024-03-14 12:00:31 - INFO - Traits de personnalité souhaités : : :  Recherche de nouveauté Extraversion Ambition Créativité Flexibilité Implication au travail Organisation 
+2024-03-14 12:00:31 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-marketing-communications-specialist-hf-recrutement-maroc-climate-and-security-mcs---carrier-casablanca-159680.html
+2024-03-14 12:00:31 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-assistante-administrative---meknes-recrutement-mcdonalds-maroc-meknes-159679.html
+2024-03-14 12:00:31 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:31 - INFO - The offer page number [5] was fetched successfully
+2024-03-14 12:00:31 - INFO - Company name of the offer: McDonald's Maroc
+2024-03-14 12:00:31 - INFO - job title of the offer: Assistant(e) administrative
+2024-03-14 12:00:31 - INFO - Adresses of the offer: Boulevard Sidi Mohamed Ben Abdellah, Marina, Tour Crystal 3, 5ème étage
+2024-03-14 12:00:31 - INFO - Details de poste: Poste :Le restaurant McDonald's de Meknès recherche un(e) Assistant(e) administrativeSous la supervision du Directeur de restaurant, vous aurez pour mission d'assurer le suivi administratif du personnel ainsi que la gestion administrative réglementaire et quotidienne du restaurant et ce en étroite collaboration avec les parties prenantes :Suivi administratif du personnelCréer les dossiers, saisir les éléments de contratsAccueillir les nouveaux salariés et vérifier les documents liés à l'embauchePlanifier les visites médicalesContrôler et envoyer les courriers
+2024-03-14 12:00:31 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:31 - INFO - Location de poste:  Meknès (Maroc) 
+2024-03-14 12:00:31 - INFO - Postes proposés de poste: 1
+2024-03-14 12:00:31 - INFO - Secteur d'activité:  Assistanat de Direction / Services Généraux - RH / Personnel / Formation - Secteur Agroalimentaire - Hôtellerie / Restauration 
+2024-03-14 12:00:31 - INFO - fonction_li Assistanat de Direction / Services Généraux
+2024-03-14 12:00:31 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:31 - INFO - Niveau d’étude demandé  Bac +2 Minimum - Formation professionnelle 
+2024-03-14 12:00:31 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:31 - INFO - Profil recherché : Profil recherché :Profil recherché :De Formation Bac+2/3 en économie, gestion ou RHVous avez une expérience réussie dans un poste similaire.Une connaissance du milieu restauration serait un plus pour ce poste.Vos atouts :Sens d'organisation.Aisance relationnelle.Ponctualité
+2024-03-14 12:00:31 - INFO - Entreprise : : Entreprise :McDonald’s Maroc est une entreprise 100% marocaine.Notre mission est d’offrir une expérience agréable, facile et conviviale pour tous les Marocains et ce depuis plus de 30 ans.Notre enseigne compte aujourd’hui, 64 restaurants dans 21 villes, avec 5 000 collaborateurs engagés pour offrir la meilleure expérience à nos clients.L’accélération de notre plan de développement est accompagnée d'une stratégie de recrutement, intégration, formation et plan de carrière et ce dans un cadre favorisant la diversité, l’équité, l’inclusion ainsi que la sécurité de nos collaborateurs.Nous évoluons tous ensemble dans un cadre de travail bienveillant porté par les valeurs : service, inclusion, intégrité, communauté et famille.Que ce soit une première expérience professionnelle ou une nouvelle expérience, McDonald’s Maroc est très engagé pour la rendre agréable et bénéfique en termes d’apprentissage et d’épanouissement pour ses jeunes talents
+2024-03-14 12:00:31 - INFO - Traits de personnalité souhaités : : :  Extraversion Besoin d'objectivité Flexibilité Besoin d'autonomie Implication au travail Organisation 
+2024-03-14 12:00:31 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-assistante-administrative---meknes-recrutement-mcdonalds-maroc-meknes-159679.html
+2024-03-14 12:00:31 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-assistante-de-direction-recrutement-akinna-casablanca-159660.html
+2024-03-14 12:00:32 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:32 - INFO - The offer page number [6] was fetched successfully
+2024-03-14 12:00:32 - INFO - Company name of the offer: Akinna
+2024-03-14 12:00:32 - INFO - job title of the offer: Assistante de Direction
+2024-03-14 12:00:32 - INFO - Adresses of the offer: 52 Avenue Pasteur
+2024-03-14 12:00:32 - INFO - Details de poste: Poste :Nous recrutons uneassistante de directionpour accompagner le volet développement de la sociétéMISSION: assister dans la gestion et l’organisation administrative des affaires courantesGestion des Communications :Répondre aux appels téléphoniques, aux e-mails et aux courriers entrants.Diriger les communications vers les départements appropriés.Gérer l'agenda de la direction en planifiant et en organisant les réunions et les rendez-vous.Coordination des Réunions :Planifier et organiser les réunions internes et externes.Préparer l'ordre du jour et les documents nécessaires.Prendre des notes et rédiger des comptes rendus lors des réunions.Soutien Administratif :Gérer les documents et les dossiers de manière organisée et confidentielle.Collaboration avec les Départements :Coordonner avec les différents départements pour assurer une communication efficace.Faciliter la circulation de l'information entre la direction et les autres équipes.
+2024-03-14 12:00:32 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:32 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-14 12:00:32 - INFO - Postes proposés de poste: 1
+2024-03-14 12:00:32 - INFO - Secteur d'activité:  Assistanat de Direction / Services Généraux - Secteur Autres Industries 
+2024-03-14 12:00:32 - INFO - fonction_li Assistanat de Direction / Services Généraux
+2024-03-14 12:00:32 - INFO - Expérience requise De 3 à 5 ans
+2024-03-14 12:00:32 - INFO - Niveau d’étude demandé  Bac +3 Minimum 
+2024-03-14 12:00:32 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:32 - INFO - Profil recherché : Profil recherché :FORMATION :Bac + 3 ou plusCOMPETENCE REQUISES :- Capacité d’organisation- Rigueur et sens de responsabilité- AutonomieLANGUES :- Français : parfaite maitrise- Anglais : Bon niveau
+2024-03-14 12:00:32 - INFO - Entreprise : : Entreprise :Basés à Casablanca, laSociété Akinna est une Société Holding à 2 pôles:- Un pole industrielle qui détient des participations dans de grandes sociétés de renom et- Un pôle Immobilier résidentiel et logistique mû par une forte volonté de faire la différence. L’objectif étant de transcender les conditions de vie en impactant positivement tous ses publics
+2024-03-14 12:00:32 - INFO - Traits de personnalité souhaités : : :  Organisation Flexibilité Conventionnel Extraversion 
+2024-03-14 12:00:32 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-assistante-de-direction-recrutement-akinna-casablanca-159660.html
+2024-03-14 12:00:32 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-ingenieur-systeme-automobile-recrutement-alten-maroc-rabat-159678.html
+2024-03-14 12:00:32 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:32 - INFO - The offer page number [7] was fetched successfully
+2024-03-14 12:00:32 - INFO - Company name of the offer: ALTEN Maroc
+2024-03-14 12:00:32 - INFO - job title of the offer: Ingénieur Système (Automobile)
+2024-03-14 12:00:32 - INFO - Adresses of the offer: Parc Fès Shore Parc- Route sidi Hrazem - Fès - Maroc
+2024-03-14 12:00:32 - INFO - Details de poste: Poste :Collaborer avec les parties prenantes pour identifier tous les besoins en fonctionnalités ADAS.Définir les objectifs de performance fondamentaux pour toutes les fonctionnalités ADAS, basés sur l'analyse des benchmarks du paysage concurrentiel, la traduction de la voix du client et la connaissance de l'industrie en exigences d'ingénierie.Créer et soutenir le plan de validation central pour l'équipe d'ingénierie de test.Fournir une évaluation de l'impact pour les modifications de produits/fonctionnalités.Identifier et résoudre les problèmes interfonctionnels affectant les performances du système ADAS.Soutenir le développement et la validation des performances des systèmes ADAS sur les véhicules.Soutenir l'ingénieur des performances dans la définition du plan de développement des performances virtuelles et expérimentales géré par le plan de test intégré (PSI).Assurer l'étalonnage des systèmes ADAS en collaboration avec d'autres départements et fournisseurs de systèmes.Collecter des données objectives pour quantifier la sensation subjective ou clarifier l'écart entre l'état actuel et l'objectif lorsque nécessaire.Créer une expertise des fonctionnalités ADAS et soutenir le développement de la feuille de route.Établir des benchmarks sur les principaux systèmes ADAS et fonctionnalités des concurrents.
+2024-03-14 12:00:32 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:32 - INFO - Location de poste:  Rabat (Maroc) 
+2024-03-14 12:00:32 - WARNING - postes_proposes of the offer not found. Error: The 'Postes proposés' value was not found.
+2024-03-14 12:00:32 - INFO - Secteur d'activité:  Méthodes / Process / Industrialisation - Secteur Automobile / Motos / Cycles 
+2024-03-14 12:00:32 - INFO - fonction_li Méthodes / Process / Industrialisation
+2024-03-14 12:00:32 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:32 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum 
+2024-03-14 12:00:32 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:32 - INFO - Profil recherché : Profil recherché :Maîtrise des outils Google Docs, Sheets et Pages.Excellentes compétences en résolution de problèmes.Excellentes compétences en communication, présentation et relations interpersonnelles.Capacité à s'adapter aux changements majeurs de stratégie tout en assurant la continuité du travail et la motivation.Disposition à effectuer des voyages de développement d'une à deux semaines, tant sur le plan national qu'international.Connaissance du marché des systèmes ADAS automobiles concurrentiels, des tendances du marché et des protocoles de sécurité (par exemple, NCAP, IIHS, NHTSA).Dossier de conduite propre et capacité à conduire des véhicules d'essai sur la voie publique.2 ans d'expérience dans le domaine du développement de produits ADAS.Compréhension des jalons de développement en ingénierie des véhicules et de l'électricité chez Stellantis.Maîtrise des outils Google Docs, Sheets et Pages.Excellentes compétences en résolution de problèmes.Excellentes compétences en communication, présentation et relations interpersonnelles.Capacité à s'adapter aux changements majeurs de stratégie tout en assurant la continuité du travail et la motivation.Disposition à effectuer des voyages de développement d'une à deux semaines, tant sur le plan national qu'international.Connaissance du marché des systèmes ADAS automobiles concurrentiels, des tendances du marché et des protocoles de sécurité (par exemple, NCAP, IIHS, NHTSA).Dossier de conduite propre et capacité à conduire des véhicules d'essai sur la voie publique.2 ans d'expérience dans le domaine du développement de produits ADAS.Compréhension des jalons de développement en ingénierie des véhicules et de l'électricité chez Stellantis.Compréhension du processus de développement en V et de la traçabilité des exigences.Connaissance des dynamiques automobiles et des variables d'ingénierie des véhicules affectant les performances
+2024-03-14 12:00:32 - INFO - Entreprise : : Entreprise :ALTEN DELIVERY CENTER MAROC, Filiale du leader mondial de l’ingénierie et du conseil en technologie créé en 2008 et présent à Fès, Rabat, Tétouan et Casablanca, compte aujourd’hui plus de 2300 consultants et vise un centre d’excellence de 3100 consultants ALTENiens en fin 2024. Avec plus de 90 recrutements par mois, ALTEN Maroc est désormais un acteur majeur de l’insertion professionnelle des ingénieurs. Nous accompagnons nos clients, leaders de l’Industrie dans leurs stratégies de développement dans les domaines de l’automobile, du ferroviaire, de l’IT, de la R&D et des Télécoms & Médias.Rejoindre ALTEN MAROC c’est bénéficier :· Des parcours professionnels diversifiés avec des opportunités de carrière, une mobilité interne, sectorielle, géographique et métiers.· Des formations certifiantes et diplômantes.· Des événements réguliers pour combiner bien être et performance.
+2024-03-14 12:00:32 - INFO - Traits de personnalité souhaités : : :  Organisation Besoin de réflexion Respect des règles Recherche de nouveauté 
+2024-03-14 12:00:32 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-ingenieur-systeme-automobile-recrutement-alten-maroc-rabat-159678.html
+2024-03-14 12:00:32 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-conseiller-commercial-seat-hf-recrutement-cac-centrale-automobile-cherifienne-casablanca-159677.html
+2024-03-14 12:00:32 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:32 - INFO - The offer page number [8] was fetched successfully
+2024-03-14 12:00:32 - INFO - Company name of the offer: CAC (Centrale Automobile Chérifienne)
+2024-03-14 12:00:32 - INFO - job title of the offer: Conseiller Commercial Seat (H/F)
+2024-03-14 12:00:32 - INFO - Adresses of the offer: 66, bd Moulay Slimane , Roches noires
+2024-03-14 12:00:32 - INFO - Details de poste: Poste :Mission principale:Endosser des fonctions d’ambassadeur de la marque, assister et conseiller les prospects et les clients tout au long du processus de vente et assurer le suivi satisfaction client.Tâches:Développer un portefeuille clients en captant les opportunités afin de générer du CA et de la croissance.Assurer le suivi nécessaire de ce portefeuille de projets et fidéliser les clientsGestion de la satisfaction des clients après remise du véhicule et remontée des informationsIdentification des nouvelles opportunités commercialesSuivi client annuel pour projet de renouvellement
+2024-03-14 12:00:32 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:32 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-14 12:00:32 - INFO - Postes proposés de poste: 1
+2024-03-14 12:00:32 - INFO - Secteur d'activité:  Commercial / Vente / Export - Secteur Automobile / Motos / Cycles - 
+2024-03-14 12:00:32 - INFO - fonction_li Commercial / Vente / Export
+2024-03-14 12:00:32 - INFO - Expérience requise De 3 à 5 ans
+2024-03-14 12:00:32 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum 
+2024-03-14 12:00:32 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:32 - INFO - Profil recherché : Profil recherché :Minimum niveau Bac+4 Commerce/VenteConnaissance des techniques de vente d’automobile serait un plusUne expérience d'au moins 3 ans dans le commercial
+2024-03-14 12:00:32 - INFO - Entreprise : : Entreprise :LaCentrale Automobile Chérifienne (CAC)est l'importateur exclusif au Maroc des marquesVolkswagen, Volkswagen Utilitaires, Audi, Skoda, Porsche, Bentley, Seat et Cupra, ayant chacune développée une réelle identité les rendant uniques sur leur segment de marché.Dotées d'un fort potentiel de développement au Maroc et à l'international, les marques s'appuient sur des services experts et des compétences mutualisés pour augmenter leur performance et accompagner leur croissance.La politique Ressources Humaines de la CAC se décline autour de 4 grands axes à l’égard de ses collaborateurs :Développer leur expertise par l’accompagnement, l’amélioration des compétences et la responsabilisation;Encourager l'évolution de carrière de ses collaborateurs partageant les mêmes passions et valeurs et qui ont su construire une véritable culture d’entreprise qui favorise la satisfaction client (interne/externe), l’esprit d’équipe et l’expertise;Fidéliser par la motivation et la reconnaissance;Valoriser leur performance en fixant des objectifs clairs, précis et réalisables.Venez participer au développement de marques leader et prestigieuses sur le territoire marocain, au sein d’une entreprise dynamique et innovante !!
+2024-03-14 12:00:32 - INFO - Traits de personnalité souhaités : : :  Recherche de nouveauté Extraversion Volonté de persuasion Ténacité Ambition Créativité Intuition / Spontanéité Besoin d'autonomie 
+2024-03-14 12:00:32 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-conseiller-commercial-seat-hf-recrutement-cac-centrale-automobile-cherifienne-casablanca-159677.html
+2024-03-14 12:00:32 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-ee-architecture-engineer-recrutement-alten-maroc-rabat-159676.html
+2024-03-14 12:00:33 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:33 - INFO - The offer page number [9] was fetched successfully
+2024-03-14 12:00:33 - INFO - Company name of the offer: ALTEN Maroc
+2024-03-14 12:00:33 - INFO - job title of the offer: EE Architecture Engineer
+2024-03-14 12:00:33 - INFO - Adresses of the offer: Parc Fès Shore Parc- Route sidi Hrazem - Fès - Maroc
+2024-03-14 12:00:33 - INFO - Details de poste: Poste :Physical & Functional Partitioning and Allocation of features and functions in order to meet systems/subsystem performance requirements, plus cybersecurity and functional safety requirements ;Create mechanizations / schematics for subsystem domains ;Create topology/functional diagrams showing data exchange/interactions between ;Drive Interfaces Standardization for the Domain / Subsystem ;Oversee the Functional System Design modeling following the allocation decisions ;Oversee Network & Diagnostics system design following the allocation decisions ;Work with the hardware team to provide requirements for microcontrollers, memory and/or communication chipsets to support the physical/functional allocation decisions ;Conduisez sans relâche à la livraison du cycle de vie précoce grâce à une approche agile ;Développer une culture de collaboration, de diversité et d’inclusion ;Volonté d’agir et d’obtenir des résultats.
+2024-03-14 12:00:33 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:33 - INFO - Location de poste:  Rabat (Maroc) 
+2024-03-14 12:00:33 - WARNING - postes_proposes of the offer not found. Error: The 'Postes proposés' value was not found.
+2024-03-14 12:00:33 - INFO - Secteur d'activité:  Méthodes / Process / Industrialisation - Production / Qualité / Sécurité / Maintenance - Secteur Automobile / Motos / Cycles 
+2024-03-14 12:00:33 - INFO - fonction_li Méthodes / Process / Industrialisation
+2024-03-14 12:00:33 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:33 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum 
+2024-03-14 12:00:33 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:33 - INFO - Profil recherché : Profil recherché :Bac+5 en génie électrique ou en génie électrique/électronique ;1 à 3 ans d’expérience dans l’industrie dans des rôles de conception d’architecture EE ou d’architecture en génie électrique ;Expérience dans la définition et la conception de systèmes informatiques en réseau embarqués, y compris la définition de topologies, de composants et d’interfaces de systèmes ;Expérience dans la conception de communications réseau : protocoles CAN, CAN-FD, LIN et Ethernet ;Compréhension des architectures EE typiques des véhicules et des processus de développement automobile ;Solide penseur systémique ;La maîtrise de l’anglais est requise, toute autre langue européenne est un avantage ;Maîtrise ès sciences en génie électrique ou dans un domaine connexe ;Expérience avec les protocoles de communication basés sur Ethernet : pontage audio-vidéo (AVB) ; Réseaux sensibles au temps (TSN) ; Approche orientée services (SOME/IP) ; TCP/UDP ; MQTT ;Connaissance des protocoles de communication hors bord (connectivité WiFi, 4G/5G, V2X) ;Conception de plates-formes ou de composants EE pour les architectures orientées services (SOA) ;Expérience de l’utilisation d’outils de réseautage tels que CANalyzer, CANoe, PREEvision ;Savoir-faire et expérience des processus et des outils AUTOSAR ;Fait preuve d’excellentes communications écrites et verbales, claires et soucieuses du détail, sur des sujets très complexes.
+2024-03-14 12:00:33 - INFO - Entreprise : : Entreprise :ALTEN DELIVERY CENTER MAROC, Filiale du leader mondial de l’ingénierie et du conseil en technologie créé en 2008 et présent à Fès, Rabat, Tétouan et Casablanca, compte aujourd’hui plus de 2300 consultants et vise un centre d’excellence de 3100 consultants ALTENiens en fin 2024. Avec plus de 90 recrutements par mois, ALTEN Maroc est désormais un acteur majeur de l’insertion professionnelle des ingénieurs. Nous accompagnons nos clients, leaders de l’Industrie dans leurs stratégies de développement dans les domaines de l’automobile, du ferroviaire, de l’IT, de la R&D et des Télécoms & Médias.Rejoindre ALTEN MAROC c’est bénéficier :· Des parcours professionnels diversifiés avec des opportunités de carrière, une mobilité interne, sectorielle, géographique et métiers.· Des formations certifiantes et diplômantes.· Des événements réguliers pour combiner bien être et performance.
+2024-03-14 12:00:33 - INFO - Traits de personnalité souhaités : : :  Organisation Besoin de réflexion Respect des règles Recherche de nouveauté 
+2024-03-14 12:00:33 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-ee-architecture-engineer-recrutement-alten-maroc-rabat-159676.html
+2024-03-14 12:00:33 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-ingenieur-cfd-recrutement-alten-maroc-rabat-159675.html
+2024-03-14 12:00:33 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:33 - INFO - The offer page number [10] was fetched successfully
+2024-03-14 12:00:33 - INFO - Company name of the offer: ALTEN Maroc
+2024-03-14 12:00:33 - INFO - job title of the offer: Ingénieur CFD
+2024-03-14 12:00:33 - INFO - Adresses of the offer: Parc Fès Shore Parc- Route sidi Hrazem - Fès - Maroc
+2024-03-14 12:00:33 - INFO - Details de poste: Poste :Réaliser des études pour les filières CFD (Construction model, aérodynamique, thermique moteur, thermique habitacle, fiabilité à l’usage dimensionnement véhicule) ;Rédaction des rapports techniques en français et en anglais ;Mise à jour du référentiel (mise à jour de documents méthodologiques en Français et en Anglais) ;Lancement des tests « en rafale » pour validation des évolutions méthodologiques sur les panoramas de cas métiers et synthèse des résultats ;Mise à jour de modèles CFD sous ANSA (mise à jour d’organe, assemblage voiture complète...) ;Participation à la capitalisation des connaissances.
+2024-03-14 12:00:33 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:33 - INFO - Location de poste:  Rabat (Maroc) 
+2024-03-14 12:00:33 - WARNING - postes_proposes of the offer not found. Error: The 'Postes proposés' value was not found.
+2024-03-14 12:00:33 - INFO - Secteur d'activité:  Méthodes / Process / Industrialisation - Production / Qualité / Sécurité / Maintenance - Secteur Automobile / Motos / Cycles 
+2024-03-14 12:00:33 - INFO - fonction_li Méthodes / Process / Industrialisation
+2024-03-14 12:00:33 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:33 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum 
+2024-03-14 12:00:33 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:33 - INFO - Profil recherché : Profil recherché :Formation et Expérience :Formation Bac+5 orientée Mécanique des Fluides (Aérodynamique / Thermique) avec au moins 1 an d’expérience en calculs CFD dans l’automobile dans la filière ANSA – ANSYS FLUENT – ENSIGHT/META.Compétences techniques et qualités requises :Maitrise d’ANSA pour la CFD ;Maitrise obligatoire du post-traitement CFD sous Ensight, et sous MetaPost ;Maitrise de la suite ANSYS Fluent (Fluent et Fluent Meshing, expérience professionnelle validée de 2 ans minimum) ;Aisance d’utilisation de la suite Microsoft Office et VBA ;Langues Française et Anglaise fluides (indispensables pour support « worldwide ») ;Bon niveau de communication en Anglais ;Capacité de collabore à distance avec d’autres équipes ;Maîtrise des logiciels : ANSA, ENSIGHT/META, TAITHERM, Catia V5/6.
+2024-03-14 12:00:33 - INFO - Entreprise : : Entreprise :ALTEN DELIVERY CENTER MAROC, Filiale du leader mondial de l’ingénierie et du conseil en technologie créé en 2008 et présent à Fès, Rabat, Tétouan et Casablanca, compte aujourd’hui plus de 2300 consultants et vise un centre d’excellence de 3100 consultants ALTENiens en fin 2024. Avec plus de 90 recrutements par mois, ALTEN Maroc est désormais un acteur majeur de l’insertion professionnelle des ingénieurs. Nous accompagnons nos clients, leaders de l’Industrie dans leurs stratégies de développement dans les domaines de l’automobile, du ferroviaire, de l’IT, de la R&D et des Télécoms & Médias.Rejoindre ALTEN MAROC c’est bénéficier :· Des parcours professionnels diversifiés avec des opportunités de carrière, une mobilité interne, sectorielle, géographique et métiers.· Des formations certifiantes et diplômantes.· Des événements réguliers pour combiner bien être et performance.
+2024-03-14 12:00:33 - INFO - Traits de personnalité souhaités : : :  Organisation Besoin de réflexion Respect des règles Recherche de nouveauté 
+2024-03-14 12:00:33 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-ingenieur-cfd-recrutement-alten-maroc-rabat-159675.html
+2024-03-14 12:00:33 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-responsable-construction-modele-recrutement-alten-maroc-casablanca-159674.html
+2024-03-14 12:00:34 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:34 - INFO - The offer page number [11] was fetched successfully
+2024-03-14 12:00:34 - INFO - Company name of the offer: ALTEN Maroc
+2024-03-14 12:00:34 - INFO - job title of the offer: Responsable Construction Modèle
+2024-03-14 12:00:34 - INFO - Adresses of the offer: Parc Fès Shore Parc- Route sidi Hrazem - Fès - Maroc
+2024-03-14 12:00:34 - INFO - Details de poste: Poste :Récupération des Données d’entrées ( CAOs, Géométrie, Références des pièces …) chez les différents fournisseurs ;Assurer la construction complète ou la mise à jour des modèles véhicule (Nettoyage, maillage, nomenclature) ;Pilotage et suivi de construction modèles et calcul chez les fournisseurs + garantir la qualité des livrables reçus ;Rédaction des rapport techniques en français et en anglais ;Assurer la capitalisation et la mise à jour du référentiel (mise à jour de documents méthodologiques en Français et en Anglais).
+2024-03-14 12:00:34 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:34 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-14 12:00:34 - WARNING - postes_proposes of the offer not found. Error: The 'Postes proposés' value was not found.
+2024-03-14 12:00:34 - INFO - Secteur d'activité:  Méthodes / Process / Industrialisation - Production / Qualité / Sécurité / Maintenance - Secteur Automobile / Motos / Cycles 
+2024-03-14 12:00:34 - INFO - fonction_li Méthodes / Process / Industrialisation
+2024-03-14 12:00:34 - INFO - Expérience requise De 3 à 5 ans
+2024-03-14 12:00:34 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum 
+2024-03-14 12:00:34 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:34 - INFO - Profil recherché : Profil recherché :Formation et expérience :Formation Bac+5 orientée Mécanique avec 5 ans d'expérience minimum ;Une première expérience dans l’automobile sera un plus. Compétences requises.Compétences techniques et qualités personnelles requises :Bonne connaissance des organes sous capot et sous caisses d’une voiture (Moteur, systèmes de refroidissement, climatisation, échangeurs, ligne d’échappement …) ;Maitrise obligatoire de PLM, ANSA, LS-DYNA, Nastran ;Bon niveau de communication/rédaction en Français et Anglais ;Capacité de collaborer à distance avec d’autres équipes (Clients, fournisseurs …).
+2024-03-14 12:00:34 - INFO - Entreprise : : Entreprise :ALTEN DELIVERY CENTER MAROC, Filiale du leader mondial de l’ingénierie et du conseil en technologie créé en 2008 et présent à Fès, Rabat, Tétouan et Casablanca, compte aujourd’hui plus de 2300 consultants et vise un centre d’excellence de 3100 consultants ALTENiens en fin 2024. Avec plus de 90 recrutements par mois, ALTEN Maroc est désormais un acteur majeur de l’insertion professionnelle des ingénieurs. Nous accompagnons nos clients, leaders de l’Industrie dans leurs stratégies de développement dans les domaines de l’automobile, du ferroviaire, de l’IT, de la R&D et des Télécoms & Médias.Rejoindre ALTEN MAROC c’est bénéficier :· Des parcours professionnels diversifiés avec des opportunités de carrière, une mobilité interne, sectorielle, géographique et métiers.· Des formations certifiantes et diplômantes.· Des événements réguliers pour combiner bien être et performance.
+2024-03-14 12:00:34 - INFO - Traits de personnalité souhaités : : :  Organisation Besoin de réflexion Respect des règles Recherche de nouveauté 
+2024-03-14 12:00:34 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-responsable-construction-modele-recrutement-alten-maroc-casablanca-159674.html
+2024-03-14 12:00:34 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-consultant-charge-daffaires-recrutement-alten-maroc-rabat-159673.html
+2024-03-14 12:00:34 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:34 - INFO - The offer page number [12] was fetched successfully
+2024-03-14 12:00:34 - INFO - Company name of the offer: ALTEN Maroc
+2024-03-14 12:00:34 - INFO - job title of the offer: Consultant Chargé d'Affaires
+2024-03-14 12:00:34 - INFO - Adresses of the offer: Parc Fès Shore Parc- Route sidi Hrazem - Fès - Maroc
+2024-03-14 12:00:34 - INFO - Details de poste: Poste :Le chargé d'affaires aura comme principales missions :Conception 3D sous CATIA V5/V6 ;Mise en plan 2D et gammes de fabrication ;Connaissances des techniques d’usinage ;Connaissances en CAO/DAO (Catia, Isodraw).
+2024-03-14 12:00:34 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:34 - INFO - Location de poste:  Rabat (Maroc) 
+2024-03-14 12:00:34 - INFO - Postes proposés de poste: 1
+2024-03-14 12:00:34 - INFO - Secteur d'activité:  Méthodes / Process / Industrialisation - Production / Qualité / Sécurité / Maintenance - Secteur Automobile / Motos / Cycles 
+2024-03-14 12:00:34 - INFO - fonction_li Méthodes / Process / Industrialisation
+2024-03-14 12:00:34 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:34 - INFO - Niveau d’étude demandé  Bac +3 Minimum - Ecole d'ingénieur - Université 
+2024-03-14 12:00:34 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:34 - INFO - Profil recherché : Profil recherché :Formation et Expérience :Diplôme : Bac +3/+5 en Génie Mécanique ou équivalent ;Expérience : 1 an minimum, optimalement en conception sur le secteur automobile...Compétences requises :Connaissances techniques en Ferroviaire – Matériel Roulant ;Expérience en rédaction de documents techniques ;Maitrise de la langue Anglaise et française (Niveau B2+) ;Management de projet c’est un atout....
+2024-03-14 12:00:34 - INFO - Entreprise : : Entreprise :ALTEN DELIVERY CENTER MAROC, Filiale du leader mondial de l’ingénierie et du conseil en technologie créé en 2008 et présent à Fès, Rabat, Tétouan et Casablanca, compte aujourd’hui plus de 2300 consultants et vise un centre d’excellence de 3100 consultants ALTENiens en fin 2024. Avec plus de 90 recrutements par mois, ALTEN Maroc est désormais un acteur majeur de l’insertion professionnelle des ingénieurs. Nous accompagnons nos clients, leaders de l’Industrie dans leurs stratégies de développement dans les domaines de l’automobile, du ferroviaire, de l’IT, de la R&D et des Télécoms & Médias.Rejoindre ALTEN MAROC c’est bénéficier :· Des parcours professionnels diversifiés avec des opportunités de carrière, une mobilité interne, sectorielle, géographique et métiers.· Des formations certifiantes et diplômantes.· Des événements réguliers pour combiner bien être et performance.
+2024-03-14 12:00:34 - INFO - Traits de personnalité souhaités : : :  Organisation Besoin de réflexion Respect des règles Recherche de nouveauté 
+2024-03-14 12:00:34 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-consultant-charge-daffaires-recrutement-alten-maroc-rabat-159673.html
+2024-03-14 12:00:34 - INFO - the page was scraped
+2024-03-14 12:00:34 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=4
+2024-03-14 12:00:35 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:35 - INFO - The page was fetched successfully.
+2024-03-14 12:00:35 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:35 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-technical-lead-recrutement-alten-maroc-casablanca-159672.html
+2024-03-14 12:00:35 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:35 - INFO - The offer page number [13] was fetched successfully
+2024-03-14 12:00:35 - INFO - Company name of the offer: ALTEN Maroc
+2024-03-14 12:00:35 - INFO - job title of the offer: Technical Lead
+2024-03-14 12:00:35 - INFO - Adresses of the offer: Parc Fès Shore Parc- Route sidi Hrazem - Fès - Maroc
+2024-03-14 12:00:35 - INFO - Details de poste: Poste :Enrichir et entretenir les outils prédictifs 1D & produire des simulations 1D sur les 3 énergies thermique, hybride & électriqueAssurer la convergence sur les objectifs des Projets confiés véhicule & chaine de tractionRéaliser les plans de validations physiques performances, consommation, fonctionnelles & safety suivant le référentiel de validation Stellantis ATCGarantir la fiabilité des fonctions techniques jaugeage huile & carburantPiloter les sous-traitants pour assurer les livrables Projets, validations & filière 1DRespecter les engagements budgétaires et en livrables d’ENGM
+2024-03-14 12:00:35 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:35 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-14 12:00:35 - WARNING - postes_proposes of the offer not found. Error: The 'Postes proposés' value was not found.
+2024-03-14 12:00:35 - INFO - Secteur d'activité:  Méthodes / Process / Industrialisation - Secteur Automobile / Motos / Cycles 
+2024-03-14 12:00:35 - INFO - fonction_li Méthodes / Process / Industrialisation
+2024-03-14 12:00:35 - INFO - Expérience requise De 3 à 5 ans
+2024-03-14 12:00:35 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum 
+2024-03-14 12:00:35 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:35 - INFO - Profil recherché : Profil recherché :Ingénieur en génie mécanique/ énergétique avec minimum 5 ans d'expérienceFormation académique / bonnes bases en mécanique générale & énergétiqueExpérience solide (4 ans) des motorisations thermiques, hybrides & électriquesMise en pratique des exigences réglementaires émission / autonomieRéalisation de modélisation/simulations 1D & en validations physiques véhiculeManagement des équipes/ Projet est a un atoutTrès bon niveau en Français & Anglais écrit & oralEfficacité communicationnelle, capacité à expliquer/simplifier & adapter à son public les messagesIntelligence situationnelle, capacité à s’adapter au changement de contexteEsprit d’analyse et synthèse / sujet complexe avec plusieurs partie prenantesMaîtrise de soi en situation de stress en cas d’urgence ou d’enjeu important
+2024-03-14 12:00:35 - INFO - Entreprise : : Entreprise :ALTEN DELIVERY CENTER MAROC, Filiale du leader mondial de l’ingénierie et du conseil en technologie créé en 2008 et présent à Fès, Rabat, Tétouan et Casablanca, compte aujourd’hui plus de 2300 consultants et vise un centre d’excellence de 3100 consultants ALTENiens en fin 2024. Avec plus de 90 recrutements par mois, ALTEN Maroc est désormais un acteur majeur de l’insertion professionnelle des ingénieurs. Nous accompagnons nos clients, leaders de l’Industrie dans leurs stratégies de développement dans les domaines de l’automobile, du ferroviaire, de l’IT, de la R&D et des Télécoms & Médias.Rejoindre ALTEN MAROC c’est bénéficier :· Des parcours professionnels diversifiés avec des opportunités de carrière, une mobilité interne, sectorielle, géographique et métiers.· Des formations certifiantes et diplômantes.· Des événements réguliers pour combiner bien être et performance.
+2024-03-14 12:00:35 - INFO - Traits de personnalité souhaités : : :  Organisation Besoin de réflexion Respect des règles Recherche de nouveauté 
+2024-03-14 12:00:35 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-technical-lead-recrutement-alten-maroc-casablanca-159672.html
+2024-03-14 12:00:35 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-pilote-gestion-de-configuration-systeme-software-recrutement-alten-maroc-rabat-159671.html
+2024-03-14 12:00:36 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:36 - INFO - The offer page number [14] was fetched successfully
+2024-03-14 12:00:36 - INFO - Company name of the offer: ALTEN Maroc
+2024-03-14 12:00:36 - INFO - job title of the offer: Pilote Gestion de Configuration Système & Software
+2024-03-14 12:00:36 - INFO - Adresses of the offer: Parc Fès Shore Parc- Route sidi Hrazem - Fès - Maroc
+2024-03-14 12:00:36 - INFO - Details de poste: Poste :En tant que Pilote Gestion de Configuration Système & Software, vos missions principales seront :Identification de la demande de changement : Le processus commence par l'identification d'une demande de changement, qui peut venir de l'équipe de développement logiciel, des utilisateurs ayant rencontré un problème sur leur véhicule ou même d’un audit de conformité réglementaire.Évaluation de la demande : Une fois la demande de changement soulevée, elle est évaluée selon plusieurs critères : sa pertinence, son impact sur le calculateur et les systèmes qu’ils touche et sa criticité. Cette première analyse permet alors de déterminer si la demande est valide et si elle doit être approuvée.Création d'une proposition de changement : Si la demande en question est jugée pertinente, une proposition de solution technique est élaborée. Cette proposition doit contenir des informations détaillées sur la nature de la modification, son objectif, les éléments configurables affectés et les risques engendré par son implémentation.Revue et approbation : La proposition de changement est soumise à une revue et à une évaluation lors d’un comité de décision. Le demandeur présente alors sa solution à un spécialiste qui examine la proposition pour s'assurer de sa faisabilité, de sa pertinence et de ses impacts.Mise en œuvre du changement : Une fois que le changement est approuvé, il peut être mis en place. Dans le cas d’un calculateur, cela peut impliquer une modification du code du logiciel embarqué, de sa puce électronique ou la mise à jour du fichier de calibration ou de configuration.Tests et vérification : Après la mise en œuvre du changement, des tests de non-régression sont effectués pour s'assurer que la modification a été réalisée correctement, qu'elle n'a pas introduit de nouveaux problèmes et qu'elle est conforme aux exigences du projet.Validation : Une fois les tests et les vérifications réussis, le changement est validé pour confirmer qu'il répond aux besoins du projet et qu'il peut être intégré dans la configuration globale.Documentation : Toutes les étapes du processus de gestion du changement, y compris les demandes, les propositions, les approbations, les tests et les validations, sont documentées de manière complète et traçable.
+2024-03-14 12:00:36 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:36 - INFO - Location de poste:  Rabat (Maroc) 
+2024-03-14 12:00:36 - WARNING - postes_proposes of the offer not found. Error: The 'Postes proposés' value was not found.
+2024-03-14 12:00:36 - INFO - Secteur d'activité:  Informatique / Electronique - Multimédia / Internet - Secteur Automobile / Motos / Cycles 
+2024-03-14 12:00:36 - INFO - fonction_li Informatique / Electronique
+2024-03-14 12:00:36 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:36 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum - Master - Ecole d'ingénieur 
+2024-03-14 12:00:36 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:36 - INFO - Profil recherché : Profil recherché :Formation et Expérience :- Diplôme d'ingénieur en Systèmes Embarqués/ Génie Electrique/Electronique ou équivalent.- Expérience : Un an et plus.Compétences requises :- Connaissances en gestion de configuration ;- Connaissances en ingénierie système & software;- Autonomie et pro-activité ;- Bon relationnel ;- Esprit de synthèse ;- Capacités rédactionnelles ;- Réactivité ;- Bon niveau de communication Français et Anglais ;- Connaissances PLM et/ou 3DX...
+2024-03-14 12:00:36 - INFO - Entreprise : : Entreprise :ALTEN DELIVERY CENTER MAROC, Filiale du leader mondial de l’ingénierie et du conseil en technologie créé en 2008 et présent à Fès, Rabat, Tétouan et Casablanca, compte aujourd’hui plus de 2300 consultants et vise un centre d’excellence de 3100 consultants ALTENiens en fin 2024. Avec plus de 90 recrutements par mois, ALTEN Maroc est désormais un acteur majeur de l’insertion professionnelle des ingénieurs. Nous accompagnons nos clients, leaders de l’Industrie dans leurs stratégies de développement dans les domaines de l’automobile, du ferroviaire, de l’IT, de la R&D et des Télécoms & Médias.Rejoindre ALTEN MAROC c’est bénéficier :· Des parcours professionnels diversifiés avec des opportunités de carrière, une mobilité interne, sectorielle, géographique et métiers.· Des formations certifiantes et diplômantes.· Des événements réguliers pour combiner bien être et performance.
+2024-03-14 12:00:36 - INFO - Traits de personnalité souhaités : : :  Implication au travail Besoin d'autonomie Besoin de réflexion Ambition Recherche de nouveauté 
+2024-03-14 12:00:36 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-pilote-gestion-de-configuration-systeme-software-recrutement-alten-maroc-rabat-159671.html
+2024-03-14 12:00:36 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-ingenieur-process-junior-recrutement-groupe-labelvie---carrefour-skhirat-159670.html
+2024-03-14 12:00:36 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:36 - INFO - The offer page number [15] was fetched successfully
+2024-03-14 12:00:36 - INFO - Company name of the offer: Carrefour
+2024-03-14 12:00:36 - INFO - job title of the offer: Ingénieur Process Junior
+2024-03-14 12:00:36 - INFO - Adresses of the offer: Route nationale 1km 3.5 douar Oulad Othman- SKHIRAT
+2024-03-14 12:00:36 - INFO - Details de poste: Poste :Affecté à la direction logistique, votre rôle est de définir les opportunités d’amélioration, piloter les projets d’implémentation et d'identifier les opportunités de simplification et d’automatisation des process.Pour cela vosdomaines de résultatssont :• Définir les opportunités d’amélioration et piloter les projets d’implémentation• Identifier les opportunités de simplification et d’automatisation des méthodes de travail et piloter la conduite du changement en collaboration avec la DSI• Mise en place des indicateurs de performance et des outils de reporting
+2024-03-14 12:00:36 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:36 - INFO - Location de poste:  Skhirat (Maroc) 
+2024-03-14 12:00:36 - INFO - Postes proposés de poste: 1
+2024-03-14 12:00:36 - INFO - Secteur d'activité:  Achats / Supply Chain - Secteur Distribution - 
+2024-03-14 12:00:36 - INFO - fonction_li Achats / Supply Chain
+2024-03-14 12:00:36 - INFO - Expérience requise Moins de 1 an
+2024-03-14 12:00:36 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum 
+2024-03-14 12:00:36 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:36 - INFO - Profil recherché : Profil recherché :De formation Bac+5 ingénieur logistique, vous justifiez d’une première expérience dans laquelle vous avez développé les compétences suivantes :Capacité à veiller au traitement des stocks mortsCapacité à déterminer les dysfonctionnements éventuels avec les différents acteurs et y apporter une réponse concrèteCapacité à élaborer & suivre le budgetCapacité à piloter la performance (reporting) de l'activité dans son périmètre et suivre les indicateursSens relationnel & communication, Initiative & Réactivité sont les atouts et facteurs clés de succès de ce poste« LabelVie s’engage à prévenir toute forme de discrimination et notamment celles fondées sur le sexe ou la situation et les responsabilités familiales. LabelVie s’engage à promouvoir l’égalité des chances entre les hommes et les femmes, en matière d’accès à l’emploi et à la formation, de conditions de travail, de rémunération, d’évolution de carrière et d’accès à des postes à responsabilité ».
+2024-03-14 12:00:36 - INFO - Entreprise : : Entreprise :Créé en 1986 et côté à la Bourse de Casablanca depuis 2008, leGroupe marocain LabelVieest un acteur économique de référence et leader de la grande distribution au Maroc.En 2009, à travers la signature du contrat de franchise avec leGroupe Carrefour, il accède à sa centrale d’achat pour optimiser et diversifier son sourcing. Il devient ainsi le premier acteur multi-formats de la grande distribution au Maroc par l’exploitation des hypermarchés Carrefour, des supermarchés Carrefour Market et du format hyper cash Atacadao.Le Groupe LabelVie présente chaque année un plan de développement soutenu renforçant sa présence territoriale avec ses136 magasinsrépartis dans28 villesdu royaume et ses3 plateformes logistiqueset un chiffre d’affaires réalisé de11,7 milliards de dirhamsen 2021.En 2021, leGroupe LabelViea entamé sa transformation digitale afin de répondre aux enjeux d’innovation et aux besoins des consommateurs finaux. Ce sont ainsi de nombreux projets structurants qui sont actuellement en construction au sein du Groupe pilotés par nos équipes SI, Digital et Data ; constituées d’experts reconnus dans leur domaines et animés par la volonté de relever les challenges de l’innovation et de la transformation digitale dans un secteur en plein essor.
+2024-03-14 12:00:36 - INFO - Traits de personnalité souhaités : : :  Recherche de nouveauté Rationalisme Distance émotionnelle Respect des règles Besoin d'action 
+2024-03-14 12:00:36 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-ingenieur-process-junior-recrutement-groupe-labelvie---carrefour-skhirat-159670.html
+2024-03-14 12:00:36 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-performance-project-engineer-thermal-recrutement-alten-maroc-casablanca-159669.html
+2024-03-14 12:00:37 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:37 - INFO - The offer page number [16] was fetched successfully
+2024-03-14 12:00:37 - INFO - Company name of the offer: ALTEN Maroc
+2024-03-14 12:00:37 - INFO - job title of the offer: Performance Project Engineer Thermal
+2024-03-14 12:00:37 - INFO - Adresses of the offer: Parc Fès Shore Parc- Route sidi Hrazem - Fès - Maroc
+2024-03-14 12:00:37 - INFO - Details de poste: Poste :Piloter la convergence des prestations refroidissement et protections thermiques.Réaliser les synthèses jalons du domaine thermiqueDéfinition du plan de validation et le suivi des risques projetsAlimenter les bases concurrences du périmètre thermique moteurElaborer et maintenir les référentiels techniques, au niveau du meilleur état de l’art de la région MEA
+2024-03-14 12:00:37 - INFO - date de poste:  Publication : du 14/03/2024 au 14/05/2024 
+2024-03-14 12:00:37 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-14 12:00:37 - WARNING - postes_proposes of the offer not found. Error: The 'Postes proposés' value was not found.
+2024-03-14 12:00:37 - INFO - Secteur d'activité:  Méthodes / Process / Industrialisation - Secteur Automobile / Motos / Cycles 
+2024-03-14 12:00:37 - INFO - fonction_li Méthodes / Process / Industrialisation
+2024-03-14 12:00:37 - INFO - Expérience requise De 1 à 3 ans
+2024-03-14 12:00:37 - INFO - Niveau d’étude demandé  Bac +5 et plus Maximum 
+2024-03-14 12:00:37 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:37 - INFO - Profil recherché : Profil recherché :Ingénieur en génie mécanique avec deux ans d'expérience minimumCompétences avancées en Mécaniques des fluides/thermiqueCompétences avancées en architectures refroidissement moteurs thermiques, batterie, machine électriqueConnaissance des outils de simulation CFD ANSYS Fluent, TAITherm, EnsightConnaissance Matlab/SimulinkGrande autonomie,Esprit d’analyse et de synthèse,Rigoureux,Réactif
+2024-03-14 12:00:37 - INFO - Entreprise : : Entreprise :ALTEN DELIVERY CENTER MAROC, Filiale du leader mondial de l’ingénierie et du conseil en technologie créé en 2008 et présent à Fès, Rabat, Tétouan et Casablanca, compte aujourd’hui plus de 2300 consultants et vise un centre d’excellence de 3100 consultants ALTENiens en fin 2024. Avec plus de 90 recrutements par mois, ALTEN Maroc est désormais un acteur majeur de l’insertion professionnelle des ingénieurs. Nous accompagnons nos clients, leaders de l’Industrie dans leurs stratégies de développement dans les domaines de l’automobile, du ferroviaire, de l’IT, de la R&D et des Télécoms & Médias.Rejoindre ALTEN MAROC c’est bénéficier :· Des parcours professionnels diversifiés avec des opportunités de carrière, une mobilité interne, sectorielle, géographique et métiers.· Des formations certifiantes et diplômantes.· Des événements réguliers pour combiner bien être et performance.
+2024-03-14 12:00:37 - INFO - Traits de personnalité souhaités : : :  Recherche de nouveauté Respect des règles Besoin de réflexion Organisation 
+2024-03-14 12:00:37 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-performance-project-engineer-thermal-recrutement-alten-maroc-casablanca-159669.html
+2024-03-14 12:00:37 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseiller-commercial-en-metier-de-la-vente-recrutement-unifitel-casablanca-159498.html
+2024-03-14 12:00:37 - INFO - the page was scraped
+2024-03-14 12:00:37 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=5
+2024-03-14 12:00:37 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:37 - INFO - The page was fetched successfully.
+2024-03-14 12:00:37 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:37 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-dactivites-franco-anglophone-recrutement-webhelp-maroc-marrakech-province-158174.html
+2024-03-14 12:00:37 - INFO - the page was scraped
+2024-03-14 12:00:37 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=6
+2024-03-14 12:00:38 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:38 - INFO - The page was fetched successfully.
+2024-03-14 12:00:38 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:38 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-commerciaux-en-btob-recrutement-webhelp-maroc-rabat-158134.html
+2024-03-14 12:00:38 - INFO - the page was scraped
+2024-03-14 12:00:38 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=7
+2024-03-14 12:00:38 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:38 - INFO - The page was fetched successfully.
+2024-03-14 12:00:38 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:38 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-clients-franco-anglophones-secteur-des-medias-divertissements-a-marrakech-recrutement-webhelp-maroc-marrakech-158679.html
+2024-03-14 12:00:38 - INFO - the page was scraped
+2024-03-14 12:00:38 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=8
+2024-03-14 12:00:39 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:39 - INFO - The page was fetched successfully.
+2024-03-14 12:00:39 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:39 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-clients-trilingues-franco-hispano-anglo--prime-de-bienvenue-2500-dh-recrutement-webhelp-maroc-fes-158537.html
+2024-03-14 12:00:39 - INFO - the page was scraped
+2024-03-14 12:00:39 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=9
+2024-03-14 12:00:39 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:39 - INFO - The page was fetched successfully.
+2024-03-14 12:00:39 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:39 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-clients-franco-anglophones---secteur-high-tech--prime-de-bienvenue-1500-dh--recrutement-webhelp-maroc-agadir-158132.html
+2024-03-14 12:00:39 - INFO - the page was scraped
+2024-03-14 12:00:39 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=10
+2024-03-14 12:00:39 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:39 - INFO - The page was fetched successfully.
+2024-03-14 12:00:40 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:40 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chef-de-departement-veille-et-etudes-recrutement-orh-assessment-casablanca-159093.html
+2024-03-14 12:00:40 - INFO - the page was scraped
+2024-03-14 12:00:40 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=11
+2024-03-14 12:00:40 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:40 - INFO - The page was fetched successfully.
+2024-03-14 12:00:40 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:40 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-lead-development-representative-ldr-recrutement-hcltech-rabat-158255.html
+2024-03-14 12:00:40 - INFO - the page was scraped
+2024-03-14 12:00:40 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=12
+2024-03-14 12:00:40 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:40 - INFO - The page was fetched successfully.
+2024-03-14 12:00:40 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:40 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-web-integrator-hf-recrutement-maroc-climate-and-security-mcs---carrier-casablanca-159290.html
+2024-03-14 12:00:40 - INFO - the page was scraped
+2024-03-14 12:00:40 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=13
+2024-03-14 12:00:41 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:41 - INFO - The page was fetched successfully.
+2024-03-14 12:00:41 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:41 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-responsable-technique-agronome-recrutement-confidentiel-larache-159629.html
+2024-03-14 12:00:41 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:41 - INFO - The offer page number [26] was fetched successfully
+2024-03-14 12:00:41 - INFO - Company name of the offer: Confidential
+2024-03-14 12:00:41 - INFO - job title of the offer: Responsable Technique (Agronome)
+2024-03-14 12:00:41 - WARNING - Adresses of the offer not found. Error: 'NoneType' object has no attribute 'text'
+2024-03-14 12:00:41 - INFO - Details de poste: Poste :Missions:- Gérer et former l’équipe technique- Elaborer les plans de fertilisation pour toutes les zones de production de la culture de la framboise- Analyser des informations et les rapports techniques pour garantir la bonne exécution des directives techniques- Optimiser les coûts agrochimiques, en coordination avec le département des achats et du contrôle de gestion- Assurer la surveillance continue des maladies et des ravageurs- Réaliser le diagnostic, évaluation, contrôle et traitement du système d'irrigation.
+2024-03-14 12:00:41 - INFO - date de poste:  Publication : du 13/03/2024 au 13/05/2024 
+2024-03-14 12:00:41 - INFO - Location de poste:  Larache (Maroc) 
+2024-03-14 12:00:41 - INFO - Postes proposés de poste: 1
+2024-03-14 12:00:41 - INFO - Secteur d'activité:  Agriculture (métiers de l') - Environnement (métiers de l') - Secteur Agriculture / Environnement - Agroalimentaire 
+2024-03-14 12:00:41 - INFO - fonction_li Agriculture (métiers de l')
+2024-03-14 12:00:41 - INFO - Expérience requise De 3 à 5 ans                                     - De 5 à 10 ans
+2024-03-14 12:00:41 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum - Master - Ecole d'ingénieur 
+2024-03-14 12:00:41 - INFO - Type de contrat:  CDI 
+2024-03-14 12:00:41 - INFO - Profil recherché : Profil recherché :Profil recherché :• Formation : Diplôme d’ingénieur agronome• Niveau d’expérience : 5 ans, dont 2 ans minimum dans un poste similaire• Compétences requises :- Solides connaissances en agriculture (de préférence en fruits rouges)- Bonnes connaissances en irrigation et nutrition.- Parfaite connaissance des produits phytosanitaires.- Maitrise du français, de l'espagnole, et d’anglais (un aout).- Maitrise complète des outils bureautiques.• Qualités professionnelles :- Votre rigueur, votre détermination ;- Avoir l’esprit d’équipe et de l’initiative ;- Pouvoir communiquer simplement.
+2024-03-14 12:00:41 - INFO - Entreprise : : Entreprise :Nous sommes une entreprise multinationale leader dans la catégorie des fruits rouges, présente sur différents marchés et références dans le secteur agroalimentaire.Nous avons une proposition claire, un engagement en faveur du développement durable, de l'inclusion et de la non-discrimination, et nous considérons la valeur de la diversité et du multiculturalisme comme facteurs clés de l'innovation.A cette occasion, nous recherchonsun (e) Responsable Technique (Agronome)pour rejoindre notre équipe technique.Si vous êtes une personne passionnée, proactive et responsable, nous vous invitons à postuler.
+2024-03-14 12:00:41 - INFO - Traits de personnalité souhaités : : :  Organisation Besoin de réflexion Sensibilité émotionnelle Equilibre personnel Travail en équipe Respect des règles 
+2024-03-14 12:00:41 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-responsable-technique-agronome-recrutement-confidentiel-larache-159629.html
+2024-03-14 12:00:41 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseiller-client-germanophone-recrutement-wengage-maroc-rabat-159020.html
+2024-03-14 12:00:42 - INFO - the page was scraped
+2024-03-14 12:00:42 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=14
+2024-03-14 12:00:42 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:42 - INFO - The page was fetched successfully.
+2024-03-14 12:00:42 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:42 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-business-analyste-telecom-anglophone-recrutement-atos-nearshore-rabat-159623.html
+2024-03-14 12:00:42 - INFO - the page was scraped
+2024-03-14 12:00:42 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=15
+2024-03-14 12:00:42 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:42 - INFO - The page was fetched successfully.
+2024-03-14 12:00:42 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:42 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-operateur-reseau-electricite-hf-recrutement-lydec-casablanca-159618.html
+2024-03-14 12:00:42 - INFO - the page was scraped
+2024-03-14 12:00:42 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=16
+2024-03-14 12:00:43 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:43 - INFO - The page was fetched successfully.
+2024-03-14 12:00:43 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:43 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-reseaux-et-telecoms-junior-recrutement-eca-assurances-casablanca-158927.html
+2024-03-14 12:00:43 - INFO - the page was scraped
+2024-03-14 12:00:43 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=17
+2024-03-14 12:00:43 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:43 - INFO - The page was fetched successfully.
+2024-03-14 12:00:43 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:43 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-mtsb-minimum-technical-security-baseline-support-n1-recrutement-excel-management-conseil-rabat-159604.html
+2024-03-14 12:00:43 - INFO - the page was scraped
+2024-03-14 12:00:43 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=18
+2024-03-14 12:00:44 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:44 - INFO - The page was fetched successfully.
+2024-03-14 12:00:44 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:44 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-referent-infrastructures-it-recrutement-crouzet-casablanca-159079.html
+2024-03-14 12:00:44 - INFO - the page was scraped
+2024-03-14 12:00:44 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=19
+2024-03-14 12:00:44 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:44 - INFO - The page was fetched successfully.
+2024-03-14 12:00:44 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:44 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-calcul-cfd-hf-recrutement-capgemini-engineering-casablanca-158413.html
+2024-03-14 12:00:44 - INFO - the page was scraped
+2024-03-14 12:00:44 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=20
+2024-03-14 12:00:45 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:45 - INFO - The page was fetched successfully.
+2024-03-14 12:00:45 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:45 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-developpeur-.net-core-hf-recrutement-capgemini-casablanca-159588.html
+2024-03-14 12:00:45 - INFO - the page was scraped
+2024-03-14 12:00:45 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=21
+2024-03-14 12:00:45 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:45 - INFO - The page was fetched successfully.
+2024-03-14 12:00:45 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:45 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-asesores-de-servicio-al-cliente-hispanohablantes-recrutement-foundever-ex-sitel-group-rabat-159205.html
+2024-03-14 12:00:45 - INFO - the page was scraped
+2024-03-14 12:00:45 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=22
+2024-03-14 12:00:46 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:46 - INFO - The page was fetched successfully.
+2024-03-14 12:00:46 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:46 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-bpo-assistant-formation-recrutement-leyton-casablanca-159572.html
+2024-03-14 12:00:46 - INFO - the page was scraped
+2024-03-14 12:00:46 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=23
+2024-03-14 12:00:46 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:46 - INFO - The page was fetched successfully.
+2024-03-14 12:00:46 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:46 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chef-de-projet-en-industrie-hf-recrutement-yazaki-morocco-tanger-159567.html
+2024-03-14 12:00:46 - INFO - the page was scraped
+2024-03-14 12:00:46 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=24
+2024-03-14 12:00:47 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:47 - INFO - The page was fetched successfully.
+2024-03-14 12:00:47 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:47 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-senior-data-scientist-recrutement-leyton-casablanca-158023.html
+2024-03-14 12:00:47 - INFO - the page was scraped
+2024-03-14 12:00:47 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=25
+2024-03-14 12:00:47 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:47 - INFO - The page was fetched successfully.
+2024-03-14 12:00:47 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:47 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-energeticien-thermicien-recrutement-novec-sale-technopolis-158447.html
+2024-03-14 12:00:47 - INFO - the page was scraped
+2024-03-14 12:00:47 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=26
+2024-03-14 12:00:48 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:48 - INFO - The page was fetched successfully.
+2024-03-14 12:00:48 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:48 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseiller-clientele-hf-recrutement-attijariwafa-bank-casablanca-158920.html
+2024-03-14 12:00:48 - INFO - the page was scraped
+2024-03-14 12:00:48 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=27
+2024-03-14 12:00:48 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:48 - INFO - The page was fetched successfully.
+2024-03-14 12:00:48 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:48 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-senior-nvh-performance-engineer-noise-vibration-and-harshness-recrutement-capgemini-engineering-casablanca-158602.html
+2024-03-14 12:00:48 - INFO - the page was scraped
+2024-03-14 12:00:48 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=28
+2024-03-14 12:00:49 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:49 - INFO - The page was fetched successfully.
+2024-03-14 12:00:49 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:49 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-technicienne-sig-experimentee-recrutement-novec-sale-technopolis-158902.html
+2024-03-14 12:00:49 - INFO - the page was scraped
+2024-03-14 12:00:49 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=29
+2024-03-14 12:00:52 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:52 - INFO - The page was fetched successfully.
+2024-03-14 12:00:52 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:52 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-testeur-automaticien-hf-recrutement-sofrecom-maroc-rabat-158451.html
+2024-03-14 12:00:52 - INFO - the page was scraped
+2024-03-14 12:00:52 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=30
+2024-03-14 12:00:53 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:53 - INFO - The page was fetched successfully.
+2024-03-14 12:00:53 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:53 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-cyber-security-consultant-recrutement-manpower-agences-casablanca-159537.html
+2024-03-14 12:00:53 - INFO - the page was scraped
+2024-03-14 12:00:53 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=31
+2024-03-14 12:00:53 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:53 - INFO - The page was fetched successfully.
+2024-03-14 12:00:53 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:53 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-clients-franco-anglophones---secteur-travel---prime-de-bienvenue-2500-dhs-recrutement-webhelp-maroc-meknes-159262.html
+2024-03-14 12:00:53 - INFO - the page was scraped
+2024-03-14 12:00:53 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=32
+2024-03-14 12:00:54 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:54 - INFO - The page was fetched successfully.
+2024-03-14 12:00:54 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:54 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-de-clientele-recrutement-bank-of-africa-beni-mellal-et-regions-159518.html
+2024-03-14 12:00:54 - INFO - the page was scraped
+2024-03-14 12:00:54 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=33
+2024-03-14 12:00:54 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:54 - INFO - The page was fetched successfully.
+2024-03-14 12:00:54 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:54 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-des-appels-doffres-et-marches-hf-recrutement-confidentiel-rabat-159510.html
+2024-03-14 12:00:54 - INFO - the page was scraped
+2024-03-14 12:00:54 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=34
+2024-03-14 12:00:55 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:55 - INFO - The page was fetched successfully.
+2024-03-14 12:00:55 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:55 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-commerciaux-bilingues-experts-en-voyage-a-sale-recrutement-webhelp-maroc-sale-158953.html
+2024-03-14 12:00:55 - INFO - the page was scraped
+2024-03-14 12:00:55 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=35
+2024-03-14 12:00:55 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:55 - INFO - The page was fetched successfully.
+2024-03-14 12:00:55 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:55 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-upper-school-art-assistant-recrutement-casablanca-american-school-casablanca-158433.html
+2024-03-14 12:00:55 - INFO - the page was scraped
+2024-03-14 12:00:55 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=36
+2024-03-14 12:00:56 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:56 - INFO - The page was fetched successfully.
+2024-03-14 12:00:56 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:56 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-formateur-franco-anglophone---secteur-du-travel-recrutement-webhelp-maroc-marrakech-159478.html
+2024-03-14 12:00:56 - INFO - the page was scraped
+2024-03-14 12:00:56 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=37
+2024-03-14 12:00:56 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:56 - INFO - The page was fetched successfully.
+2024-03-14 12:00:56 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:56 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-assistant-responsable-des-restaurants-hf-recrutement-club-med-marrakech-159471.html
+2024-03-14 12:00:56 - INFO - the page was scraped
+2024-03-14 12:00:56 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=38
+2024-03-14 12:00:56 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:56 - INFO - The page was fetched successfully.
+2024-03-14 12:00:57 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:57 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-assistante-administration-des-ventes-recrutement-od-services-casablanca-159459.html
+2024-03-14 12:00:57 - INFO - the page was scraped
+2024-03-14 12:00:57 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=39
+2024-03-14 12:00:57 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:57 - INFO - The page was fetched successfully.
+2024-03-14 12:00:57 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:57 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-formateur-germano-anglophone-en-centre-dappel---secteur-des-medias-et-divertissements-recrutement-webhelp-maroc-marrakech-158186.html
+2024-03-14 12:00:57 - INFO - the page was scraped
+2024-03-14 12:00:57 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=40
+2024-03-14 12:00:57 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:57 - INFO - The page was fetched successfully.
+2024-03-14 12:00:58 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:58 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-technicien-reseau-eau-et-assainissement-recrutement-lydec-casablanca-159454.html
+2024-03-14 12:00:58 - INFO - the page was scraped
+2024-03-14 12:00:58 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=41
+2024-03-14 12:00:58 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:58 - INFO - The page was fetched successfully.
+2024-03-14 12:00:58 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:58 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chargee-de-recrutement-et-integration---rabat-recrutement-cnexia-rabat-159451.html
+2024-03-14 12:00:58 - INFO - the page was scraped
+2024-03-14 12:00:58 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=42
+2024-03-14 12:00:58 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:58 - INFO - The page was fetched successfully.
+2024-03-14 12:00:59 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:59 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-consultant-junior-dans-les-metiers-de-la-tresorerie-hf-recrutement-deloitte-extended-services-casablanca-159441.html
+2024-03-14 12:00:59 - INFO - the page was scraped
+2024-03-14 12:00:59 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=43
+2024-03-14 12:00:59 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:00:59 - INFO - The page was fetched successfully.
+2024-03-14 12:00:59 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:00:59 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-pilote-tma-mesmcs-recrutement-orh-assessment-casablanca-159433.html
+2024-03-14 12:00:59 - INFO - the page was scraped
+2024-03-14 12:00:59 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=44
+2024-03-14 12:01:00 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:00 - INFO - The page was fetched successfully.
+2024-03-14 12:01:00 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:00 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-tests-integration-recrutement-alten-maroc-rabat-159423.html
+2024-03-14 12:01:00 - INFO - the page was scraped
+2024-03-14 12:01:00 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=45
+2024-03-14 12:01:00 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:00 - INFO - The page was fetched successfully.
+2024-03-14 12:01:00 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:00 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-assistante-pole-operations-recrutement-saz-zenata-159413.html
+2024-03-14 12:01:00 - INFO - the page was scraped
+2024-03-14 12:01:00 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=46
+2024-03-14 12:01:01 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:01 - INFO - The page was fetched successfully.
+2024-03-14 12:01:01 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:01 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-account-manager-hf-recrutement-leoni-maroc-ain-sebaa-159404.html
+2024-03-14 12:01:01 - INFO - the page was scraped
+2024-03-14 12:01:01 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=47
+2024-03-14 12:01:01 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:01 - INFO - The page was fetched successfully.
+2024-03-14 12:01:01 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:01 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-manufacturing-engineering-recrutement-orh-assessment-kenitra-159395.html
+2024-03-14 12:01:01 - INFO - the page was scraped
+2024-03-14 12:01:01 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=48
+2024-03-14 12:01:01 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:01 - INFO - The page was fetched successfully.
+2024-03-14 12:01:02 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:02 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-adjoint-manager-de-rayon-boulangeriepatisserie-experimente-hf-recrutement-groupe-labelvie---carrefour-casablanca-158364.html
+2024-03-14 12:01:02 - INFO - the page was scraped
+2024-03-14 12:01:02 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=49
+2024-03-14 12:01:02 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:02 - INFO - The page was fetched successfully.
+2024-03-14 12:01:02 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:02 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-daffaires-entreprises-corporat-recrutement-bank-al-yousr-casablanca-158992.html
+2024-03-14 12:01:02 - INFO - the page was scraped
+2024-03-14 12:01:02 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=50
+2024-03-14 12:01:02 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:02 - INFO - The page was fetched successfully.
+2024-03-14 12:01:03 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:03 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-commerciaux-en-reception-dappel-hf-recrutement-cnexia-rabat-159382.html
+2024-03-14 12:01:03 - INFO - the page was scraped
+2024-03-14 12:01:03 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=51
+2024-03-14 12:01:03 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:03 - INFO - The page was fetched successfully.
+2024-03-14 12:01:03 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:03 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-process-recrutement-relats-maroc-tanger-151222.html
+2024-03-14 12:01:03 - INFO - the page was scraped
+2024-03-14 12:01:03 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=52
+2024-03-14 12:01:03 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:03 - INFO - The page was fetched successfully.
+2024-03-14 12:01:04 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:04 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-senior-php-full-stack-developer-recrutement-leyton-casablanca-158022.html
+2024-03-14 12:01:04 - INFO - the page was scraped
+2024-03-14 12:01:04 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=53
+2024-03-14 12:01:04 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:04 - INFO - The page was fetched successfully.
+2024-03-14 12:01:04 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:04 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-daffaire-senior-financement-recrutement-cdg-capital-rabat-159346.html
+2024-03-14 12:01:04 - INFO - the page was scraped
+2024-03-14 12:01:04 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=54
+2024-03-14 12:01:04 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:04 - INFO - The page was fetched successfully.
+2024-03-14 12:01:04 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:04 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-commercial-pour-vehicules-petit-et-moyen-tonnage-recrutement-atlas-vehicules-industriels-iveco-tanger-159337.html
+2024-03-14 12:01:04 - INFO - the page was scraped
+2024-03-14 12:01:04 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=55
+2024-03-14 12:01:05 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:05 - INFO - The page was fetched successfully.
+2024-03-14 12:01:05 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:05 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-achat-et-approvisionnement-senior-recrutement-confidentiel-casablanca-159328.html
+2024-03-14 12:01:05 - INFO - the page was scraped
+2024-03-14 12:01:05 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=56
+2024-03-14 12:01:05 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:05 - INFO - The page was fetched successfully.
+2024-03-14 12:01:05 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:05 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-gestionnaire-de-flux-recrutement-aria-group-casablanca-159317.html
+2024-03-14 12:01:05 - INFO - the page was scraped
+2024-03-14 12:01:05 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=57
+2024-03-14 12:01:06 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:06 - INFO - The page was fetched successfully.
+2024-03-14 12:01:06 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:06 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-reseau-et-systeme-senior-recrutement-tersea-casablanca-159303.html
+2024-03-14 12:01:06 - INFO - the page was scraped
+2024-03-14 12:01:06 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=58
+2024-03-14 12:01:06 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:06 - INFO - The page was fetched successfully.
+2024-03-14 12:01:06 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:06 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-dagence-recrutement-bank-assafa-casablanca-159293.html
+2024-03-14 12:01:06 - INFO - the page was scraped
+2024-03-14 12:01:06 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=59
+2024-03-14 12:01:07 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:07 - INFO - The page was fetched successfully.
+2024-03-14 12:01:07 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:07 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-pedagogiques-recrutement-calliope-casablanca-157516.html
+2024-03-14 12:01:07 - INFO - the page was scraped
+2024-03-14 12:01:07 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=60
+2024-03-14 12:01:07 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:07 - INFO - The page was fetched successfully.
+2024-03-14 12:01:07 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:07 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-controle-de-gestion-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159280.html
+2024-03-14 12:01:07 - INFO - the page was scraped
+2024-03-14 12:01:07 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=61
+2024-03-14 12:01:08 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:08 - INFO - The page was fetched successfully.
+2024-03-14 12:01:08 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:08 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-expert-technico-fonctionnel-billing-hf-recrutement-oceane-consulting-it-maroc-technopolis-159266.html
+2024-03-14 12:01:08 - INFO - the page was scraped
+2024-03-14 12:01:08 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=62
+2024-03-14 12:01:08 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:08 - INFO - The page was fetched successfully.
+2024-03-14 12:01:08 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:08 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-methodes-maintenance-recrutement-confidentiel-casablanca-159253.html
+2024-03-14 12:01:08 - INFO - the page was scraped
+2024-03-14 12:01:08 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=63
+2024-03-14 12:01:09 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:09 - INFO - The page was fetched successfully.
+2024-03-14 12:01:09 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:09 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-analyst-data-and-system-controls-dsc-fh-recrutement-deloitte-extended-services-casablanca-159245.html
+2024-03-14 12:01:09 - INFO - the page was scraped
+2024-03-14 12:01:09 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=64
+2024-03-14 12:01:09 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:09 - INFO - The page was fetched successfully.
+2024-03-14 12:01:09 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:09 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-sales-analyst-recrutement-manpower-agences-casablanca-159094.html
+2024-03-14 12:01:09 - INFO - the page was scraped
+2024-03-14 12:01:09 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=65
+2024-03-14 12:01:10 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:10 - INFO - The page was fetched successfully.
+2024-03-14 12:01:10 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:10 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-support-users-bilingue-recrutement-capgemini-casablanca-159224.html
+2024-03-14 12:01:10 - INFO - the page was scraped
+2024-03-14 12:01:10 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=66
+2024-03-14 12:01:10 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:10 - INFO - The page was fetched successfully.
+2024-03-14 12:01:10 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:10 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-de-production-materiaux-de-construction-recrutement-sadet-bouskoura-159216.html
+2024-03-14 12:01:10 - INFO - the page was scraped
+2024-03-14 12:01:10 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=67
+2024-03-14 12:01:11 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:11 - INFO - The page was fetched successfully.
+2024-03-14 12:01:11 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:11 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-executive-assistant-recrutement-bcg-casablanca-158755.html
+2024-03-14 12:01:11 - INFO - the page was scraped
+2024-03-14 12:01:11 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=68
+2024-03-14 12:01:14 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:14 - INFO - The page was fetched successfully.
+2024-03-14 12:01:15 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:15 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-projets-et-run-operations-de-marche-experimente-en-kondor-hf-recrutement-societe-generale-maroc-casablanca-158303.html
+2024-03-14 12:01:15 - INFO - the page was scraped
+2024-03-14 12:01:15 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=69
+2024-03-14 12:01:15 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:15 - INFO - The page was fetched successfully.
+2024-03-14 12:01:15 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:15 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-de-production-it-hf-recrutement-confidentiel-rabat-159183.html
+2024-03-14 12:01:15 - INFO - the page was scraped
+2024-03-14 12:01:15 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=70
+2024-03-14 12:01:15 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:15 - INFO - The page was fetched successfully.
+2024-03-14 12:01:16 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:16 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-technicienne-chargee-de-la-numerisation-recrutement-novec-sale-technopolis-157853.html
+2024-03-14 12:01:16 - INFO - the page was scraped
+2024-03-14 12:01:16 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=71
+2024-03-14 12:01:16 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:16 - INFO - The page was fetched successfully.
+2024-03-14 12:01:16 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:16 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-knowledge-manager-hf-recrutement-foundever-ex-sitel-group-rabat-158573.html
+2024-03-14 12:01:16 - INFO - the page was scraped
+2024-03-14 12:01:16 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=72
+2024-03-14 12:01:16 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:16 - INFO - The page was fetched successfully.
+2024-03-14 12:01:16 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:16 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-sap-responsible-recrutement-yazaki-morocco-kenitra-159153.html
+2024-03-14 12:01:16 - INFO - the page was scraped
+2024-03-14 12:01:16 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=73
+2024-03-14 12:01:17 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:17 - INFO - The page was fetched successfully.
+2024-03-14 12:01:17 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:17 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-clients-en-assurance-reception-dappels---casablanca-recrutement-foundever-ex-sitel-group-casablanca-159144.html
+2024-03-14 12:01:17 - INFO - the page was scraped
+2024-03-14 12:01:17 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=74
+2024-03-14 12:01:17 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:17 - INFO - The page was fetched successfully.
+2024-03-14 12:01:17 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:17 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-agent-de-facturation-et-suivi-encaissements-hf-recrutement-universite-internationale-de-rabat-uir-rabat-159128.html
+2024-03-14 12:01:17 - INFO - the page was scraped
+2024-03-14 12:01:17 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=75
+2024-03-14 12:01:18 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:18 - INFO - The page was fetched successfully.
+2024-03-14 12:01:18 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:18 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-operateurs-recrutement-bci---brain-capital-investments-casablanca-159109.html
+2024-03-14 12:01:18 - INFO - the page was scraped
+2024-03-14 12:01:18 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=76
+2024-03-14 12:01:18 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:18 - INFO - The page was fetched successfully.
+2024-03-14 12:01:18 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:18 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-business-development-manager-recrutement-innovx-maroc-159098.html
+2024-03-14 12:01:18 - INFO - the page was scraped
+2024-03-14 12:01:18 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=77
+2024-03-14 12:01:19 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:19 - INFO - The page was fetched successfully.
+2024-03-14 12:01:19 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:19 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-pmo-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159081.html
+2024-03-14 12:01:19 - INFO - the page was scraped
+2024-03-14 12:01:19 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=78
+2024-03-14 12:01:19 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:19 - INFO - The page was fetched successfully.
+2024-03-14 12:01:19 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:19 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-televendeurs-en-telecommunication-recrutement-manpower-agences-rabat-159066.html
+2024-03-14 12:01:19 - INFO - the page was scraped
+2024-03-14 12:01:19 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=79
+2024-03-14 12:01:20 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:20 - INFO - The page was fetched successfully.
+2024-03-14 12:01:20 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:20 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-deputy-manager-operations--francophone--recrutement-vfs-global-tout-le-maroc-159056.html
+2024-03-14 12:01:20 - INFO - the page was scraped
+2024-03-14 12:01:20 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=80
+2024-03-14 12:01:20 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:20 - INFO - The page was fetched successfully.
+2024-03-14 12:01:20 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:20 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-administrative-assistant-recrutement-yazaki-morocco-kenitra-159040.html
+2024-03-14 12:01:20 - INFO - the page was scraped
+2024-03-14 12:01:20 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=81
+2024-03-14 12:01:21 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:21 - INFO - The page was fetched successfully.
+2024-03-14 12:01:21 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:21 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-research-engineer-en-biotechnologie-microbienne-et-bio-fertilisation-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-159030.html
+2024-03-14 12:01:21 - INFO - the page was scraped
+2024-03-14 12:01:21 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=82
+2024-03-14 12:01:21 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:21 - INFO - The page was fetched successfully.
+2024-03-14 12:01:21 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:21 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-qhse-recrutement-akdital-casablanca-159019.html
+2024-03-14 12:01:21 - INFO - the page was scraped
+2024-03-14 12:01:21 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=83
+2024-03-14 12:01:22 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:22 - INFO - The page was fetched successfully.
+2024-03-14 12:01:22 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:22 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-de-clientele-recrutement-bank-of-africa-oujda-et-regions-159009.html
+2024-03-14 12:01:22 - INFO - the page was scraped
+2024-03-14 12:01:22 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=84
+2024-03-14 12:01:23 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:23 - INFO - The page was fetched successfully.
+2024-03-14 12:01:23 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:23 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-directeur-comptable-et-financier-recrutement-confidentiel-casablanca-159004.html
+2024-03-14 12:01:23 - INFO - the page was scraped
+2024-03-14 12:01:23 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=85
+2024-03-14 12:01:23 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:23 - INFO - The page was fetched successfully.
+2024-03-14 12:01:23 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:23 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-manager-hf---casablanca-corniche-recrutement-mcdonalds-maroc-casablanca-158094.html
+2024-03-14 12:01:23 - INFO - the page was scraped
+2024-03-14 12:01:23 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=86
+2024-03-14 12:01:23 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:23 - INFO - The page was fetched successfully.
+2024-03-14 12:01:24 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:24 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-affaires-generales-recrutement-intelcia-casablanca-158978.html
+2024-03-14 12:01:24 - INFO - the page was scraped
+2024-03-14 12:01:24 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=87
+2024-03-14 12:01:24 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:24 - INFO - The page was fetched successfully.
+2024-03-14 12:01:24 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:24 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-commercial---secteur-immobilier-hf-recrutement-manpower-agences-casablanca-158969.html
+2024-03-14 12:01:24 - INFO - the page was scraped
+2024-03-14 12:01:24 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=88
+2024-03-14 12:01:24 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:24 - INFO - The page was fetched successfully.
+2024-03-14 12:01:25 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:25 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-analyste-junior-risk-management-recrutement-attijariwafa-bank-casablanca-158958.html
+2024-03-14 12:01:25 - INFO - the page was scraped
+2024-03-14 12:01:25 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=89
+2024-03-14 12:01:25 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:25 - INFO - The page was fetched successfully.
+2024-03-14 12:01:25 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:25 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-controleur-de-gestion-recrutement-duroc-agadir-158943.html
+2024-03-14 12:01:25 - INFO - the page was scraped
+2024-03-14 12:01:25 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=90
+2024-03-14 12:01:26 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:26 - INFO - The page was fetched successfully.
+2024-03-14 12:01:26 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:26 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-dappui-commercial-recrutement-bank-of-africa-laayoune-et-regions-158931.html
+2024-03-14 12:01:26 - INFO - the page was scraped
+2024-03-14 12:01:26 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=91
+2024-03-14 12:01:26 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:26 - INFO - The page was fetched successfully.
+2024-03-14 12:01:26 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:26 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-coachs-formateurs-employabilite-et-sof-skills-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-158907.html
+2024-03-14 12:01:26 - INFO - the page was scraped
+2024-03-14 12:01:26 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=92
+2024-03-14 12:01:27 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:27 - INFO - The page was fetched successfully.
+2024-03-14 12:01:27 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:27 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-client-en-phoning-et-back-office-pour-une-activite-e-commerce-recrutement-tersea-casablanca-158893.html
+2024-03-14 12:01:27 - INFO - the page was scraped
+2024-03-14 12:01:27 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=93
+2024-03-14 12:01:27 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:27 - INFO - The page was fetched successfully.
+2024-03-14 12:01:27 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:27 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-tech-lead-recrutement-devoteam-rabat-158881.html
+2024-03-14 12:01:27 - INFO - the page was scraped
+2024-03-14 12:01:27 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=94
+2024-03-14 12:01:32 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:32 - INFO - The page was fetched successfully.
+2024-03-14 12:01:32 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:32 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-stagiaire---mobilite-internationale-recrutement-um6p---universite-mohammed-vi-polytechnique-rabat-158871.html
+2024-03-14 12:01:32 - INFO - the page was scraped
+2024-03-14 12:01:32 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=95
+2024-03-14 12:01:32 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:32 - INFO - The page was fetched successfully.
+2024-03-14 12:01:32 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:32 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ehs-supervisor-recrutement-cngr-el-jadida-158858.html
+2024-03-14 12:01:32 - INFO - the page was scraped
+2024-03-14 12:01:32 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=96
+2024-03-14 12:01:33 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:33 - INFO - The page was fetched successfully.
+2024-03-14 12:01:33 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:33 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charges-de-flux-rta-ou-vigie-bilingue-frang-recrutement-manpower-agences-rabat-158842.html
+2024-03-14 12:01:33 - INFO - the page was scraped
+2024-03-14 12:01:33 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=97
+2024-03-14 12:01:33 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:33 - INFO - The page was fetched successfully.
+2024-03-14 12:01:33 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:33 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-televendeurs-en-telecommunication-recrutement-manpower-agences-rabat-158831.html
+2024-03-14 12:01:33 - INFO - the page was scraped
+2024-03-14 12:01:33 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=98
+2024-03-14 12:01:34 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:34 - INFO - The page was fetched successfully.
+2024-03-14 12:01:34 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:34 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-accounts-payable-accountant-fluent-english-hf-recrutement-maroc-climate-and-security-mcs---carrier-casablanca-158818.html
+2024-03-14 12:01:34 - INFO - the page was scraped
+2024-03-14 12:01:34 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=99
+2024-03-14 12:01:34 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:34 - INFO - The page was fetched successfully.
+2024-03-14 12:01:34 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:34 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-project-manager-recrutement-um6p---universite-mohammed-vi-polytechnique-jorf-lasfar-jorf-lasfar-158795.html
+2024-03-14 12:01:34 - INFO - the page was scraped
+2024-03-14 12:01:34 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=100
+2024-03-14 12:01:35 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:35 - INFO - The page was fetched successfully.
+2024-03-14 12:01:35 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:35 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseiller-a-la-vie-etudiante-student-life-advisor-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-158805.html
+2024-03-14 12:01:35 - INFO - the page was scraped
+2024-03-14 12:01:35 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=101
+2024-03-14 12:01:35 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:35 - INFO - The page was fetched successfully.
+2024-03-14 12:01:35 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:35 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-service-delivery-officer-recrutement-excel-management-conseil-rabat-158784.html
+2024-03-14 12:01:35 - INFO - the page was scraped
+2024-03-14 12:01:35 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=102
+2024-03-14 12:01:36 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:36 - INFO - The page was fetched successfully.
+2024-03-14 12:01:36 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:36 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieurs-testshf-recrutement-akkodis-maroc-casablanca-158772.html
+2024-03-14 12:01:36 - INFO - the page was scraped
+2024-03-14 12:01:36 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=103
+2024-03-14 12:01:36 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:36 - INFO - The page was fetched successfully.
+2024-03-14 12:01:36 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:36 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-du-social-et-wellbeing-hf-recrutement-confidentiel-rabat-158760.html
+2024-03-14 12:01:36 - INFO - the page was scraped
+2024-03-14 12:01:36 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=104
+2024-03-14 12:01:37 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:37 - INFO - The page was fetched successfully.
+2024-03-14 12:01:37 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:37 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-entrepreneurship-project-manager-recrutement-um6p---universite-mohammed-vi-polytechnique-ben-guerir-marrakech-safi-maroc-158736.html
+2024-03-14 12:01:37 - INFO - the page was scraped
+2024-03-14 12:01:37 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=105
+2024-03-14 12:01:37 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:37 - INFO - The page was fetched successfully.
+2024-03-14 12:01:37 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:37 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-technicien-polyvalent-mecanique-electrique-automate-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-158728.html
+2024-03-14 12:01:37 - INFO - the page was scraped
+2024-03-14 12:01:37 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=106
+2024-03-14 12:01:38 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:38 - INFO - The page was fetched successfully.
+2024-03-14 12:01:38 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:38 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-televendeurs-en-energie-recrutement-manpower-agences-rabat-158707.html
+2024-03-14 12:01:38 - INFO - the page was scraped
+2024-03-14 12:01:38 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=107
+2024-03-14 12:01:38 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:38 - INFO - The page was fetched successfully.
+2024-03-14 12:01:38 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:38 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-marine-site-engineer_laayoune-_heavy-construction-hf-recrutement-manpower-agences-laayoune-158695.html
+2024-03-14 12:01:38 - INFO - the page was scraped
+2024-03-14 12:01:38 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=108
+2024-03-14 12:01:39 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:39 - INFO - The page was fetched successfully.
+2024-03-14 12:01:39 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:39 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseiller-digital---casa-nearshore---recrutement-intelcia-casablanca-158687.html
+2024-03-14 12:01:39 - INFO - the page was scraped
+2024-03-14 12:01:39 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=109
+2024-03-14 12:01:39 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:39 - INFO - The page was fetched successfully.
+2024-03-14 12:01:39 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:39 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charges-de-comptes-entreprises-recrutement-bank-of-africa-tanger-et-regions-158440.html
+2024-03-14 12:01:39 - INFO - the page was scraped
+2024-03-14 12:01:39 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=110
+2024-03-14 12:01:40 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:40 - INFO - The page was fetched successfully.
+2024-03-14 12:01:40 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:40 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-assistante-recouvrement-saisie-comptable-recrutement-foods-and-goods-bouskoura-158670.html
+2024-03-14 12:01:40 - INFO - the page was scraped
+2024-03-14 12:01:40 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=111
+2024-03-14 12:01:40 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:40 - INFO - The page was fetched successfully.
+2024-03-14 12:01:40 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:40 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-client-pour-le-compte-dun-leader-de-lamaigrissement-et-du-bien-etre-recrutement-foundever-ex-sitel-group-casablanca-158655.html
+2024-03-14 12:01:40 - INFO - the page was scraped
+2024-03-14 12:01:40 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=112
+2024-03-14 12:01:41 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:41 - INFO - The page was fetched successfully.
+2024-03-14 12:01:41 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:41 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chef-datelier---industrie-de-construction-metallique-recrutement-manpower-agences-casablanca-158645.html
+2024-03-14 12:01:41 - INFO - the page was scraped
+2024-03-14 12:01:41 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=113
+2024-03-14 12:01:41 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:41 - INFO - The page was fetched successfully.
+2024-03-14 12:01:41 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:41 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-architecte-solutions-recrutement-attijariwafa-bank-casablanca-158640.html
+2024-03-14 12:01:41 - INFO - the page was scraped
+2024-03-14 12:01:41 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=114
+2024-03-14 12:01:42 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:42 - INFO - The page was fetched successfully.
+2024-03-14 12:01:42 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:42 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-expert-securite-physique-recrutement-axa-rabat-axa-services-rabat-158629.html
+2024-03-14 12:01:42 - INFO - the page was scraped
+2024-03-14 12:01:42 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=115
+2024-03-14 12:01:42 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:42 - INFO - The page was fetched successfully.
+2024-03-14 12:01:42 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:42 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-assistante-daf-cdd-recrutement-nbs-consulting-casablanca-158613.html
+2024-03-14 12:01:42 - INFO - the page was scraped
+2024-03-14 12:01:42 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=116
+2024-03-14 12:01:42 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:42 - INFO - The page was fetched successfully.
+2024-03-14 12:01:43 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:43 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chef-dequipe-magasin-du-parc-de-stockage-des-matieres-premieres-recrutement-cngr-el-jadida-158598.html
+2024-03-14 12:01:43 - INFO - the page was scraped
+2024-03-14 12:01:43 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=117
+2024-03-14 12:01:43 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:43 - INFO - The page was fetched successfully.
+2024-03-14 12:01:43 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:43 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-technicien-superieur-de-maintenance-dequipements-recrutement-cngr-el-jadida-158583.html
+2024-03-14 12:01:43 - INFO - the page was scraped
+2024-03-14 12:01:43 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=118
+2024-03-14 12:01:44 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:44 - INFO - The page was fetched successfully.
+2024-03-14 12:01:44 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:44 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-charge-audit-interne-recrutement-confidentiel-nouaceur-158570.html
+2024-03-14 12:01:44 - INFO - the page was scraped
+2024-03-14 12:01:44 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=119
+2024-03-14 12:01:44 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:44 - INFO - The page was fetched successfully.
+2024-03-14 12:01:44 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:44 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chauffeurs-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-158556.html
+2024-03-14 12:01:44 - INFO - the page was scraped
+2024-03-14 12:01:44 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=120
+2024-03-14 12:01:44 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:44 - INFO - The page was fetched successfully.
+2024-03-14 12:01:45 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:45 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseiller-technique-bilingue-recrutement-tersea-fes-158546.html
+2024-03-14 12:01:45 - INFO - the page was scraped
+2024-03-14 12:01:45 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=121
+2024-03-14 12:01:50 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:50 - INFO - The page was fetched successfully.
+2024-03-14 12:01:50 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:50 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-directeur-audit-groupe-recrutement-orh-assessment-casablanca-158534.html
+2024-03-14 12:01:50 - INFO - the page was scraped
+2024-03-14 12:01:50 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=122
+2024-03-14 12:01:51 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:51 - INFO - The page was fetched successfully.
+2024-03-14 12:01:51 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:51 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-commercial-haut-standing-recrutement-alliances-marrakech-156935.html
+2024-03-14 12:01:51 - INFO - the page was scraped
+2024-03-14 12:01:51 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=123
+2024-03-14 12:01:51 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:51 - INFO - The page was fetched successfully.
+2024-03-14 12:01:51 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:51 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-controleur-de-gestion-it-hf-recrutement-societe-generale-maroc-casablanca-158510.html
+2024-03-14 12:01:51 - INFO - the page was scraped
+2024-03-14 12:01:51 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=124
+2024-03-14 12:01:52 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:52 - INFO - The page was fetched successfully.
+2024-03-14 12:01:52 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:52 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-controleur-de-travaux-contrat-anapec-recrutement-cac-centrale-automobile-cherifienne-casablanca-158495.html
+2024-03-14 12:01:52 - INFO - the page was scraped
+2024-03-14 12:01:52 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=125
+2024-03-14 12:01:52 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:52 - INFO - The page was fetched successfully.
+2024-03-14 12:01:52 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:52 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-controleur-de-gestion-recrutement-duroc-agadir-158477.html
+2024-03-14 12:01:52 - INFO - the page was scraped
+2024-03-14 12:01:52 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=126
+2024-03-14 12:01:52 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:52 - INFO - The page was fetched successfully.
+2024-03-14 12:01:53 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:53 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-tech-lead-ingenieur-reseau-recrutement-alten-maroc-rabat-158465.html
+2024-03-14 12:01:53 - INFO - the page was scraped
+2024-03-14 12:01:53 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=127
+2024-03-14 12:01:53 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:53 - INFO - The page was fetched successfully.
+2024-03-14 12:01:53 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:53 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-architecte-solutions-hf-recrutement-manpower-agences-casablanca-158449.html
+2024-03-14 12:01:53 - INFO - the page was scraped
+2024-03-14 12:01:53 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=128
+2024-03-14 12:01:54 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:54 - INFO - The page was fetched successfully.
+2024-03-14 12:01:54 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:54 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-auditeur-it-senior-recrutement-attijariwafa-bank-casablanca-158428.html
+2024-03-14 12:01:54 - INFO - the page was scraped
+2024-03-14 12:01:54 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=129
+2024-03-14 12:01:54 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:54 - INFO - The page was fetched successfully.
+2024-03-14 12:01:54 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:54 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-expert-en-conception-des-modules-de-formation-recrutement-axa-rabat-axa-services-rabat-158418.html
+2024-03-14 12:01:54 - INFO - the page was scraped
+2024-03-14 12:01:54 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=130
+2024-03-14 12:01:55 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:55 - INFO - The page was fetched successfully.
+2024-03-14 12:01:55 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:55 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-animateur-terrain-recrutement-bank-of-africa-safi-essaouira-158396.html
+2024-03-14 12:01:55 - INFO - the page was scraped
+2024-03-14 12:01:55 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=131
+2024-03-14 12:01:55 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:55 - INFO - The page was fetched successfully.
+2024-03-14 12:01:55 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:55 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseillers-clients-en-assistance-technique-hf-recrutement-foundever-ex-sitel-group-casablanca-158379.html
+2024-03-14 12:01:55 - INFO - the page was scraped
+2024-03-14 12:01:55 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=132
+2024-03-14 12:01:56 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:56 - INFO - The page was fetched successfully.
+2024-03-14 12:01:56 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:56 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-achat-hf-recrutement-manpower-agences-casablanca-158369.html
+2024-03-14 12:01:56 - INFO - the page was scraped
+2024-03-14 12:01:56 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=133
+2024-03-14 12:01:57 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:57 - INFO - The page was fetched successfully.
+2024-03-14 12:01:57 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:57 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-de-dossier-comptable-confirmee-recrutement-soreco-rabat-158349.html
+2024-03-14 12:01:57 - INFO - the page was scraped
+2024-03-14 12:01:57 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=134
+2024-03-14 12:01:57 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:57 - INFO - The page was fetched successfully.
+2024-03-14 12:01:57 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:57 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chef-de-projet-si---moyens-de-paiement-recrutement-bank-assafa-casablanca-158338.html
+2024-03-14 12:01:57 - INFO - the page was scraped
+2024-03-14 12:01:57 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=135
+2024-03-14 12:01:58 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:58 - INFO - The page was fetched successfully.
+2024-03-14 12:01:58 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:58 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-dactivites-franco-anglophone---service-client-recrutement-webhelp-maroc-agadir-158328.html
+2024-03-14 12:01:58 - INFO - the page was scraped
+2024-03-14 12:01:58 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=136
+2024-03-14 12:01:58 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:58 - INFO - The page was fetched successfully.
+2024-03-14 12:01:58 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:58 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-microsoft-365-hf---devoteam-m-cloud-recrutement-devoteam-casablanca-158308.html
+2024-03-14 12:01:58 - INFO - the page was scraped
+2024-03-14 12:01:58 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=137
+2024-03-14 12:01:59 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:59 - INFO - The page was fetched successfully.
+2024-03-14 12:01:59 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:59 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-televendeurs-en-telecommunication-recrutement-manpower-agences-rabat-158295.html
+2024-03-14 12:01:59 - INFO - the page was scraped
+2024-03-14 12:01:59 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=138
+2024-03-14 12:01:59 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:01:59 - INFO - The page was fetched successfully.
+2024-03-14 12:01:59 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:01:59 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-commercial-immobilier-recrutement-y-strategie-region-rabat-sale-158279.html
+2024-03-14 12:01:59 - INFO - the page was scraped
+2024-03-14 12:01:59 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=139
+2024-03-14 12:02:00 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:00 - INFO - The page was fetched successfully.
+2024-03-14 12:02:00 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:00 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chef-de-projet-sap-recrutement-excel-management-conseil-rabat-158265.html
+2024-03-14 12:02:00 - INFO - the page was scraped
+2024-03-14 12:02:00 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=140
+2024-03-14 12:02:00 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:00 - INFO - The page was fetched successfully.
+2024-03-14 12:02:00 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:00 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-infirmiere-du-travail-experimentee-fh-recrutement-deloitte-extended-services-casablanca-settat-maroc-158247.html
+2024-03-14 12:02:00 - INFO - the page was scraped
+2024-03-14 12:02:00 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=141
+2024-03-14 12:02:01 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:01 - INFO - The page was fetched successfully.
+2024-03-14 12:02:01 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:01 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-network-intrusion-detection-intelligent-systems-engineer-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-158233.html
+2024-03-14 12:02:01 - INFO - the page was scraped
+2024-03-14 12:02:01 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=142
+2024-03-14 12:02:02 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:02 - INFO - The page was fetched successfully.
+2024-03-14 12:02:02 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:02 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-analyste-action-recrutement-cdg-capital-casablanca-158221.html
+2024-03-14 12:02:02 - INFO - the page was scraped
+2024-03-14 12:02:02 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=143
+2024-03-14 12:02:10 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:10 - INFO - The page was fetched successfully.
+2024-03-14 12:02:10 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:10 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-technico-commercial-hf-recrutement-maroc-climate-and-security-mcs---carrier-casablanca-155299.html
+2024-03-14 12:02:10 - INFO - the page was scraped
+2024-03-14 12:02:10 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=144
+2024-03-14 12:02:10 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:10 - INFO - The page was fetched successfully.
+2024-03-14 12:02:10 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:10 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-auditeur-recrutement-attawfiq-micro-finance-casablanca-158119.html
+2024-03-14 12:02:10 - INFO - the page was scraped
+2024-03-14 12:02:10 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=145
+2024-03-14 12:02:11 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:11 - INFO - The page was fetched successfully.
+2024-03-14 12:02:11 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:11 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-directeur-business-unit-recrutement-sadet-tanger-158189.html
+2024-03-14 12:02:11 - INFO - the page was scraped
+2024-03-14 12:02:11 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=146
+2024-03-14 12:02:11 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:11 - INFO - The page was fetched successfully.
+2024-03-14 12:02:11 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:11 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-chef-operateur-machines-recrutement-plastima-mohammedia-158153.html
+2024-03-14 12:02:11 - INFO - the page was scraped
+2024-03-14 12:02:11 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=147
+2024-03-14 12:02:12 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:12 - INFO - The page was fetched successfully.
+2024-03-14 12:02:12 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:12 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-televendeurs-en-energie-recrutement-manpower-agences-rabat-158149.html
+2024-03-14 12:02:12 - INFO - the page was scraped
+2024-03-14 12:02:12 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=148
+2024-03-14 12:02:12 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:12 - INFO - The page was fetched successfully.
+2024-03-14 12:02:12 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:12 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-brand-manager-hf-recrutement-confidentiel-casablanca-158130.html
+2024-03-14 12:02:12 - INFO - the page was scraped
+2024-03-14 12:02:12 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=149
+2024-03-14 12:02:13 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:13 - INFO - The page was fetched successfully.
+2024-03-14 12:02:13 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:13 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-front-machine-recrutement-plastima-mohammedia-158114.html
+2024-03-14 12:02:13 - INFO - the page was scraped
+2024-03-14 12:02:13 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=150
+2024-03-14 12:02:13 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:13 - INFO - The page was fetched successfully.
+2024-03-14 12:02:13 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:13 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-conseiller-pieces-de-rechange-site-carrosserie-recrutement-cac-centrale-automobile-cherifienne-casablanca-158099.html
+2024-03-14 12:02:13 - INFO - the page was scraped
+2024-03-14 12:02:13 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=151
+2024-03-14 12:02:14 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:14 - INFO - The page was fetched successfully.
+2024-03-14 12:02:14 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:14 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-executive-assistant-recrutement-bcg-casablanca-158083.html
+2024-03-14 12:02:14 - INFO - the page was scraped
+2024-03-14 12:02:14 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=152
+2024-03-14 12:02:14 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:14 - INFO - The page was fetched successfully.
+2024-03-14 12:02:14 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:14 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-java-developer-recrutement-cnexia-tech-sala-al-jadida-158065.html
+2024-03-14 12:02:14 - INFO - the page was scraped
+2024-03-14 12:02:14 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=153
+2024-03-14 12:02:15 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:15 - INFO - The page was fetched successfully.
+2024-03-14 12:02:15 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:15 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-data-engineer-recrutement-cdg-rabat-158052.html
+2024-03-14 12:02:15 - INFO - the page was scraped
+2024-03-14 12:02:15 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=154
+2024-03-14 12:02:15 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:15 - INFO - The page was fetched successfully.
+2024-03-14 12:02:15 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:15 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-adjointe-responsable-technique-hf-recrutement-club-med-marrakech-158041.html
+2024-03-14 12:02:15 - INFO - the page was scraped
+2024-03-14 12:02:15 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=155
+2024-03-14 12:02:16 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:16 - INFO - The page was fetched successfully.
+2024-03-14 12:02:16 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:16 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-consultant-danalyse-de-cycle-de-vie-modelisation-dimpacts-environnementaux-hf-recrutement-sofrecom-maroc-technopolis-158027.html
+2024-03-14 12:02:16 - INFO - the page was scraped
+2024-03-14 12:02:16 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=156
+2024-03-14 12:02:16 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:16 - INFO - The page was fetched successfully.
+2024-03-14 12:02:16 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:16 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-aide-educatrice-recrutement-orh-assessment-benguerir-158011.html
+2024-03-14 12:02:16 - INFO - the page was scraped
+2024-03-14 12:02:16 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=157
+2024-03-14 12:02:17 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:17 - INFO - The page was fetched successfully.
+2024-03-14 12:02:17 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:17 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-controleur-recrutement-groupe-labelvie---carrefour-casablanca-157999.html
+2024-03-14 12:02:17 - INFO - the page was scraped
+2024-03-14 12:02:17 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=158
+2024-03-14 12:02:17 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:17 - INFO - The page was fetched successfully.
+2024-03-14 12:02:18 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:18 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-superviseur-controle-permanent-recrutement-cdg-capital-rabat-157981.html
+2024-03-14 12:02:18 - INFO - the page was scraped
+2024-03-14 12:02:18 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=159
+2024-03-14 12:02:18 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:18 - INFO - The page was fetched successfully.
+2024-03-14 12:02:18 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:18 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-expert-technique-java-j2ee-senior-fh-recrutement-cgi-technologies-et-solutions-maroc-casablanca-157971.html
+2024-03-14 12:02:18 - INFO - the page was scraped
+2024-03-14 12:02:18 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=160
+2024-03-14 12:02:18 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:18 - INFO - The page was fetched successfully.
+2024-03-14 12:02:18 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:18 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-stagiaire-pfe-en-management-des-ressources-humaines-recrutement-fmps---fondation-marocaine-pour-la-promotion-de-lenseignement-prescolaire-rabat-157958.html
+2024-03-14 12:02:18 - INFO - the page was scraped
+2024-03-14 12:02:18 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=161
+2024-03-14 12:02:22 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:22 - INFO - The page was fetched successfully.
+2024-03-14 12:02:22 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:22 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-responsable-securite-systeme-dinformation-recrutement-confidentiel-casablanca-157940.html
+2024-03-14 12:02:22 - INFO - the page was scraped
+2024-03-14 12:02:22 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=162
+2024-03-14 12:02:23 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:23 - INFO - The page was fetched successfully.
+2024-03-14 12:02:23 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:23 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-ingenieur-infrastructure-et-cloud-recrutement-um6p---universite-mohammed-vi-polytechnique-benguerir-157924.html
+2024-03-14 12:02:23 - INFO - the page was scraped
+2024-03-14 12:02:23 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=163
+2024-03-14 12:02:23 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:23 - INFO - The page was fetched successfully.
+2024-03-14 12:02:23 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:23 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-directeur-de-concession-recrutement-confidentiel-el-jadida-157907.html
+2024-03-14 12:02:23 - INFO - the page was scraped
+2024-03-14 12:02:23 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=164
+2024-03-14 12:02:26 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:26 - INFO - The page was fetched successfully.
+2024-03-14 12:02:27 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:27 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-data-architect-hf-recrutement-sofrecom-maroc-rabat-157891.html
+2024-03-14 12:02:27 - INFO - the page was scraped
+2024-03-14 12:02:27 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=165
+2024-03-14 12:02:27 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:27 - INFO - The page was fetched successfully.
+2024-03-14 12:02:27 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:27 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-data-architect-hf-recrutement-sofrecom-maroc-casablanca-rabat-157881.html
+2024-03-14 12:02:27 - INFO - the page was scraped
+2024-03-14 12:02:27 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=166
+2024-03-14 12:02:27 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:27 - INFO - The page was fetched successfully.
+2024-03-14 12:02:28 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:28 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-expert-technico-fonctionnel-billing-hf--debutant-recrutement-sofrecom-maroc-technopolis-151592.html
+2024-03-14 12:02:28 - INFO - the page was scraped
+2024-03-14 12:02:28 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=167
+2024-03-14 12:02:29 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:29 - INFO - The page was fetched successfully.
+2024-03-14 12:02:29 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:29 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-business-developer-offshore-it-recrutement-altados-casablanca-157854.html
+2024-03-14 12:02:29 - INFO - the page was scraped
+2024-03-14 12:02:29 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=168
+2024-03-14 12:02:29 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:29 - INFO - The page was fetched successfully.
+2024-03-14 12:02:29 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:29 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-process-incident-manager-hf-recrutement-atos-nearshore-casablanca-157838.html
+2024-03-14 12:02:29 - INFO - the page was scraped
+2024-03-14 12:02:29 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=169
+2024-03-14 12:02:30 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:30 - INFO - The page was fetched successfully.
+2024-03-14 12:02:30 - INFO - Found 10 offer(s) to process.
+2024-03-14 12:02:30 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-controleur-de-gestion-operationnel-recrutement-confidentiel-nouaceur-157815.html
+2024-03-14 12:02:30 - INFO - the page was scraped
+2024-03-14 12:02:30 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=170
+2024-03-14 12:02:30 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:30 - INFO - The page was fetched successfully.
+2024-03-14 12:02:30 - INFO - Found 1 offer(s) to process.
+2024-03-14 12:02:30 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-deposez-votre-candidaturespontanee-recrutement-rekrute-casablanca-95607.html
+2024-03-14 12:02:30 - INFO - the page was scraped
+2024-03-14 12:02:30 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=171
+2024-03-14 12:02:31 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-14 12:02:31 - INFO - The page was fetched successfully.
+2024-03-14 12:02:31 - INFO - Found 0 offer(s) to process.
+2024-03-14 12:02:31 - ERROR - An unexpected error occurred while processing the page: https://www.rekrute.com/offres.html?p=171. Error: There are no offer tags on the page: https://www.rekrute.com/offres.html?p=171
+2024-03-14 12:02:31 - ERROR - Error occurred in scraping pages: 'NoneType' object is not iterable
+2024-03-14 12:02:31 - INFO - The End of scraping prossece
+2024-03-14 12:02:58 - INFO - Strat history saving
+2024-03-14 12:02:58 - INFO - END of history saving
+2024-03-14 12:03:00 - INFO - start saving data to /tmp/scraping/data/raw/daily/Reckrute/Reckrute-2024-03-14.csv
+2024-03-14 12:03:00 - INFO - THE END of saving data to /tmp/scraping/data/raw/daily/Reckrute/Reckrute-2024-03-14.csv
+2024-03-14 12:03:00 - INFO - start saving data to /tmp/scraping/data/parquet/daily/Reckrute/Reckrute-2024-03-14.csv
+2024-03-14 12:03:03 - INFO - THE END of saving data to /tmp/scraping/data/parquet/daily/Reckrute/Reckrute-2024-03-14.csv
++---+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+---------------+--------------------+--------------------+--------------------+----------------------+-----------------------+--------------------+------------------------+----------------------+
+|   |            Societés|              Postes|            Adresses|    Details de poste| Date de publication|            Location|Postes proposés|  Secteur d'activité|           Fonctions|  Expérience requise|Niveau d’étude demandé|Type de contrat proposé|    Profil recherché|Decsription d'entreprise|Traits de personnalité|
++---+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+---------------+--------------------+--------------------+--------------------+----------------------+-----------------------+--------------------+------------------------+----------------------+
+|  1|           Carrefour|Responsable Contr...|Route nationale 1...|Poste :Affecté à ...| Publication : du...| Casablanca (Maroc) |              2| Gestion / Compta...|Gestion / Comptab...|            Débutant|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :Créé ...|   Besoin d'objecti...|
+|  3|               Lydec|Responsable Analy...|48, rue Mohamed D...|Poste :Le Respons...| Publication : du...|       Casa (Maroc) |              1| Environnement (m...|Environnement (mé...|        De 1 à 3 ans|   Bac +3 Minimum -...|                   CDI |Profil recherché ...|    Entreprise :Lydec...|   Recherche de nou...|
+|  4|             Carrier|Marketing Communi...|Immeuble LA COMAN...|Poste :As part of...| Publication : du...| Casablanca (Maroc) |              1| Marketing - Sect...|           Marketing|        De 1 à 3 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :C’est...|   Recherche de nou...|
+|  5|    McDonald's Maroc|Assistant(e) admi...|Boulevard Sidi Mo...|Poste :Le restaur...| Publication : du...|     Meknès (Maroc) |              1| Assistanat de Di...|Assistanat de Dir...|        De 1 à 3 ans|   Bac +2 Minimum -...|                   CDI |Profil recherché ...|    Entreprise :McDon...|   Extraversion Bes...|
+|  6|              Akinna|Assistante de Dir...|   52 Avenue Pasteur|Poste :Nous recru...| Publication : du...| Casablanca (Maroc) |              1| Assistanat de Di...|Assistanat de Dir...|        De 3 à 5 ans|       Bac +3 Minimum |                   CDI |Profil recherché ...|    Entreprise :Basés...|   Organisation Fle...|
+|  7|         ALTEN Maroc|Ingénieur Système...|Parc Fès Shore Pa...|Poste :Collaborer...| Publication : du...|      Rabat (Maroc) |   non spécifié| Méthodes / Proce...|Méthodes / Proces...|        De 1 à 3 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :ALTEN...|   Organisation Bes...|
+|  8|CAC (Centrale Aut...|Conseiller Commer...|66, bd Moulay Sli...|Poste :Mission pr...| Publication : du...| Casablanca (Maroc) |              1| Commercial / Ven...|Commercial / Vent...|        De 3 à 5 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :LaCen...|   Recherche de nou...|
+|  9|         ALTEN Maroc|EE Architecture E...|Parc Fès Shore Pa...|Poste :Physical &...| Publication : du...|      Rabat (Maroc) |   non spécifié| Méthodes / Proce...|Méthodes / Proces...|        De 1 à 3 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :ALTEN...|   Organisation Bes...|
+| 10|         ALTEN Maroc|       Ingénieur CFD|Parc Fès Shore Pa...|Poste :Réaliser d...| Publication : du...|      Rabat (Maroc) |   non spécifié| Méthodes / Proce...|Méthodes / Proces...|        De 1 à 3 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :ALTEN...|   Organisation Bes...|
+| 11|         ALTEN Maroc|Responsable Const...|Parc Fès Shore Pa...|Poste :Récupérati...| Publication : du...| Casablanca (Maroc) |   non spécifié| Méthodes / Proce...|Méthodes / Proces...|        De 3 à 5 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :ALTEN...|   Organisation Bes...|
+| 12|         ALTEN Maroc|Consultant Chargé...|Parc Fès Shore Pa...|Poste :Le chargé ...| Publication : du...|      Rabat (Maroc) |              1| Méthodes / Proce...|Méthodes / Proces...|        De 1 à 3 ans|   Bac +3 Minimum -...|                   CDI |Profil recherché ...|    Entreprise :ALTEN...|   Organisation Bes...|
+| 13|         ALTEN Maroc|      Technical Lead|Parc Fès Shore Pa...|Poste :Enrichir e...| Publication : du...| Casablanca (Maroc) |   non spécifié| Méthodes / Proce...|Méthodes / Proces...|        De 3 à 5 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :ALTEN...|   Organisation Bes...|
+| 14|         ALTEN Maroc|Pilote Gestion de...|Parc Fès Shore Pa...|Poste :En tant qu...| Publication : du...|      Rabat (Maroc) |   non spécifié| Informatique / E...|Informatique / El...|        De 1 à 3 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :ALTEN...|   Implication au t...|
+| 15|           Carrefour|Ingénieur Process...|Route nationale 1...|Poste :Affecté à ...| Publication : du...|    Skhirat (Maroc) |              1| Achats / Supply ...|Achats / Supply C...|       Moins de 1 an|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :Créé ...|   Recherche de nou...|
+| 16|         ALTEN Maroc|Performance Proje...|Parc Fès Shore Pa...|Poste :Piloter la...| Publication : du...| Casablanca (Maroc) |   non spécifié| Méthodes / Proce...|Méthodes / Proces...|        De 1 à 3 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :ALTEN...|   Recherche de nou...|
+| 26|        Confidential|Responsable Techn...|        non spécifié|Poste :Missions:-...| Publication : du...|    Larache (Maroc) |              1| Agriculture (mét...|Agriculture (méti...|De 3 à 5 ans - De...|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :Nous ...|   Organisation Bes...|
++---+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+---------------+--------------------+--------------------+--------------------+----------------------+-----------------------+--------------------+------------------------+----------------------+
+

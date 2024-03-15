@@ -1,0 +1,401 @@
+2024-03-15 11:41:07 - INFO - start scraping
+2024-03-15 11:41:15 - INFO - start scraping all the pages
+2024-03-15 11:41:15 - INFO - start scraping the page http://www.m-job.ma/recherche?page=1
+2024-03-15 11:41:15 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:41:15 - INFO - Encoding detected: UTF-8
+2024-03-15 11:41:15 - INFO - The page was fetched successfully.
+2024-03-15 11:41:15 - INFO - Found 20 offer(s) to process.
+2024-03-15 11:41:15 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120282-informaticien-9-casablanca
+2024-03-15 11:41:16 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:41:16 - INFO - Encoding detected: UTF-8
+2024-03-15 11:41:16 - INFO - The offer page number [0] was fetched successfully
+2024-03-15 11:41:16 - INFO - job title of the offer:  INFORMATICIEN
+2024-03-15 11:41:16 - INFO - Secteur(s) d'activité of the offer: Grande distribution
+2024-03-15 11:41:16 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:41:16 - INFO - Date of the offer : 18 heures avant
+2024-03-15 11:41:16 - INFO - Company name of the offer: Société: STE ANONYME 
+2024-03-15 11:41:16 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:41:16 - INFO - Profile of the offer: Nous cherchons pour renforcer notre équipe un INFORMATICIEN , ayant des connaissances approfondies en INFORMATIQUE : MISE A JOUR ET INSTALLATION DE LOGICIELS , GERER NOTRE PARC INFORMATIQUE SUIVI ET RESOLUTION DE TOUS LES PROBLEMES DES SYSTEMES D'INFORMATION.
+2024-03-15 11:41:16 - INFO - Missions information: INFORMATICIEN
+2024-03-15 11:41:16 - INFO - Recruiter information : Nous sommes une société spécialisée dans la découpe et la transformation de la viande rouge ( produits élaborés , charcuterie , viande rouge entier et découpé ) , destinée pour nos clients divers.
+2024-03-15 11:41:16 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:41:16 - INFO - Métier(s)  of the offer:  Commerce / Distribution / Vente / Import-export 
+2024-03-15 11:41:16 - INFO - Niveau d'expériences requis ::  Confirmé (de 7 à 10 ans) 
+2024-03-15 11:41:16 - INFO - Education level:  BAC+4 
+2024-03-15 11:41:16 - INFO - languages_level:  Français 
+2024-03-15 11:41:16 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120282-informaticien-9-casablanca
+2024-03-15 11:41:16 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120281-consseillers-en-assurances-rabat
+2024-03-15 11:41:22 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:41:22 - INFO - Encoding detected: UTF-8
+2024-03-15 11:41:22 - INFO - The offer page number [1] was fetched successfully
+2024-03-15 11:41:22 - INFO - job title of the offer:  CONSSEILLERS EN ASSURANCES
+2024-03-15 11:41:22 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:41:22 - INFO - Location of the offer:  Rabat 
+2024-03-15 11:41:22 - INFO - Date of the offer : 18 heures avant
+2024-03-15 11:41:22 - INFO - Company name of the offer: Société: Achmitech 
+2024-03-15 11:41:22 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:41:22 - INFO - Profile of the offer:  Expérience préalable dans la vente. Bonnes compétences en communication et en relation client. Capacité démontrée à atteindre et à dépasser les objectifs de vente. Orientation client et capacité à comprendre les besoins des clients. Esprit d'équipe et capacité à travailler de manière autonome. Excellentes compétences en négociation et en persuasion. Maîtrise de la langue française 
+2024-03-15 11:41:22 - INFO - Missions information:  Évaluer les risques liés à l'assurance et proposer des solutions adaptées aux besoins spécifiques de chaque client. Effectuer des analyses approfondies des polices d'assurance existantes pour identifier les lacunes et recommander des améliorations. Collaborer étroitement avec les clients pour comprendre leurs exigences et les conseiller sur les options de couverture les plus appropriées. Gérer efficacement les réclamations liées à l'assurance en assurant un suivi approprié et une résolution rapide. Suivre les tendances et les évolutions du marché de l'assurance et fournir des conseils stratégiques à l'équipe de direction. 
+2024-03-15 11:41:22 - INFO - Recruiter information : Acteur reconnu de la transformation Digitale, ACHMITECH se distingue par son approche orientée Innovation et Efficacité opérationnelle. Des talents experts dans leurs domaines et un savoir faire distribué habilement entre notre centre offshore et nos interfaces clients dans les quatre coins du globe.
+2024-03-15 11:41:22 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:41:22 - INFO - Métier(s)  of the offer:  Banque / Assurance 
+2024-03-15 11:41:22 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:41:22 - INFO - Education level:  BAC+2 
+2024-03-15 11:41:22 - INFO - languages_level:  Français 
+2024-03-15 11:41:22 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120281-consseillers-en-assurances-rabat
+2024-03-15 11:41:22 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120280-data-engineer-tanger
+2024-03-15 11:41:28 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:41:28 - INFO - Encoding detected: UTF-8
+2024-03-15 11:41:28 - INFO - The offer page number [2] was fetched successfully
+2024-03-15 11:41:28 - INFO - job title of the offer:  DATA ENGINEER
+2024-03-15 11:41:28 - INFO - Secteur(s) d'activité of the offer: Informatique / Internet / Multimedia
+2024-03-15 11:41:28 - INFO - Location of the offer:  Tanger 
+2024-03-15 11:41:28 - INFO - Date of the offer : 18 heures avant
+2024-03-15 11:41:28 - INFO - Company name of the offer: Société: ADS GLORY 
+2024-03-15 11:41:28 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:41:28 - INFO - Profile of the offer: ADS GLORY recrute un Data Engineer expérimenté pour rejoindre notre équipe technique dynamique. Dans ce rôle, vous serez responsable de concevoir, construire et optimiser des pipelines de données fiables et évolutifs pour alimenter nos applications analytiques et nos systèmes décisionnels. Responsabilités principales :Concevoir, développer et maintenir des pipelines de données robustes en utilisant des technologies telles que Hadoop, Spark, Kafka et l'écosystème Big Data; Créer et optimiser des processus ETL/ELT pour extraire, transformer et charger efficacement les données provenant de sources diverses; Collaborer avec les équipes de data science et d'analyse pour comprendre les besoins en données et fournir des solutions techniques adaptées; Assurer la qualité, la fiabilité et la performance des pipelines de données; Mettre en place des solutions de surveillance et de journalisation (ELK) pour garantir la visibilité et le dépannage des systèmes; Contribuer à l'automatisation des processus de déploiement et d'exploitation à l'aide de technologies de conteneurisation comme Docker et Kubernetes; Participer à la prise de décisions technologiques stratégiques pour l'architecture des données .
+2024-03-15 11:41:28 - INFO - Missions information: Qualifications requises : Avoir au Minimum de 2 ans d'expérience professionnelle en tant que Data Engineer ou un rôle similaire Excellente compétences en programmation backend (Go, Python, Scala, Java) Connaissances solides des technologies frontend (React) Expérience dans la conception et la mise en œuvre de pipelines de données à l'aide d'outils Big Data Maîtrise des pratiques de développement logiciel et de l'intégration continue Compréhension des concepts de machine learning et d'intelligence artificielle Capacité à travailler de manière autonome et à gérer plusieurs tâches en parallèle Excellent esprit d'équipe et de collaboration Motivation, curiosité intellectuelle et volonté d'apprendre continuellement Atouts supplémentaires :Expérience dans la création et l'optimisation d'entrepôts de données Connaissance des méthodologies Agile et des pratiques DevOps Familiarité avec les technologies cloud (AWS, GCP, Azure) Compétences en architecture de systèmes distribués et tolérants aux pannes Ce que nous offrons : Un environnement de travail stimulant et collaboratif au sein d'une équipe technique talentueuse Des opportunités de formation et de développement professionnel continu Un package de rémunération compétitif avec des avantages sociaux attrayants Un cadre de travail moderne et agréable, propice à l'innovation et à la créativité Une culture d'entreprise valorisant l'inclusion, le respect et l'épanouissement personnel Si vous êtes passionné par les données, que vous aimez relever des défis techniques et que vous souhaitez rejoindre une équipe dynamique dans une entreprise à la pointe de la technologie, n'hésitez pas à postuler pour ce poste de Data Engineer passionnant. Postulez dès maintenant et rejoignez-notre groupe ADS GLORY 
+2024-03-15 11:41:28 - INFO - Recruiter information : Nous somme une société spécialisée dans le Web Marketing
+2024-03-15 11:41:28 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:41:28 - INFO - Métier(s)  of the offer:  Informatique / Internet / Multimedia 
+2024-03-15 11:41:28 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:41:28 - INFO - Education level:  BAC+4 
+2024-03-15 11:41:28 - INFO - languages_level:  Français 
+2024-03-15 11:41:28 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120280-data-engineer-tanger
+2024-03-15 11:41:28 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120279-ingenieur-qualite-5-casablanca
+2024-03-15 11:41:34 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:41:34 - INFO - Encoding detected: UTF-8
+2024-03-15 11:41:34 - INFO - The offer page number [3] was fetched successfully
+2024-03-15 11:41:34 - INFO - job title of the offer:  Ingénieur Qualité
+2024-03-15 11:41:34 - INFO - Secteur(s) d'activité of the offer: Industries (autres)
+2024-03-15 11:41:34 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:41:34 - INFO - Date of the offer : 18 heures avant
+2024-03-15 11:41:34 - INFO - Company name of the offer: Société: SMART PROGRESS 
+2024-03-15 11:41:34 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:41:34 - INFO - Profile of the offer: Profil recherché: Formation: Bac +5 Ecole d'ingénieur ou master en QHSE Expérience: 3 à 5 ans minimum Maîtrise des outils informatiques (tableaux de bord, GED [gestion électronique de documents] …) Compétences avancées dans la gestion de la qualité, le controle de la qualité et la gestion des projets Esprit d'équipe et excellentes compétences en communication Maîtrise de l’Anglais 
+2024-03-15 11:41:34 - INFO - Missions information: Les principales missions du poste sont: Mise en œuvre de la démarche qualité Suivi et contrôle des indicateurs qualité Relations avec les différents partenaires Veille réglementaire Pilotage des projets liés à l'amélioration de la performance de la société 
+2024-03-15 11:41:34 - INFO - Recruiter information : Smart Progress est un cabinet spécialisé dans les missions de Conseil et d’Accompagnement pour la mise en place de Systèmes de Management conformes aux normes internationales. Ainsi que, la fourniture de Services de Formation et d'Ingénierie de Formation. Notre expertise s'étend à divers domaines, notamment le Conseil en Taxe et Bilan Carbone, l'Accompagnement aux Certifications Environnementales (BREEAM, HQE, LEED), la Catégorisation Douanière, le Conseil en Recrutement de profils spécialisés Nous recrutons pour le compte de notre client qui intervient dans le secteur industriel (un) ou (une) responsable qualité. Poste basé à Casablanca. Si votre profil correspond aux critères ci-après, veuillez envoyer votre candidature à l'adresse : ck.smartprogress@gmail.com
+2024-03-15 11:41:34 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:41:34 - INFO - Métier(s)  of the offer:  Qualité / Sécurité / Hygiène / Environnement 
+2024-03-15 11:41:34 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:41:34 - INFO - Education level:  BAC+4 / BAC+5 et plus 
+2024-03-15 11:41:34 - INFO - languages_level:  Arabe / Français 
+2024-03-15 11:41:34 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120279-ingenieur-qualite-5-casablanca
+2024-03-15 11:41:34 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120287-marrakech-charges-de-clientele-germanophone-en-reception-dappels-4-marrakech
+2024-03-15 11:41:42 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:41:42 - INFO - Encoding detected: UTF-8
+2024-03-15 11:41:42 - INFO - The offer page number [4] was fetched successfully
+2024-03-15 11:41:42 - INFO - job title of the offer:  MARRAKECH - CHARGES DE CLIENTELE GERMANOPHONE EN RECEPTION D'APPELS
+2024-03-15 11:41:42 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:41:42 - INFO - Location of the offer:  Marrakech 
+2024-03-15 11:41:42 - INFO - Date of the offer : 18 heures avant
+2024-03-15 11:41:42 - INFO - Company name of the offer: Société: E-MEDIAS 
+2024-03-15 11:41:42 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:41:42 - INFO - Profile of the offer: Bac +2/4 préférence commercial, marketing ou technique. Maîtrise parfaite de la langue allemande + un niveau de français passable. Connaissance de l'outil informatique obligatoire. Offrons: Salaire fixe + primes mensuelles. Heures supplémentaires rémunérées. Couverture sociale intégrale CNSS, mutuelle privée. Transport assuré. Plan de carrière, évolution tous les 6 mois par formation continue en interne afin d'atteindre des postes d'encadrement. Nos recruteurs sont à votre écoute et vous fournirons gratuitement toutes les informations que vous jugerez utiles concernant votre demande d'emploi Envoyez votre CV via ce site 
+2024-03-15 11:41:42 - INFO - Missions information: Dans le cadre de son développement et la diversification de ses offres, un de nos clients recrute pour le compte d’un de ses partenaires des conseillers clients germanophones. Travail stable et cadre agréable. Candidats sans expérience acceptés. Formation de haut niveau assurée.
+2024-03-15 11:41:42 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:41:42 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:41:42 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:41:42 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:41:42 - INFO - Education level:  BAC+3 
+2024-03-15 11:41:42 - INFO - languages_level:  Allemand 
+2024-03-15 11:41:42 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120287-marrakech-charges-de-clientele-germanophone-en-reception-dappels-4-marrakech
+2024-03-15 11:41:42 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120291-recherche-dun-responsable-demergement-mohammedia
+2024-03-15 11:41:48 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:41:48 - INFO - Encoding detected: UTF-8
+2024-03-15 11:41:48 - INFO - The offer page number [5] was fetched successfully
+2024-03-15 11:41:48 - INFO - job title of the offer:  Recherche d’un responsable d’émergement
+2024-03-15 11:41:48 - INFO - Secteur(s) d'activité of the offer: Tourisme / Hôtellerie / Restauration
+2024-03-15 11:41:48 - INFO - Location of the offer:  Mohammedia 
+2024-03-15 11:41:48 - INFO - Date of the offer : 18 heures avant
+2024-03-15 11:41:48 - INFO - Company name of the offer: Société: Hotel sabah 
+2024-03-15 11:41:48 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:41:48 - INFO - Profile of the offer: Hôtellerie 
+2024-03-15 11:41:48 - INFO - Missions information: Chef d'embergement
+2024-03-15 11:41:48 - INFO - Recruiter information : Hotel sabah , pres du parc des villes jumelées et de la plage aussi . Pres de amber gallery ( 4,2km)
+2024-03-15 11:41:48 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:41:48 - INFO - Métier(s)  of the offer:  Tourisme / Hôtellerie / Restauration 
+2024-03-15 11:41:48 - WARNING - Experience level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:41:48 - WARNING - education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:41:48 - INFO - languages_level:  Arabe / Français / Anglais 
+2024-03-15 11:41:48 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120291-recherche-dun-responsable-demergement-mohammedia
+2024-03-15 11:41:48 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120290-marrakech-charges-de-clientele-germanophone-en-reception-dappels-5-marrakech
+2024-03-15 11:41:55 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:41:55 - INFO - Encoding detected: UTF-8
+2024-03-15 11:41:55 - INFO - The offer page number [6] was fetched successfully
+2024-03-15 11:41:55 - INFO - job title of the offer:  MARRAKECH - CHARGES DE CLIENTELE GERMANOPHONE EN RECEPTION D'APPELS
+2024-03-15 11:41:55 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:41:55 - INFO - Location of the offer:  Marrakech 
+2024-03-15 11:41:55 - INFO - Date of the offer : 20 heures avant
+2024-03-15 11:41:55 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:41:55 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:41:55 - INFO - Profile of the offer: Bac +2/4 préférence commercial, marketing ou technique. Maîtrise parfaite de la langue allemande + un niveau de français passable. Connaissance de l'outil informatique obligatoire. Offrons: Salaire fixe + primes mensuelles. Heures supplémentaires rémunérées. Couverture sociale intégrale CNSS, mutuelle privée. Transport assuré. Plan de carrière, évolution tous les 6 mois par formation continue en interne afin d'atteindre des postes d'encadrement. Nos recruteurs sont à votre écoute et vous fournirons gratuitement toutes les informations que vous jugerez utiles concernant votre demande d'emploi Envoyez votre CV: recrutement@jobdeveloppement.net Tél.0661476387
+2024-03-15 11:41:55 - INFO - Missions information: Dans le cadre de son développement et la diversification de ses offres, un de nos clients recrute pour le compte d’un de ses partenaires des conseillers clients germanophones. Travail stable et cadre agréable. Candidats sans expérience acceptés. Formation de haut niveau assurée. 
+2024-03-15 11:41:55 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:41:55 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:41:55 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:41:55 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:41:55 - INFO - Education level:  BAC+2 
+2024-03-15 11:41:55 - INFO - languages_level:  Allemand 
+2024-03-15 11:41:55 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120290-marrakech-charges-de-clientele-germanophone-en-reception-dappels-5-marrakech
+2024-03-15 11:41:55 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120289-casa-teleconseillers-francophones-en-reception-dappels-primes-deplafonnees-5-casablanca
+2024-03-15 11:42:02 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:42:02 - INFO - Encoding detected: UTF-8
+2024-03-15 11:42:02 - INFO - The offer page number [7] was fetched successfully
+2024-03-15 11:42:03 - INFO - job title of the offer:  CASA – TELECONSEILLERS FRANCOPHONES EN RECEPTION D'APPELS – PRIMES DEPLAFONNEES
+2024-03-15 11:42:03 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:42:03 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:42:03 - INFO - Date of the offer : 20 heures avant
+2024-03-15 11:42:03 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:42:03 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:42:03 - INFO - Profile of the offer: PROFILS RECHERCHES * BAC et plus toutes branches * Maîtrise parfaite de la langue française à l'oral comme à l'écrit, * Maîtrise des outils informatiques, * Fibre commerciale Nous vous offrons - Horaires de travail : entre 8H et 20H. deuxième jour au cours de la semaine. - Salaire net + Primes mensuelles déplafonnées. - Formation gratuite, rémunérée et assurée par des formateurs de haut niveau. - Couverture sociale intégrale CNSS, mutuelle privée - Plan de carrière, évolution en interne rapide. - Transport assuré. Si vous avez un vrai sens du service et si vous êtes animés par le goût du travail en équipe, contactez-nous et offrez-vous une vie professionnelle épanouissante. Nous vous rappelons que nos prestations sont GRATUITES et AUCUNE formation ne vous sera proposée. Nos recruteurs sont à votre écoute et vous fournirons gratuitement toutes les informations que vous jugerez utiles concernant votre demande d'emploi Envoyez votre CV à : recrutement@jobdeveloppement.net Tél. 06 68 74 22 84.
+2024-03-15 11:42:03 - INFO - Missions information: Après une formation de qualité et rémunérée par le Centre, Votre mission consiste à renseigner les clients sur les nouvelles offres proposées et à les accompagner sur les demandes à caractères techniques en l'occurrence les paramétrages multimédias. Le traitement est segmenté en deux opérations: EN RECEPTION D'appels et en MAILING Pour ce poste, nous exigeons une aisance en communication orale avec une bonne qualité rédactionnelle.
+2024-03-15 11:42:03 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:42:03 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:42:03 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:42:03 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:42:03 - INFO - Education level:  BAC+2 
+2024-03-15 11:42:03 - INFO - languages_level:  Français 
+2024-03-15 11:42:03 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120289-casa-teleconseillers-francophones-en-reception-dappels-primes-deplafonnees-5-casablanca
+2024-03-15 11:42:03 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120288-casa-conseillers-francophones-en-assurances-reception-dappels-13-casablanca
+2024-03-15 11:42:10 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:42:10 - INFO - Encoding detected: UTF-8
+2024-03-15 11:42:10 - INFO - The offer page number [8] was fetched successfully
+2024-03-15 11:42:11 - INFO - job title of the offer:  CASA - CONSEILLERS FRANCOPHONES EN ASSURANCES - RÉCEPTION D'APPELS
+2024-03-15 11:42:11 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:42:11 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:42:11 - INFO - Date of the offer : 20 heures avant
+2024-03-15 11:42:11 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:42:11 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:42:11 - INFO - Profile of the offer: Profil recherché: Une expérience en relation client par téléphone est exigée, idéalement dans l’environnement des mutuelles et assurances. Une grande autonomie est demandée, Sens de l’écoute, pro-activité et esprit d’analyse, Aisance relationnelle et pédagogie, Organisation, patience et rigueur, Bonnes capacités rédactionnelles, Esprit d’équipe et attitude positive. Nous offrons les avantages suivants : - Salaire fixe + Primes mensuelles déplafonnées. - CNSS + Mutuelle privée. - Transport gratuit assuré. - Heures supplémentaires rémunérées. - Embauche immédiate. Stabilité de l’emploi. - Horaires : entre 08H et 20H du lundi au samedi / 2 jours off par semaine. Nous vous rappelons que nos prestations sont GRATUITES et AUCUNE formation ne vous sera proposée. Nos recruteurs sont à votre écoute et vous fournirons gratuitement toutes les informations que vous jugerez utiles concernant votre demande d'emploi Envoyez votre CV à recrutement@jobdeveloppement.net Tél. 06 68 74 22 84.
+2024-03-15 11:42:11 - INFO - Missions information: Nous recrutons des chargés de clientèle en réception d’appel avec rebond commercial. Votre rôle consiste à : Prendre en charge les demandes d’information ou de renseignements ; Gérer les demandes de réclamation des clients ; Proposer les solutions adaptées à ses interlocuteurs dans un délai raisonnable ;
+2024-03-15 11:42:11 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:42:11 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:42:11 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:42:11 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:42:11 - INFO - Education level:  BAC+2 
+2024-03-15 11:42:11 - INFO - languages_level:  Français 
+2024-03-15 11:42:11 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120288-casa-conseillers-francophones-en-assurances-reception-dappels-13-casablanca
+2024-03-15 11:42:11 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120286-marrakech-charges-de-clientele-en-langue-allemande-reception-dappels-6-marrakech
+2024-03-15 11:42:18 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:42:18 - INFO - Encoding detected: UTF-8
+2024-03-15 11:42:18 - INFO - The offer page number [9] was fetched successfully
+2024-03-15 11:42:18 - INFO - job title of the offer:  MARRAKECH - CHARGES DE CLIENTÈLE EN LANGUE ALLEMANDE - RECEPTION D'APPELS
+2024-03-15 11:42:18 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:42:18 - INFO - Location of the offer:  Marrakech 
+2024-03-15 11:42:18 - INFO - Date of the offer : 21 heures avant
+2024-03-15 11:42:18 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:42:18 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:42:18 - INFO - Profile of the offer: Bac +2/4 préférence commercial, marketing ou technique. Maîtrise parfaite de la langue allemande + un niveau de français passable. Connaissance de l'outil informatique obligatoire. Offrons: Salaire fixe + primes mensuelles. Heures supplémentaires rémunérées. Couverture sociale intégrale CNSS, mutuelle privée. Transport assuré. Plan de carrière, évolution tous les 6 mois par formation continue en interne afin d'atteindre des postes d'encadrement. Nos recruteurs sont à votre écoute et vous fournirons gratuitement toutes les informations que vous jugerez utiles concernant votre demande d'emploi Envoyez votre CV: recrutement@jobdeveloppement.net Tél.0661476387
+2024-03-15 11:42:18 - INFO - Missions information: Dans le cadre de son développement et la diversification de ses offres, un de nos clients recrute pour le compte d’un de ses partenaires des conseillers clients germanophones, flamands ou néerlandais. Travail stable et cadre agréable. Candidats sans expérience acceptés. Formation de haut niveau assurée. 
+2024-03-15 11:42:18 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:42:18 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:42:18 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:42:18 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:42:18 - INFO - Education level:  BAC+2 
+2024-03-15 11:42:18 - INFO - languages_level:  Allemand 
+2024-03-15 11:42:18 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120286-marrakech-charges-de-clientele-en-langue-allemande-reception-dappels-6-marrakech
+2024-03-15 11:42:18 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120285-casa-conseiller-client-francophone-service-apres-vente-automobile-7-casablanca
+2024-03-15 11:42:26 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:42:26 - INFO - Encoding detected: UTF-8
+2024-03-15 11:42:26 - INFO - The offer page number [10] was fetched successfully
+2024-03-15 11:42:26 - INFO - job title of the offer:  Casa - Conseiller Client Francophone Service Après-Vente Automobile
+2024-03-15 11:42:26 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:42:26 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:42:26 - INFO - Date of the offer : 21 heures avant
+2024-03-15 11:42:26 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:42:26 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:42:26 - INFO - Profile of the offer: PROFIL RECHERCHE Français excellent, BAC toutes branches et plus, Mâtures et sérieux, Motivé par un plan de carrière vous évoluerez dans une entreprise qui offre de véritables opportunités. Nous offrons les avantages suivants : * Salaire net de 4500dhs + primes de production * Horaires 8H-18H ou 9H-19H + week-end off, * CNSS + Mutuelle privée, * Heures supplémentaires rémunérées, * Formation initiale rémunérée à 100%, * Challenges internes avec des lots à gagner, * Transport assuré. Envoyez votre CV à: recrutement@jobdeveloppement.net Tél.06 68 74 22 84. WhatsApp 06 68 74 22 84. 
+2024-03-15 11:42:26 - INFO - Missions information: Nous recrutons des chargés de clientèle en réception d’appels pour le service client D’UN GROUPE AUTOMOBILE INTERNATIONAL, afin de conseiller, assister et apporter des solutions à ses clients.
+2024-03-15 11:42:26 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:42:26 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:42:26 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:42:26 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:42:26 - INFO - Education level:  BAC+2 
+2024-03-15 11:42:26 - INFO - languages_level:  Français 
+2024-03-15 11:42:26 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120285-casa-conseiller-client-francophone-service-apres-vente-automobile-7-casablanca
+2024-03-15 11:42:26 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120284-casa-assurance-francophone-en-reception-dappels-gestion-des-dossiers-de-sinistres-casablanca
+2024-03-15 11:42:34 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:42:34 - INFO - Encoding detected: UTF-8
+2024-03-15 11:42:34 - INFO - The offer page number [11] was fetched successfully
+2024-03-15 11:42:34 - INFO - job title of the offer:  CASA - ASSURANCE FRANCOPHONE EN RECEPTION D'APPELS: GESTION DES DOSSIERS DE SINISTRES
+2024-03-15 11:42:34 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:42:34 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:42:34 - INFO - Date of the offer : 21 heures avant
+2024-03-15 11:42:34 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:42:34 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:42:34 - INFO - Profile of the offer: Profil recherché: Une expérience en relation client par téléphone est exigée, idéalement dans l’environnement des mutuelles et assurances. Une grande autonomie est demandée, Sens de l’écoute, pro-activité et esprit d’analyse, Aisance relationnelle et pédagogie, Organisation, patience et rigueur, Bonnes capacités rédactionnelles, Esprit d’équipe et attitude positive. Nous offrons les avantages suivants : - Salaire fixe + Primes mensuelles déplafonnées. - CNSS + Mutuelle privée. - Transport gratuit assuré. - Heures supplémentaires rémunérées. - Embauche immédiate. Stabilité de l’emploi. - Horaires : entre 08H et 20H du lundi au samedi / 2 jours off par semaine. Nous vous rappelons que nos prestations sont GRATUITES et AUCUNE formation ne vous sera proposée. Nos recruteurs sont à votre écoute et vous fournirons gratuitement toutes les informations que vous jugerez utiles concernant votre demande d'emploi Envoyez votre CV à recrutement@jobdeveloppement.net Tél. 06 68 74 22 84. 
+2024-03-15 11:42:34 - INFO - Missions information: Nous recrutons des chargés de clientèle en réception d’appel avec rebond commercial. Votre rôle consiste à : Prendre en charge les demandes d’information ou de renseignements ; Gérer les demandes de réclamation des clients ; Proposer les solutions adaptées à ses interlocuteurs dans un délai raisonnable ;
+2024-03-15 11:42:34 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:42:34 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:42:34 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:42:34 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:42:34 - INFO - Education level:  BAC+2 
+2024-03-15 11:42:34 - INFO - languages_level:  Français 
+2024-03-15 11:42:34 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120284-casa-assurance-francophone-en-reception-dappels-gestion-des-dossiers-de-sinistres-casablanca
+2024-03-15 11:42:34 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120283-casa-reception-dappels-francophones-service-client-mobile-a-casanearshore-6-casablanca
+2024-03-15 11:42:41 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:42:41 - INFO - Encoding detected: UTF-8
+2024-03-15 11:42:41 - INFO - The offer page number [12] was fetched successfully
+2024-03-15 11:42:42 - INFO - job title of the offer:  CASA - RÉCEPTION D'APPELS FRANCOPHONES - SERVICE CLIENT MOBILE A CASANEARSHORE
+2024-03-15 11:42:42 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:42:42 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:42:42 - INFO - Date of the offer : 21 heures avant
+2024-03-15 11:42:42 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:42:42 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:42:42 - INFO - Profile of the offer: PROFIL RECHERCHE Français excellent, BAC toutes branches et plus, Mâtures et sérieux, avec de bonnes connaissances en téléphonie mobile, Motivé par un plan de carrière vous évoluerez dans une entreprise qui offre de véritables opportunités. Nous offrons les avantages suivants : * Salaire net de 4500,00 DHS + primes mensuelles, * CNSS + Mutuelle privée + CIMR - Transport assuré, * Heures supplémentaires rémunérées, * Tickets restauration, * Formation initiale rémunérée à 100% . * Challenges internes avec des lots à gagner, * Transport assuré, Envoyez votre CV à: recrutement@jobdeveloppement.net Tél.06 68 74 22 84. 
+2024-03-15 11:42:42 - INFO - Missions information: Nous recrutons des chargés de clientèle en réception d’appels pour le service client mobile d'un opérateur français, afin de conseiller, assister et apporter des solutions à ses clients.Nous recrutons des chargés de clientèle en réception d’appels pour le service client mobile d'un opérateur français, afin de conseiller, assister et apporter des solutions à ses clients.
+2024-03-15 11:42:42 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:42:42 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:42:42 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:42:42 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:42:42 - INFO - Education level:  BAC+2 
+2024-03-15 11:42:42 - INFO - languages_level:  Français 
+2024-03-15 11:42:42 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120283-casa-reception-dappels-francophones-service-client-mobile-a-casanearshore-6-casablanca
+2024-03-15 11:42:42 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120278-marrakech-charges-de-clientele-germanophone-en-reception-dappels-3-marrakech
+2024-03-15 11:42:49 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:42:49 - INFO - Encoding detected: UTF-8
+2024-03-15 11:42:49 - INFO - The offer page number [13] was fetched successfully
+2024-03-15 11:42:49 - INFO - job title of the offer:  MARRAKECH - CHARGES DE CLIENTELE GERMANOPHONE EN RECEPTION D'APPELS
+2024-03-15 11:42:49 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:42:49 - INFO - Location of the offer:  Marrakech 
+2024-03-15 11:42:49 - INFO - Date of the offer : 23 heures avant
+2024-03-15 11:42:49 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:42:49 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:42:49 - INFO - Profile of the offer: Bac +2/4 préférence commercial, marketing ou technique. Maîtrise parfaite de la langue allemande + un niveau de français passable. Connaissance de l'outil informatique obligatoire. Offrons: Salaire fixe + primes mensuelles. Heures supplémentaires rémunérées. Couverture sociale intégrale CNSS, mutuelle privée. Transport assuré. Plan de carrière, évolution tous les 6 mois par formation continue en interne afin d'atteindre des postes d'encadrement. Nos recruteurs sont à votre écoute et vous fournirons gratuitement toutes les informations que vous jugerez utiles concernant votre demande d'emploi Envoyez votre CV: recrutement@jobdeveloppement.net Tél.0661476387
+2024-03-15 11:42:49 - INFO - Missions information: Dans le cadre de son développement et la diversification de ses offres, un de nos clients recrute pour le compte d’un de ses partenaires des conseillers clients germanophones, flamands ou néerlandais. Travail stable et cadre agréable. Candidats sans expérience acceptés. Formation de haut niveau assurée. 
+2024-03-15 11:42:49 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:42:49 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:42:49 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:42:49 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:42:49 - INFO - Education level:  BAC+2 
+2024-03-15 11:42:49 - INFO - languages_level:  Allemand 
+2024-03-15 11:42:49 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120278-marrakech-charges-de-clientele-germanophone-en-reception-dappels-3-marrakech
+2024-03-15 11:42:49 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120277-casablanca-4500-dhs-primes-assurance-francophone-en-reception-dappels-15-casablanca
+2024-03-15 11:42:57 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:42:57 - INFO - Encoding detected: UTF-8
+2024-03-15 11:42:57 - INFO - The offer page number [14] was fetched successfully
+2024-03-15 11:42:57 - INFO - job title of the offer:  CASABLANCA - 4500 DHS + PRIMES - ASSURANCE FRANCOPHONE EN RÉCEPTION D'APPELS
+2024-03-15 11:42:57 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:42:57 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:42:57 - INFO - Date of the offer : 23 heures avant
+2024-03-15 11:42:57 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:42:57 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:42:57 - INFO - Profile of the offer: Profil recherché: Une expérience en relation client par téléphone est exigée, idéalement dans l’environnement des mutuelles et assurances. Une grande autonomie est demandée, Sens de l’écoute, pro-activité et esprit d’analyse, Aisance relationnelle et pédagogie, Organisation, patience et rigueur, Bonnes capacités rédactionnelles, Esprit d’équipe et attitude positive. Nous offrons les avantages suivants : - Salaire fixe + Primes mensuelles déplafonnées. - CNSS + Mutuelle privée. - Transport gratuit assuré. - Heures supplémentaires rémunérées. - Embauche immédiate. Stabilité de l’emploi. - Horaires : entre 08H et 20H du lundi au samedi / 2 jours off par semaine. Nous vous rappelons que nos prestations sont GRATUITES et AUCUNE formation ne vous sera proposée. Nos recruteurs sont à votre écoute et vous fournirons gratuitement toutes les informations que vous jugerez utiles concernant votre demande d'emploi Envoyez votre CV à recrutement@jobdeveloppement.net Tél. 06 68 74 22 84. 
+2024-03-15 11:42:57 - INFO - Missions information: Nous recrutons des chargés de clientèle en réception d’appel avec rebond commercial. Votre rôle consiste à : Prendre en charge les demandes d’information ou de renseignements ; Gérer les demandes de réclamation des clients ; Proposer les solutions adaptées à ses interlocuteurs dans un délai raisonnable ;
+2024-03-15 11:42:57 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:42:57 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:42:57 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:42:57 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:42:57 - INFO - Education level:  BAC+2 
+2024-03-15 11:42:57 - INFO - languages_level:  Français 
+2024-03-15 11:42:57 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120277-casablanca-4500-dhs-primes-assurance-francophone-en-reception-dappels-15-casablanca
+2024-03-15 11:42:57 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120276-casablanca-reception-dappel-parfaitement-francophone-service-client-17-casablanca
+2024-03-15 11:43:05 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:43:05 - INFO - Encoding detected: UTF-8
+2024-03-15 11:43:05 - INFO - The offer page number [15] was fetched successfully
+2024-03-15 11:43:05 - INFO - job title of the offer:  CASABLANCA - RÉCEPTION D'APPEL PARFAITEMENT FRANCOPHONE- SERVICE CLIENT
+2024-03-15 11:43:05 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:43:05 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:43:05 - INFO - Date of the offer : 23 heures avant
+2024-03-15 11:43:05 - INFO - Company name of the offer: Société: JOB DEVELOPPEMENT 
+2024-03-15 11:43:05 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:43:05 - INFO - Profile of the offer: Profil recherché pour le poste : Français excellent, BAC toutes branches et plus, Mâtures et sérieux, Bonne maîtrise d'outils informatiques, Motivé par un plan de carrière vous, évoluerez dans une entreprise qui offre de véritables opportunités. Nous offrons les avantages suivants : * Salaire net + primes de production, * CNSS + Mutuelle privée, * transport assuré, * Formation initiale rémunérée à 100%, * Challenges internes avec des lots à gagner, Horaires entre 8H/20H, 2 jours off par semaine. Envoyez votre CV à: recrutement@jobdeveloppement.net Tél.06 68 74 22 84. 
+2024-03-15 11:43:05 - INFO - Missions information: Nous recrutons des chargés de clientèle francophone en réception d’appels pour différentes activités, afin de conseiller, assister et apporter des solutions aux clients. 
+2024-03-15 11:43:05 - INFO - Recruiter information : Recrutement Centre d'appel et autres
+2024-03-15 11:43:05 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:43:05 - INFO - Métier(s)  of the offer:  Métiers des centres d'appels 
+2024-03-15 11:43:05 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:43:05 - INFO - Education level:  BAC+2 
+2024-03-15 11:43:05 - INFO - languages_level:  Français 
+2024-03-15 11:43:05 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120276-casablanca-reception-dappel-parfaitement-francophone-service-client-17-casablanca
+2024-03-15 11:43:05 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120275-expert-en-assurances-rc-decennale-mrp-rc-pro-primes-allant-jusqua-30000dh-rabat
+2024-03-15 11:43:15 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:43:15 - INFO - Encoding detected: UTF-8
+2024-03-15 11:43:15 - INFO - The offer page number [16] was fetched successfully
+2024-03-15 11:43:15 - INFO - job title of the offer:  EXPERT EN ASSURANCES RC DÉCENNALE / MRP / RC PRO Primes allant jusqu’à 30.000DH
+2024-03-15 11:43:15 - INFO - Secteur(s) d'activité of the offer: BTP / Construction / Génie civil / Centres d'appels
+2024-03-15 11:43:15 - INFO - Location of the offer:  Rabat / Salé / Kenitra / Temara / Mohammedia 
+2024-03-15 11:43:15 - INFO - Date of the offer : 23 heures avant
+2024-03-15 11:43:15 - INFO - Company name of the offer: Société: CELYINS Assurances 
+2024-03-15 11:43:15 - INFO - Contract type of the offer:  CDI / CDD / Free Lance 
+2024-03-15 11:43:15 - INFO - Profile of the offer: - Un contrat CDI avec Salaire de 6000dh à 7000DH + Primes déplafonnées pouvant aller jusqu’à 30.000DH (Pourcentage sur le Chiffre d’affaire réalisé) - CNSS Dès le 1er jour de production - Une bonne couverture sociale ( Mutuelle complémentaire santé à partir du 6éme mois) - Formation continue assurée - Fort potentiel d'évolution en interne Envoyez vos demande de candidature accompagnée de votre CV à jours, Type d'emploi : Temps plein, CDI 
+2024-03-15 11:43:15 - INFO - Missions information: –EXPERT en assurance DECENNALE / DO / MRP / RC PRO , avec une expérience commerciale réussie de deux ans minimum. –La commercialisation de contrats d’assurances IARD pour des clients entreprises en France. –Comparer, conseiller et orienter les clients vers la solution la plus adaptée à leurs besoins. –Respecter la politique de diversification des offres en fonction des attentes des clients. –Négocier et suivre les ventes jusqu’à la réception des contrats. –Garantir la qualité de la prestation à son plus haut niveau.
+2024-03-15 11:43:15 - INFO - Recruiter information : Courtier Spécialisé en risques professionnels, CELYINS Assurances, Succursale d'un grand groupe d'assurance français, recrute des conseiller(ère)s Expert(e)s en Assurance RC décennale, Dommage Ouvrage, MRP et RC Pro – Vous êtes EXPERT en assurance Constrcution ou RC Pro, avec une expérience commerciale réussie de deux ans au minimum; – vous avez une très bonne maîtrise de la langue Française; – Vous êtes reconnu(e) pour votre bon sens relationnel; – Vous avez l’esprit du challenge Ce poste est fait pour vous. N’attendez plus postulez dès maintenant.
+2024-03-15 11:43:15 - INFO - Salary of the offer:  CDI / CDD / Free Lance 
+2024-03-15 11:43:15 - INFO - Métier(s)  of the offer:  Banque / Assurance / BTP / Extraction / Métiers des centres d'appels / RH / Recrutement / Formation 
+2024-03-15 11:43:15 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) / Junior (de 3 à 5 ans) / Senior (de 5 à 7 ans) / Confirmé (de 7 à 10 ans) 
+2024-03-15 11:43:15 - INFO - Education level:  BAC+2 / BAC+3 / BAC+4 / BAC+5 et plus 
+2024-03-15 11:43:15 - INFO - languages_level:  Français 
+2024-03-15 11:43:15 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120275-expert-en-assurances-rc-decennale-mrp-rc-pro-primes-allant-jusqua-30000dh-rabat
+2024-03-15 11:43:15 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120274-consultante-business-developpeur-en-assurances-a-mohammedia-120-casablanca
+2024-03-15 11:43:24 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:43:24 - INFO - Encoding detected: UTF-8
+2024-03-15 11:43:24 - INFO - The offer page number [17] was fetched successfully
+2024-03-15 11:43:24 - INFO - job title of the offer:  Consultant.e Business developpeur en Assurances à Mohammedia :
+2024-03-15 11:43:24 - INFO - Secteur(s) d'activité of the offer: Centres d'appels
+2024-03-15 11:43:24 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:43:24 - INFO - Date of the offer : 23 heures avant
+2024-03-15 11:43:24 - INFO - Company name of the offer: Société: HNBC GROUPE SUCCURSALE 
+2024-03-15 11:43:24 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:43:24 - INFO - Profile of the offer: Poste à occuper Recrutement! Nous sommes à la recherche d'un(e) commercial(e) talentueux(se) en assurance pour rejoindre notre équipe. Avantages : CDI avec des horaires du Lundi au Vendredi de 9:00 à 18:30 et des weekends off Jours de l'Aid inclus Mutuelle, Chèques cadeaux et primes pour les fêtes de l'Aïd Fittre et Adha Salaires : Salaire à partir de 6 000 Dhs, pouvant aller jusqu'à x 3 par mois en fonction de l'expérience passée et du CA réalisé. Poste à occuper Recrutement! Nous sommes à la recherche d'un(e) commercial(e) talentueux(se) en assurance pour rejoindre notre équipe. Avantages : CDI avec des horaires du Lundi au Vendredi de 9:00 à 18:30 et des weekends off Jours de l'Aid inclus Mutuelle, Chèques cadeaux et primes pour les fêtes de l'Aïd Fittre et Adha Salaires : Salaire à partir de 6 000 Dhs, pouvant aller jusqu'à x 3 par mois en fonction de l'expérience passée et du CA réalisé. Poste à occuper Recrutement! Nous sommes à la recherche d'un(e) commercial(e) talentueux(se) en assurance pour rejoindre notre équipe. Avantages : CDI avec des horaires du Lundi au Vendredi de 9:00 à 18:30 et des weekends off Jours de l'Aid inclus Mutuelle, Chèques cadeaux et primes pour les fêtes de l'Aïd Fittre et Adha Salaires : Salaire à partir de 6 000 Dhs, pouvant aller jusqu'à x 3 par mois en fonction de l'expérience passée et du CA réalisé.
+2024-03-15 11:43:24 - INFO - Missions information: Profil recherché ⭐ Tu es la personne idéale si… Tu es prêt(e) à te surpasser pour conquérir de nouveaux clients Tu maîtrises les outils digitaux aisément Tes maîtres mots sont : la rigueur et l'autonomie Tu te reconnais dans ces phrases et tu souhaites faire partie de cette belle aventure ? Alors envoie-nous ton CV ! Exigences linguistiques flexibles : Excellent Français requis
+2024-03-15 11:43:24 - INFO - Recruiter information : HNBC est un groupe de courtage spécialisé en assurances de personnes : Complémentaire santé - Prévoyance - Retraite - Obsèques, son rôle est de sélectionner pour ses clients la solution la mieux adaptée en comparant plusieurs sociétés d'assurances, Hnbc Assurances travaille en partenariat avec des enseignes prestigieuses, afin de répondre aux exigences de nos clients.
+2024-03-15 11:43:24 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:43:24 - INFO - Métier(s)  of the offer:  Banque / Assurance / Conseil / Consulting / Santé / Professions médicales / Télécoms / Réseaux 
+2024-03-15 11:43:24 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:43:24 - WARNING - education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:43:24 - INFO - languages_level:  Français 
+2024-03-15 11:43:24 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120274-consultante-business-developpeur-en-assurances-a-mohammedia-120-casablanca
+2024-03-15 11:43:24 - INFO - URL never scraped: https://www.m-job.ma/offres-emploi/120273-teleconseillere-commerciale-specialistes-assurances-energies-renouvelables-telephonie-mobile-mohamedia-136-casablanca
+2024-03-15 11:43:30 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:43:30 - INFO - Encoding detected: UTF-8
+2024-03-15 11:43:30 - INFO - The offer page number [18] was fetched successfully
+2024-03-15 11:43:30 - INFO - job title of the offer:  TÉLÉCONSEILLER.E – COMMERCIAL.E - SPÉCIALISTES ( ASSURANCES, ENERGIES RENOUVELABLES, TÉLÉPHONIE MOBILE …) MOHAMEDIA
+2024-03-15 11:43:30 - INFO - Secteur(s) d'activité of the offer: Centres d'appels / Conseil / Consulting / Santé / Télécommunications
+2024-03-15 11:43:30 - INFO - Location of the offer:  Casablanca 
+2024-03-15 11:43:30 - INFO - Date of the offer : 23 heures avant
+2024-03-15 11:43:30 - INFO - Company name of the offer: Société: ASSURISMO GROUP 
+2024-03-15 11:43:30 - INFO - Contract type of the offer:  CDI 
+2024-03-15 11:43:30 - INFO - Profile of the offer: Profil recherché : Ton rôle si tu l’acceptes Tu trouveras les meilleures portes d’entrée pour avoir des rendez-vous. Tu créeras ton riche portefeuille clients. Tu feras un réel travail d’investigation pour trouver les bonnes informations commerciales. Tu es la personne idéale si… ⭐ Tu es prêt(e) à te surpasser pour conquérir de nouveaux clients. Tu maitrises les outils digitaux aisément. Tes maitres mots sont : la rigueur et l’autonomie. Tu te reconnais dans ces phrases et tu souhaites faire partie de cette belle aventure ? Alors envoie-nous ton CV !+--
+2024-03-15 11:43:30 - INFO - Missions information: Tu es la personne idéale si… ⭐ Tu es prêt(e) à te surpasser pour conquérir de nouveaux clients. Tu maitrises les outils digitaux aisément. Tes maitres mots sont : la rigueur et l’autonomie. Tu te reconnais dans ces phrases et tu souhaites faire partie de cette belle aventure ? Alors envoie-nous ton CV !+--
+2024-03-15 11:43:30 - INFO - Recruiter information : Courtier spécialisé en assurances de personnes depuis plus de 15 ans, Nous sommes bien plus qu’un espace de travail. Nous sommes votre prochaine TEAM. Vous recherchez un emploi qui vous passionne et vous apporte une réelle satisfaction professionnelle ? Vous êtes au bon endroit ! Nous mettons tout en œuvre pour vous faciliter la recherche d'emploi et vous offrir un environnement de travail qui vous comblera. Découvrez dès maintenant les offres d'emploi qui pourraient changer votre vie professionnelle avec nous." Exerçant dans les assurances de personnes, notre rôle est de sélectionner pour nos clients la solution la mieux adaptée en comparant les offres de sociétés d'assurances les plus prestigieuses en Europe. Notre société familiale s'est implantée au maroc en succursale afin de défendre et servir les intérêts de nos clients et apporter le meilleur de l’assurance : c’est ainsi que, chez ASSURISMO Group, nous définissons notre métier.
+2024-03-15 11:43:30 - INFO - Salary of the offer:  CDI 
+2024-03-15 11:43:30 - INFO - Métier(s)  of the offer:  Banque / Assurance / Conseil / Consulting / Santé / Professions médicales 
+2024-03-15 11:43:30 - INFO - Niveau d'expériences requis ::  Débutant (de 1 à 3 ans) 
+2024-03-15 11:43:30 - WARNING - education level of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:43:30 - INFO - languages_level:  Français 
+2024-03-15 11:43:30 - INFO - Added new URL to cache: https://www.m-job.ma/offres-emploi/120273-teleconseillere-commerciale-specialistes-assurances-energies-renouvelables-telephonie-mobile-mohamedia-136-casablanca
+2024-03-15 11:43:30 - INFO - URL already scraped: https://www.m-job.ma/offres-emploi/120270-teleconseillers-debutants-28-rabat
+2024-03-15 11:43:31 - INFO - the page was scraped
+2024-03-15 11:43:31 - INFO - The End of scraping prossece
+2024-03-15 11:43:35 - INFO - Strat history saving
+2024-03-15 11:43:35 - INFO - END of history saving
+2024-03-15 11:43:37 - INFO - start saving data to /tmp/scraping/data/raw/daily/Mjob/Mjob-2024-03-15.csv
+2024-03-15 11:43:37 - INFO - THE END of saving data to /tmp/scraping/data/raw/daily/Mjob/Mjob-2024-03-15.csv
+2024-03-15 11:43:37 - INFO - start saving data to /tmp/scraping/data/parquet/daily/Mjob/Mjob-2024-03-15.csv
+2024-03-15 11:43:41 - INFO - THE END of saving data to /tmp/scraping/data/parquet/daily/Mjob/Mjob-2024-03-15.csv
++---+--------------------+--------------------+--------------------+-------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
+|   |              Postes|  Secteur d'activité|           Locations|Date de publication|            Societes|            Contrats|             Profils|            Missions| Details entreprises|             Salaire|             Metiers| Niveau d'expérience|     Niveau d'études|     Langues exigées|
++---+--------------------+--------------------+--------------------+-------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
+|  0|       INFORMATICIEN| Grande distribution|         Casablanca |    18 heures avant|Société: STE ANON...|                CDI |Nous cherchons po...|       INFORMATICIEN|Nous sommes une s...|                CDI | Commerce / Distr...| Confirmé (de 7 à...|              BAC+4 |           Français |
+|  1| CONSSEILLERS EN ...|    Centres d'appels|              Rabat |    18 heures avant| Société: Achmitech |                CDI | Expérience préal...| Évaluer les risq...|Acteur reconnu de...|                CDI | Banque / Assurance | Débutant (de 1 à...|              BAC+2 |           Français |
+|  2|       DATA ENGINEER|Informatique / In...|             Tanger |    18 heures avant| Société: ADS GLORY |                CDI |ADS GLORY recrute...|Qualifications re...|Nous somme une so...|                CDI | Informatique / I...| Débutant (de 1 à...|              BAC+4 |           Français |
+|  3|   Ingénieur Qualité| Industries (autres)|         Casablanca |    18 heures avant|Société: SMART PR...|                CDI |Profil recherché:...|Les principales m...|Smart Progress es...|                CDI | Qualité / Sécuri...| Débutant (de 1 à...| BAC+4 / BAC+5 et...|   Arabe / Français |
+|  4| MARRAKECH - CHAR...|    Centres d'appels|          Marrakech |    18 heures avant|  Société: E-MEDIAS |                CDI |Bac +2/4 préféren...|Dans le cadre de ...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+3 |           Allemand |
+|  5| Recherche d’un r...|Tourisme / Hôtell...|         Mohammedia |    18 heures avant|Société: Hotel sa...|                CDI |         Hôtellerie |  Chef d'embergement|Hotel sabah , pre...|                CDI | Tourisme / Hôtel...|        non spécifié|        non spécifié| Arabe / Français...|
+|  6| MARRAKECH - CHAR...|    Centres d'appels|          Marrakech |    20 heures avant|Société: JOB DEVE...|                CDI |Bac +2/4 préféren...|Dans le cadre de ...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Allemand |
+|  7| CASA – TELECONSE...|    Centres d'appels|         Casablanca |    20 heures avant|Société: JOB DEVE...|                CDI |PROFILS RECHERCHE...|Après une formati...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Français |
+|  8| CASA - CONSEILLE...|    Centres d'appels|         Casablanca |    20 heures avant|Société: JOB DEVE...|                CDI |Profil recherché:...|Nous recrutons de...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Français |
+|  9| MARRAKECH - CHAR...|    Centres d'appels|          Marrakech |    21 heures avant|Société: JOB DEVE...|                CDI |Bac +2/4 préféren...|Dans le cadre de ...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Allemand |
+| 10| Casa - Conseille...|    Centres d'appels|         Casablanca |    21 heures avant|Société: JOB DEVE...|                CDI |PROFIL RECHERCHE ...|Nous recrutons de...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Français |
+| 11| CASA - ASSURANCE...|    Centres d'appels|         Casablanca |    21 heures avant|Société: JOB DEVE...|                CDI |Profil recherché:...|Nous recrutons de...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Français |
+| 12| CASA - RÉCEPTION...|    Centres d'appels|         Casablanca |    21 heures avant|Société: JOB DEVE...|                CDI |PROFIL RECHERCHE ...|Nous recrutons de...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Français |
+| 13| MARRAKECH - CHAR...|    Centres d'appels|          Marrakech |    23 heures avant|Société: JOB DEVE...|                CDI |Bac +2/4 préféren...|Dans le cadre de ...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Allemand |
+| 14| CASABLANCA - 450...|    Centres d'appels|         Casablanca |    23 heures avant|Société: JOB DEVE...|                CDI |Profil recherché:...|Nous recrutons de...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Français |
+| 15| CASABLANCA - RÉC...|    Centres d'appels|         Casablanca |    23 heures avant|Société: JOB DEVE...|                CDI |Profil recherché ...|Nous recrutons de...|Recrutement Centr...|                CDI | Métiers des cent...| Débutant (de 1 à...|              BAC+2 |           Français |
+| 16| EXPERT EN ASSURA...|BTP / Constructio...| Rabat / Salé / K...|    23 heures avant|Société: CELYINS ...| CDI / CDD / Free...|- Un contrat CDI ...|–EXPERT en assura...|Courtier Spéciali...| CDI / CDD / Free...| Banque / Assuran...| Débutant (de 1 à...| BAC+2 / BAC+3 / ...|           Français |
+| 17| Consultant.e Bus...|    Centres d'appels|         Casablanca |    23 heures avant|Société: HNBC GRO...|                CDI |Poste à occuper R...|Profil recherché ...|HNBC est un group...|                CDI | Banque / Assuran...| Débutant (de 1 à...|        non spécifié|           Français |
+| 18| TÉLÉCONSEILLER.E...|Centres d'appels ...|         Casablanca |    23 heures avant|Société: ASSURISM...|                CDI |Profil recherché ...|Tu es la personne...|Courtier spéciali...|                CDI | Banque / Assuran...| Débutant (de 1 à...|        non spécifié|           Français |
++---+--------------------+--------------------+--------------------+-------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+
+

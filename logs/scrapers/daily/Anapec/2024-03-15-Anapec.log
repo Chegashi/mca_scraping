@@ -1,0 +1,297 @@
+2024-03-15 11:36:32 - INFO - start scraping
+2024-03-15 11:36:39 - INFO - start scraping all the pages
+2024-03-15 11:36:39 - INFO - start scraping the page http://anapec.org/sigec-app-rv/chercheurs/resultat_recherche/page:1/tout:all/language:fr
+2024-03-15 11:36:40 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:40 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:40 - INFO - The page was fetched successfully.
+2024-03-15 11:36:40 - INFO - Found 15 offer(s) to process.
+2024-03-15 11:36:40 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911366/resultat_recherche
+2024-03-15 11:36:41 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:41 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:41 - INFO - The offer page number [0] was fetched successfully
+2024-03-15 11:36:41 - INFO - poste title of the offer: SecrÃ©taire bureautique polyvalent
+2024-03-15 11:36:41 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:41 - INFO - number of poste of the offer: 1
+2024-03-15 11:36:41 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:41 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:41 - INFO - Lieu de travail :   OUARZAZATE 
+2024-03-15 11:36:41 - INFO - type de contrat   CDI
+2024-03-15 11:36:41 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:41 - INFO - Formation :   Technicien spÃ©cialisÃ© ,Gestion des entreprises 
+2024-03-15 11:36:41 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:41 - INFO - Langues :  Arabe : Langue maternelle, Francais : Bon, Anglais : Moyen
+2024-03-15 11:36:41 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:41 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911366/resultat_recherche
+2024-03-15 11:36:41 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911425/resultat_recherche
+2024-03-15 11:36:43 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:43 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:43 - INFO - The offer page number [1] was fetched successfully
+2024-03-15 11:36:43 - INFO - poste title of the offer: Comptable
+2024-03-15 11:36:43 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:43 - INFO - number of poste of the offer: 3
+2024-03-15 11:36:43 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:43 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:43 - INFO - Lieu de travail :   LAAYOUNE 
+2024-03-15 11:36:43 - INFO - type de contrat   CDD
+2024-03-15 11:36:43 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:43 - INFO - Formation :   Technicien spÃ©cialisÃ©
+2024-03-15 11:36:43 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:43 - INFO - Langues :  Arabe : Langue maternelle, Francais : Bon
+2024-03-15 11:36:43 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:43 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911425/resultat_recherche
+2024-03-15 11:36:43 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911430/resultat_recherche
+2024-03-15 11:36:43 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:43 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:43 - INFO - The offer page number [2] was fetched successfully
+2024-03-15 11:36:43 - INFO - poste title of the offer: TÃ©lÃ©conseiller
+2024-03-15 11:36:44 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - number of poste of the offer: 4
+2024-03-15 11:36:44 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:44 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - Lieu de travail :   AGADIR
+2024-03-15 11:36:44 - INFO - type de contrat   CDI
+2024-03-15 11:36:44 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - Formation :   BaccalaurÃ©at
+2024-03-15 11:36:44 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - WARNING - Langues:   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911430/resultat_recherche
+2024-03-15 11:36:44 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911449/resultat_recherche
+2024-03-15 11:36:44 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:44 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:44 - INFO - The offer page number [3] was fetched successfully
+2024-03-15 11:36:44 - INFO - poste title of the offer: SecrÃ©taire de direction
+2024-03-15 11:36:44 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - number of poste of the offer: 1
+2024-03-15 11:36:44 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:44 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - Lieu de travail :   CASA-AIN SEBAA HAY MOHAMEDI
+2024-03-15 11:36:44 - INFO - type de contrat   CI
+2024-03-15 11:36:44 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - Formation :   Bac + 2
+2024-03-15 11:36:44 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - Langues :  Francais : Courant
+2024-03-15 11:36:44 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:44 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911449/resultat_recherche
+2024-03-15 11:36:44 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911473/resultat_recherche
+2024-03-15 11:36:45 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:45 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:45 - INFO - The offer page number [4] was fetched successfully
+2024-03-15 11:36:45 - INFO - poste title of the offer: Consultant Fonctionnel
+2024-03-15 11:36:45 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:45 - INFO - number of poste of the offer: 5
+2024-03-15 11:36:45 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:45 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:45 - INFO - Lieu de travail :   CASA-AIN CHOCK HAY HASSANI 
+2024-03-15 11:36:45 - INFO - type de contrat   CI
+2024-03-15 11:36:45 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:45 - WARNING - Formation :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:45 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:45 - WARNING - Langues:   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:45 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:45 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911473/resultat_recherche
+2024-03-15 11:36:45 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911438/resultat_recherche
+2024-03-15 11:36:46 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:46 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:46 - INFO - The offer page number [5] was fetched successfully
+2024-03-15 11:36:46 - INFO - poste title of the offer: Vendeur/Vendeuse
+2024-03-15 11:36:46 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - number of poste of the offer: 6
+2024-03-15 11:36:46 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:46 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - Lieu de travail :   OUARZAZATE 
+2024-03-15 11:36:46 - INFO - type de contrat   CI
+2024-03-15 11:36:46 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - Formation :   BaccalaurÃ©at
+2024-03-15 11:36:46 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - Langues :  Arabe : Langue maternelle, Francais : Bon
+2024-03-15 11:36:46 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911438/resultat_recherche
+2024-03-15 11:36:46 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911465/resultat_recherche
+2024-03-15 11:36:46 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:46 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:46 - INFO - The offer page number [6] was fetched successfully
+2024-03-15 11:36:46 - INFO - poste title of the offer: Agent d'encadrement de maintenance
+2024-03-15 11:36:46 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - number of poste of the offer: 1
+2024-03-15 11:36:46 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:46 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - Lieu de travail :   MEKNES-EL MENZEH
+2024-03-15 11:36:46 - INFO - type de contrat   CDI
+2024-03-15 11:36:46 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - Formation :   IngÃ©nieur
+2024-03-15 11:36:46 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - WARNING - Langues:   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:46 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911465/resultat_recherche
+2024-03-15 11:36:46 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911416/resultat_recherche
+2024-03-15 11:36:47 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:47 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:47 - INFO - The offer page number [7] was fetched successfully
+2024-03-15 11:36:47 - INFO - poste title of the offer: Agent d'accueil
+2024-03-15 11:36:47 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:47 - INFO - number of poste of the offer: 1
+2024-03-15 11:36:47 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:47 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:47 - INFO - Lieu de travail :   OUARZAZATE 
+2024-03-15 11:36:47 - INFO - type de contrat   CI
+2024-03-15 11:36:47 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:47 - INFO - Formation :   Technicien spÃ©cialisÃ© ,ComptabilitÃ© et Gestion 
+2024-03-15 11:36:47 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:47 - INFO - Langues :  Arabe : Langue maternelle, Francais : Courant
+2024-03-15 11:36:47 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:47 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911416/resultat_recherche
+2024-03-15 11:36:47 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911412/resultat_recherche
+2024-03-15 11:36:48 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:48 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:48 - INFO - The offer page number [8] was fetched successfully
+2024-03-15 11:36:48 - INFO - poste title of the offer: Commercial/Commerciale
+2024-03-15 11:36:48 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - number of poste of the offer: 2
+2024-03-15 11:36:48 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:48 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - Lieu de travail :   MARRAKECH GUELIZ-ENNAKHIL
+2024-03-15 11:36:48 - INFO - type de contrat   CDI
+2024-03-15 11:36:48 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - Formation :   BaccalaurÃ©at
+2024-03-15 11:36:48 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - Langues :  Tachelhit : Moyen, Francais : Moyen, Arabe : Bon
+2024-03-15 11:36:48 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911412/resultat_recherche
+2024-03-15 11:36:48 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911383/resultat_recherche
+2024-03-15 11:36:48 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:48 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:48 - INFO - The offer page number [9] was fetched successfully
+2024-03-15 11:36:48 - INFO - poste title of the offer: EmployÃ© polyvalent de restauration 
+2024-03-15 11:36:48 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - number of poste of the offer: 3
+2024-03-15 11:36:48 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:48 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - Lieu de travail :   TANGER-ASSILAH
+2024-03-15 11:36:48 - INFO - type de contrat   CI
+2024-03-15 11:36:48 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - Formation :   DiplÃ´me de qualification professionnelle ,Agent de restauration 
+2024-03-15 11:36:48 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - WARNING - Langues:   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:48 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911383/resultat_recherche
+2024-03-15 11:36:48 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911459/resultat_recherche
+2024-03-15 11:36:49 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:49 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:49 - INFO - The offer page number [10] was fetched successfully
+2024-03-15 11:36:49 - INFO - poste title of the offer: TÃ©lÃ©conseiller
+2024-03-15 11:36:49 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:49 - INFO - number of poste of the offer: 15
+2024-03-15 11:36:49 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:49 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:49 - INFO - Lieu de travail :   KENITRA UNIVERSITAIRE
+2024-03-15 11:36:49 - INFO - type de contrat   CDD
+2024-03-15 11:36:49 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:49 - INFO - Formation :   Bac + 2
+2024-03-15 11:36:49 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:49 - WARNING - Langues:   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:49 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:49 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911459/resultat_recherche
+2024-03-15 11:36:49 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911463/resultat_recherche
+2024-03-15 11:36:50 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:50 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:50 - INFO - The offer page number [11] was fetched successfully
+2024-03-15 11:36:50 - INFO - poste title of the offer: Ajusteur monteur
+2024-03-15 11:36:50 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - number of poste of the offer: 80
+2024-03-15 11:36:50 - INFO - Date of the offer : 15/03/2024
+2024-03-15 11:36:50 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - Lieu de travail :   CASA-NOUACER
+2024-03-15 11:36:50 - INFO - type de contrat   CI
+2024-03-15 11:36:50 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - Formation :   Technicien spÃ©cialisÃ© ,MÃ©thodes en fabrication MÃ©canique 
+2024-03-15 11:36:50 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - Langues :  Francais : Moyen, Anglais : Moyen
+2024-03-15 11:36:50 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911463/resultat_recherche
+2024-03-15 11:36:50 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911303/resultat_recherche
+2024-03-15 11:36:50 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:50 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:50 - INFO - The offer page number [12] was fetched successfully
+2024-03-15 11:36:50 - INFO - poste title of the offer: Enseignant des Ã©coles
+2024-03-15 11:36:50 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - number of poste of the offer: 5
+2024-03-15 11:36:50 - INFO - Date of the offer : 14/03/2024
+2024-03-15 11:36:50 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - Lieu de travail :   MEDIOUNA
+2024-03-15 11:36:50 - INFO - type de contrat   CDI
+2024-03-15 11:36:50 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - WARNING - Formation :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - Langues :  Francais : Bon, Arabe : Bon
+2024-03-15 11:36:50 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:50 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911303/resultat_recherche
+2024-03-15 11:36:50 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911250/resultat_recherche
+2024-03-15 11:36:51 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:51 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:51 - INFO - The offer page number [13] was fetched successfully
+2024-03-15 11:36:51 - INFO - poste title of the offer: EmployÃ© de gestion administrative
+2024-03-15 11:36:51 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - number of poste of the offer: 3
+2024-03-15 11:36:51 - INFO - Date of the offer : 14/03/2024
+2024-03-15 11:36:51 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - Lieu de travail :   MARRAKACH - MENARA
+2024-03-15 11:36:51 - INFO - type de contrat   CI
+2024-03-15 11:36:51 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - Formation :   Technicien spÃ©cialisÃ© ,SecrÃ©tariat de direction 
+2024-03-15 11:36:51 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - Langues :  Francais : Courant, Arabe : Langue maternelle
+2024-03-15 11:36:51 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911250/resultat_recherche
+2024-03-15 11:36:51 - INFO - URL never scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911247/resultat_recherche
+2024-03-15 11:36:51 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:51 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:51 - INFO - The offer page number [14] was fetched successfully
+2024-03-15 11:36:51 - INFO - poste title of the offer: OpÃ©rateur sur machines automatiques en production Ã©lectrique ou Ã©lectronique.
+2024-03-15 11:36:51 - WARNING - Secteur d'activité of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - number of poste of the offer: 100
+2024-03-15 11:36:51 - INFO - Date of the offer : 14/03/2024
+2024-03-15 11:36:51 - WARNING - Date de début  :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - Lieu de travail :   CASA-AIN SEBAA HAY MOHAMEDI
+2024-03-15 11:36:51 - INFO - type de contrat   CI
+2024-03-15 11:36:51 - WARNING - Description du profil :  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - Formation :   Technicien ,Maintenance des machines outils et Autres machines de production automatisÃ©e 
+2024-03-15 11:36:51 - WARNING -  Expérience professionnelle  :   of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - Langues :  Arabe : 
+2024-03-15 11:36:51 - WARNING - Compétences spécifiques ::  of the offer not found. Error: 'NoneType' object has no attribute 'find_next_sibling'
+2024-03-15 11:36:51 - INFO - Added new URL to cache: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911247/resultat_recherche
+2024-03-15 11:36:52 - INFO - the page was scraped
+2024-03-15 11:36:52 - INFO - start scraping the page http://anapec.org/sigec-app-rv/chercheurs/resultat_recherche/page:2/tout:all/language:fr
+2024-03-15 11:36:53 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:36:53 - INFO - Encoding detected: ISO-8859-1
+2024-03-15 11:36:53 - INFO - The page was fetched successfully.
+2024-03-15 11:36:53 - INFO - Found 15 offer(s) to process.
+2024-03-15 11:36:53 - INFO - URL already scraped: http://www.anapec.org/sigec-app-rv/fr/entreprises/bloc_offre_home/911064/resultat_recherche
+2024-03-15 11:36:53 - INFO - the page was scraped
+2024-03-15 11:36:53 - INFO - The End of scraping prossece
+2024-03-15 11:36:57 - INFO - Strat history saving
+2024-03-15 11:37:15 - INFO - END of history saving
+2024-03-15 11:37:17 - INFO - start saving data to /tmp/scraping/data/raw/daily/Anapec/Anapec-2024-03-15.csv
+2024-03-15 11:37:17 - INFO - THE END of saving data to /tmp/scraping/data/raw/daily/Anapec/Anapec-2024-03-15.csv
+2024-03-15 11:37:17 - INFO - start saving data to /tmp/scraping/data/parquet/daily/Anapec/Anapec-2024-03-15.csv
+2024-03-15 11:37:20 - INFO - THE END of saving data to /tmp/scraping/data/parquet/daily/Anapec/Anapec-2024-03-15.csv
++---+--------------------+------------+----------------+----------------+-------------+--------------------+--------+---------------------+--------------------+--------------------------+--------------------+-----------------------+
+|   |              Postes|    Secteurs|nombre de postes|date publication|date de debut|               lieux|contrats|description de profil|          formations|Expérience professionnelle|             langues|competences spécifiques|
++---+--------------------+------------+----------------+----------------+-------------+--------------------+--------+---------------------+--------------------+--------------------------+--------------------+-----------------------+
+|  0|SecrÃ©taire burea...|non spécifié|               1|      15/03/2024| non spécifié|         OUARZAZATE |     CDI|         non spécifié|Technicien spÃ©ci...|              non spécifié|Arabe : Langue ma...|           non spécifié|
+|  1|           Comptable|non spécifié|               3|      15/03/2024| non spécifié|           LAAYOUNE |     CDD|         non spécifié|Technicien spÃ©ci...|              non spécifié|Arabe : Langue ma...|           non spécifié|
+|  2|    TÃ©lÃ©conseiller|non spécifié|               4|      15/03/2024| non spécifié|              AGADIR|     CDI|         non spécifié|       BaccalaurÃ©at|              non spécifié|        non spécifié|           non spécifié|
+|  3|SecrÃ©taire de di...|non spécifié|               1|      15/03/2024| non spécifié| CASA-AIN SEBAA H...|      CI|         non spécifié|             Bac + 2|              non spécifié|  Francais : Courant|           non spécifié|
+|  4|Consultant Foncti...|non spécifié|               5|      15/03/2024| non spécifié| CASA-AIN CHOCK H...|      CI|         non spécifié|        non spécifié|              non spécifié|        non spécifié|           non spécifié|
+|  5|    Vendeur/Vendeuse|non spécifié|               6|      15/03/2024| non spécifié|         OUARZAZATE |      CI|         non spécifié|       BaccalaurÃ©at|              non spécifié|Arabe : Langue ma...|           non spécifié|
+|  6|Agent d'encadreme...|non spécifié|               1|      15/03/2024| non spécifié|    MEKNES-EL MENZEH|     CDI|         non spécifié|          IngÃ©nieur|              non spécifié|        non spécifié|           non spécifié|
+|  7|     Agent d'accueil|non spécifié|               1|      15/03/2024| non spécifié|         OUARZAZATE |      CI|         non spécifié|Technicien spÃ©ci...|              non spécifié|Arabe : Langue ma...|           non spécifié|
+|  8|Commercial/Commer...|non spécifié|               2|      15/03/2024| non spécifié| MARRAKECH GUELIZ...|     CDI|         non spécifié|       BaccalaurÃ©at|              non spécifié|Tachelhit : Moyen...|           non spécifié|
+|  9|EmployÃ© polyvale...|non spécifié|               3|      15/03/2024| non spécifié|      TANGER-ASSILAH|      CI|         non spécifié|DiplÃ´me de quali...|              non spécifié|        non spécifié|           non spécifié|
+| 10|    TÃ©lÃ©conseiller|non spécifié|              15|      15/03/2024| non spécifié| KENITRA UNIVERSI...|     CDD|         non spécifié|             Bac + 2|              non spécifié|        non spécifié|           non spécifié|
+| 11|    Ajusteur monteur|non spécifié|              80|      15/03/2024| non spécifié|        CASA-NOUACER|      CI|         non spécifié|Technicien spÃ©ci...|              non spécifié|Francais : Moyen,...|           non spécifié|
+| 12|Enseignant des Ã©...|non spécifié|               5|      14/03/2024| non spécifié|            MEDIOUNA|     CDI|         non spécifié|        non spécifié|              non spécifié|Francais : Bon, A...|           non spécifié|
+| 13|EmployÃ© de gesti...|non spécifié|               3|      14/03/2024| non spécifié|  MARRAKACH - MENARA|      CI|         non spécifié|Technicien spÃ©ci...|              non spécifié|Francais : Couran...|           non spécifié|
+| 14|OpÃ©rateur sur ma...|non spécifié|             100|      14/03/2024| non spécifié| CASA-AIN SEBAA H...|      CI|         non spécifié|Technicien ,Maint...|              non spécifié|            Arabe : |           non spécifié|
++---+--------------------+------------+----------------+----------------+-------------+--------------------+--------+---------------------+--------------------+--------------------------+--------------------+-----------------------+
+

@@ -1,0 +1,84 @@
+2024-03-15 11:40:27 - INFO - start scraping
+2024-03-15 11:40:33 - INFO - start scraping all the pages
+2024-03-15 11:40:33 - INFO - start scraping the page https://www.rekrute.com/offres.html?p=1
+2024-03-15 11:40:34 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:40:34 - INFO - Encoding detected: UTF-8
+2024-03-15 11:40:34 - INFO - The page was fetched successfully.
+2024-03-15 11:40:34 - INFO - Found 10 offer(s) to process.
+2024-03-15 11:40:34 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-assistante-de-direction-anglophone-recrutement-domino-hr-morocco-casablanca-159722.html
+2024-03-15 11:40:34 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:40:34 - INFO - Encoding detected: UTF-8
+2024-03-15 11:40:34 - INFO - The offer page number [0] was fetched successfully
+2024-03-15 11:40:34 - INFO - Company name of the offer: Domino HR Morocco
+2024-03-15 11:40:34 - INFO - job title of the offer: Assistante de direction anglophone
+2024-03-15 11:40:34 - INFO - Adresses of the offer: 202, Bd Abdelmoumen N°5 Rdc
+2024-03-15 11:40:34 - INFO - Details de poste: Poste :Nous recrutons pour l'un de nos clients, une assistante de direction anglophone. Vous serez responsable de fournir un soutien administratif et organisationnel essentiel à notre équipe de direction. Vous travaillerez en étroite collaboration avec le PDG et d'autres membres de l'équipe de direction pour garantir un fonctionnement efficace du bureau. Les tâches spécifiques incluent la gestion de l'agenda, la coordination des voyages, la préparation de documents et de rapports, la communication avec les clients et les partenaires commerciaux, ainsi que d'autres tâches administratives générales.Responsabilités :Gérer l'agenda du PDG et planifier les réunionsOrganiser les voyages d'affaires, y compris la réservation de vols, d'hôtels et d'autres arrangementsPréparer et éditer des documents, des présentations et des rapportsGérer les communications téléphoniques et électroniques, filtrer les appels et les courrielsCoordonner les événements internes et externesEffectuer des tâches administratives telles que la gestion des fichiers, la tenue des dossiers et la gestion de la correspondance
+2024-03-15 11:40:34 - INFO - date de poste:  Publication : du 15/03/2024 au 15/05/2024 
+2024-03-15 11:40:34 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-15 11:40:34 - INFO - Postes proposés de poste: 1
+2024-03-15 11:40:34 - INFO - Secteur d'activité:  Assistanat de Direction / Services Généraux - Secteur Agroalimentaire 
+2024-03-15 11:40:34 - INFO - fonction_li Assistanat de Direction / Services Généraux
+2024-03-15 11:40:34 - INFO - Expérience requise De 3 à 5 ans                                     - De 5 à 10 ans
+2024-03-15 11:40:34 - INFO - Niveau d’étude demandé  Bac +4 Minimum - Université 
+2024-03-15 11:40:34 - INFO - Type de contrat:  CDI 
+2024-03-15 11:40:34 - INFO - Profil recherché : Profil recherché :Titulaire d'un Bac+3/5 en gestionExcellente maîtrise de l'anglais, à l'écrit comme à l'oral ( L'espagnol est un plus)Expérience antérieure en tant qu'assistante de direction ou dans un rôle administratif similaireFortes compétences organisationnelles et capacité à gérer plusieurs tâches simultanémentExcellentes compétences en communication et en relations interpersonnellesMaîtrise des outils informatiques tels que Microsoft Office (Word, Excel, PowerPoint) et la gestion des calendriers électroniquesCapacité à travailler de manière autonome avec un minimum de supervisionSouci du détail et aptitude à travailler efficacement dans un environnement en évolution rapide
+2024-03-15 11:40:34 - INFO - Entreprise : : Entreprise :DOMINO RHpropose l’ensemble des services RH (intérim, recrutement, conseil, formation, portage, management de transition, évaluation) via ses filiales dédiées. Spécialisé dans chaque domaine du marché (Tertiaire, BTP, logistique, industrie), sa branche médico-sociale est leader national dans le secteur social. Actuellement présent dans 5 pays, son développement international est en forte évolution.La valorisation de chaque personne estla vocation première de DOMINO RH. Au-delà des mots, le groupe encourage les comportements et initiatives permettant d’établir une confiance durable avec les personnes dont il a la charge et l’amélioration constante de ses services.Nos valeurs :Proximité clients et intérimaires • Disponibilité et réactivité • Recherche de solutions innovantes • Esprit de vérité et transparence • Esprit d’équipe et enthousiasme
+2024-03-15 11:40:34 - INFO - Traits de personnalité souhaités : : :  Extraversion Conventionnel Flexibilité Organisation 
+2024-03-15 11:40:34 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-assistante-de-direction-anglophone-recrutement-domino-hr-morocco-casablanca-159722.html
+2024-03-15 11:40:34 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-ingenieur-daffaires-hf-recrutement-dxc-technology-maroc-casablanca-159721.html
+2024-03-15 11:40:35 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:40:35 - INFO - Encoding detected: UTF-8
+2024-03-15 11:40:35 - INFO - The offer page number [1] was fetched successfully
+2024-03-15 11:40:35 - INFO - Company name of the offer: DXC Technology Maroc
+2024-03-15 11:40:35 - INFO - job title of the offer: Ingénieur d'Affaires (H/F)
+2024-03-15 11:40:35 - INFO - Adresses of the offer: Technopolis-Rabatshore , batiment B9 11100 Sala Al Jadida
+2024-03-15 11:40:35 - INFO - Details de poste: Poste :Mission :En tant qu'Ingénieur d'Affaires chez DXC CDG, vous serez responsable du développement commercial du marché marocain et de la gestion des relations clients dans les domaines d’activité de l’entreprise (Hébergement Datacenter, Cloud, Services d’infrastructures, services applicatifs, modern workplace et sécurité). Vous travaillerez en étroite collaboration avec les équipes techniques pour concevoir des solutions adaptées aux besoins des clients et assurer la croissance du portefeuille business.Responsabilités1. Développement Commercial :Prospecter de nouveaux clients et développer des relations durables avec les clients existants ;Piloter les avant ventes en s’appuyant sur les équipes techniques ;Élaborer des offres commerciales compétitives et personnalisées en collaboration avec l’équipe bid management ;Préparer, présenter et défendre les propositions lors des réunions avec les clients ;Participer aux évènements.2. Reporting et Suivi :Établir des rapports périodiques sur l'avancement opportunités commerciales ;Participer à des réunions régulières avec le management pour partager les résultats et discuter des ajustements nécessaires.
+2024-03-15 11:40:35 - INFO - date de poste:  Publication : du 15/03/2024 au 15/05/2024 
+2024-03-15 11:40:35 - INFO - Location de poste:  Casablanca (Maroc) 
+2024-03-15 11:40:35 - INFO - Postes proposés de poste: 1
+2024-03-15 11:40:35 - INFO - Secteur d'activité:  Commercial / Vente / Export - Secteur Informatique 
+2024-03-15 11:40:35 - INFO - fonction_li Commercial / Vente / Export
+2024-03-15 11:40:35 - INFO - Expérience requise De 5 à 10 ans
+2024-03-15 11:40:35 - INFO - Niveau d’étude demandé  Bac +5 et plus Minimum - Ecole de commerce 
+2024-03-15 11:40:35 - INFO - Type de contrat:  CDI 
+2024-03-15 11:40:35 - INFO - Profil recherché : Profil recherché :Formation et Expérience :Niveau de formation : Diplôme Bac+5, de préférence avec une spécialisation dans le domaine des technologies de l’information ;Niveau d’expérience professionnelle : Expérience réussie d’au moins 5 dans le domaine de l’IT, dont 2 ans minimum dans un poste similaire.Compétences Techniques:Connaissances approfondies des technologies de l'information et des services IT ;Connaissances approfondies du marché de l’IT et de l’écosystème digitale au Maroc ;Capacité à identifier et à créer les besoins chez les clients ;Excellentes compétences en négociation ;Maîtrise des outils Excel et PowerPoint.Compétences comportementalesCapacité à travailler de manière autonome et en équipe à la fois ;Excellentes capacités d’écoute, d’analyse et de recul ;Endurance et persévérance.Langues :Excellentes compétences de communication orale et écrite (Français et Anglais).
+2024-03-15 11:40:35 - INFO - Entreprise : : Entreprise :DXC Technologyest née en avril 2017 d'une fusion entre CSC (Computer Sciences Corporation), Géant du Conseil et HP Enterprise Services, Leader en Services IT.Le Groupe DXCenregistre 25 milliards $ de revenus, bénéficie de 60 ans d’expérience et emploie 170.000 collaborateurs dans plus de 70 pays qui servent plus de 6000 clients.DXC Technologyau Maroc, implantée depuis 2007, est une joint-venture entreDXC Technology, leader mondial des services d'intégration & d'infogérance et le Groupe CDG ( Caisse de Dépôt et de Gestion).Avec 1200 collaborateurs répartis sur 2 sites de production (Technopolis & Casa NearShore),DXC Technologyau Maroc a pour vocation d'accompagner les très grands comptes et donneurs d'ordre publics et privés dans leur transformation digitale et d'adresser ainsi l'ensemble des enjeux IT que sont l’Hébergement, l'Infogérance, la Modernisation Applicative, Business Intelligence & Analytics, Workplace & Mobilty Services, Business Process Services, la Cyber Sécurité et le Conseil.
+2024-03-15 11:40:35 - INFO - Traits de personnalité souhaités : : :  Recherche de nouveauté Extraversion Volonté de persuasion Ambition Intuition / Spontanéité 
+2024-03-15 11:40:35 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-ingenieur-daffaires-hf-recrutement-dxc-technology-maroc-casablanca-159721.html
+2024-03-15 11:40:35 - INFO - URL never scraped: https://www.rekrute.com/offre-emploi-dispatcheur-recrutement-confidentiel-tout-le-maroc-159720.html
+2024-03-15 11:40:35 - INFO - Successfully retrieved HTML content. Status code: 200
+2024-03-15 11:40:35 - INFO - Encoding detected: UTF-8
+2024-03-15 11:40:35 - INFO - The offer page number [2] was fetched successfully
+2024-03-15 11:40:35 - INFO - Company name of the offer: Confidential
+2024-03-15 11:40:35 - INFO - job title of the offer: Dispatcheur
+2024-03-15 11:40:35 - WARNING - Adresses of the offer not found. Error: 'NoneType' object has no attribute 'text'
+2024-03-15 11:40:35 - INFO - Details de poste: Poste :• Elaboration et définition des plannings de livraison du dépôt vers les destinataires• Suivi permanent des livraisons et prise en compte des aléas• Edition des bons de livraisons et des différents documents administratifs, et diffusion aux   différents intervenants du dépôt• Appel des transporteurs sous contrat ou en relation ponctuelle avec le dépôt• Traitement des documents de retour de tournée (par informatique ou manuellement)• Accompagnement de la mise en place des nouveaux dispositifs logistiques• Surveillance et contrôle depuis un point central du dispatching des flux de produits• Contrôle des quantités chargées pour chaque véhicule• Effectuer les contrôles et les check List des équipements de chaque véhicule avant son introduction au site.
+2024-03-15 11:40:35 - INFO - date de poste:  Publication : du 15/03/2024 au 15/05/2024 
+2024-03-15 11:40:35 - INFO - Location de poste:  Tout le Maroc (Maroc) 
+2024-03-15 11:40:35 - INFO - Postes proposés de poste: 1
+2024-03-15 11:40:35 - INFO - Secteur d'activité:  Distribution (métiers de la) - Secteur Distribution 
+2024-03-15 11:40:35 - INFO - fonction_li Distribution (métiers de la)
+2024-03-15 11:40:35 - INFO - Expérience requise De 3 à 5 ans
+2024-03-15 11:40:35 - INFO - Niveau d’étude demandé  Bac +3 Minimum - BTS / DUT 
+2024-03-15 11:40:35 - INFO - Type de contrat:  CDI 
+2024-03-15 11:40:35 - INFO - Profil recherché : Profil recherché :• Bonnes connaissances en informatique, circuits pneumatiques et hydrauliques.• Capacités d'analyse et de diagnostic.• Bonne communication.• Maitrise des outils informatiques• Maitrise de la langue française, (l’anglais est un plus).• Maîtriser les règlementations sur les transports de matières dangereuses• Faire face à des situations imprévues aux programmes et proposer des solutions de remplacement• Etablir des contacts efficaces avec des interlocuteurs diversifiés
+2024-03-15 11:40:35 - INFO - Entreprise : : Entreprise :Une grande entreprise commerciale recrute un Dispatcheur
+2024-03-15 11:40:35 - INFO - Traits de personnalité souhaités : : :  Recherche de nouveauté Respect des règles Implication au travail Organisation 
+2024-03-15 11:40:35 - INFO - Added new URL to cache: https://www.rekrute.com/offre-emploi-dispatcheur-recrutement-confidentiel-tout-le-maroc-159720.html
+2024-03-15 11:40:35 - INFO - URL already scraped: https://www.rekrute.com/offre-emploi-dispatcheur-recrutement-confidentiel-tout-le-maroc-158696.html
+2024-03-15 11:40:35 - INFO - the page was scraped
+2024-03-15 11:40:35 - INFO - The End of scraping prossece
+2024-03-15 11:40:47 - INFO - Strat history saving
+2024-03-15 11:40:47 - INFO - END of history saving
+2024-03-15 11:40:48 - INFO - start saving data to /tmp/scraping/data/raw/daily/Reckrute/Reckrute-2024-03-15.csv
+2024-03-15 11:40:48 - INFO - THE END of saving data to /tmp/scraping/data/raw/daily/Reckrute/Reckrute-2024-03-15.csv
+2024-03-15 11:40:48 - INFO - start saving data to /tmp/scraping/data/parquet/daily/Reckrute/Reckrute-2024-03-15.csv
+2024-03-15 11:40:49 - INFO - THE END of saving data to /tmp/scraping/data/parquet/daily/Reckrute/Reckrute-2024-03-15.csv
++---+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+---------------+--------------------+--------------------+--------------------+----------------------+-----------------------+--------------------+------------------------+----------------------+
+|   |            Societés|              Postes|            Adresses|    Details de poste| Date de publication|            Location|Postes proposés|  Secteur d'activité|           Fonctions|  Expérience requise|Niveau d’étude demandé|Type de contrat proposé|    Profil recherché|Decsription d'entreprise|Traits de personnalité|
++---+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+---------------+--------------------+--------------------+--------------------+----------------------+-----------------------+--------------------+------------------------+----------------------+
+|  0|   Domino HR Morocco|Assistante de dir...|202, Bd Abdelmoum...|Poste :Nous recru...| Publication : du...| Casablanca (Maroc) |              1| Assistanat de Di...|Assistanat de Dir...|De 3 à 5 ans - De...|   Bac +4 Minimum -...|                   CDI |Profil recherché ...|    Entreprise :DOMIN...|   Extraversion Con...|
+|  1|DXC Technology Maroc|Ingénieur d'Affai...|Technopolis-Rabat...|Poste :Mission :E...| Publication : du...| Casablanca (Maroc) |              1| Commercial / Ven...|Commercial / Vent...|       De 5 à 10 ans|   Bac +5 et plus M...|                   CDI |Profil recherché ...|    Entreprise :DXC T...|   Recherche de nou...|
+|  2|        Confidential|         Dispatcheur|        non spécifié|Poste :• Elaborat...| Publication : du...| Tout le Maroc (M...|              1| Distribution (mé...|Distribution (mét...|        De 3 à 5 ans|   Bac +3 Minimum -...|                   CDI |Profil recherché ...|    Entreprise :Une g...|   Recherche de nou...|
++---+--------------------+--------------------+--------------------+--------------------+--------------------+--------------------+---------------+--------------------+--------------------+--------------------+----------------------+-----------------------+--------------------+------------------------+----------------------+
+
